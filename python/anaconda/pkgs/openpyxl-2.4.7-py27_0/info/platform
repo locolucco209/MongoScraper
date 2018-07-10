@@ -1,0 +1,12 @@
+platform:  Darwin-13.4.0-x86_64-i386-64bit
+system:    Darwin
+node:      atx-osx109-1.corp.continuum.io
+release:   13.4.0
+version:   Darwin Kernel Version 13.4.0: Mon Jan 11 18:17:34 PST 2016; root:xnu-2422.115.15~1/RELEASE_X86_64
+machine:   x86_64
+processor: i386
+
+$ sw_vers
+ProductName:	Mac OS X
+ProductVersion:	10.9.5
+BuildVersion:	13F1911

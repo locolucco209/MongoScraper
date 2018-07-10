@@ -1,0 +1,11 @@
+pkg: tk-8.5.18
+dist: tk-8.5.18-0
+home: http://www.tcl.tk/
+license: BSD-style
+has_bin: True
+has_lib: False
+has_py: False
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

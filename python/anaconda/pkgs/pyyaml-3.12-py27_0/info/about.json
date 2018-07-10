@@ -1,0 +1,8 @@
+{
+  "description": "PyYAML is a YAML parser and emitter for Python. YAML is a data\nserialization format designed for human readability and interaction with\nscripting languages.\n", 
+  "dev_url": "http://pyyaml.org/browser", 
+  "doc_url": "http://pyyaml.org/", 
+  "home": "http://pyyaml.org/wiki/PyYAML", 
+  "license": "MIT", 
+  "summary": "YAML parser and emitter for Python"
+}

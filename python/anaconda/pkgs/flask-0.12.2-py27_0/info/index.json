@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "click >=2.0", 
+    "itsdangerous >=0.21", 
+    "jinja2 >=2.4", 
+    "python 2.7*", 
+    "werkzeug >=0.7"
+  ], 
+  "license": "BSD", 
+  "name": "flask", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "0.12.2"
+}

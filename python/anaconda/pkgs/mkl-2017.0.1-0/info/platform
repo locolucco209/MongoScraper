@@ -1,0 +1,12 @@
+platform:  Darwin-15.6.0-x86_64-i386-64bit
+system:    Darwin
+node:      0231-ilan
+release:   15.6.0
+version:   Darwin Kernel Version 15.6.0: Thu Sep  1 15:01:16 PDT 2016; root:xnu-3248.60.11~2/RELEASE_X86_64
+machine:   x86_64
+processor: i386
+
+$ sw_vers
+ProductName:	Mac OS X
+ProductVersion:	10.11.6
+BuildVersion:	15G1108

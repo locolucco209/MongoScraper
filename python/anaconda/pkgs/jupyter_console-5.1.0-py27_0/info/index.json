@@ -1,0 +1,18 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "ipykernel", 
+    "ipython", 
+    "jupyter_client", 
+    "prompt_toolkit >=1.0,<2.0", 
+    "pygments", 
+    "python 2.7*"
+  ], 
+  "license": "BSD", 
+  "name": "jupyter_console", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "5.1.0"
+}

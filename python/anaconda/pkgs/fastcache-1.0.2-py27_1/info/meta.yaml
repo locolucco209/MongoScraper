@@ -1,0 +1,34 @@
+# This file created by conda-build 1.20.3+48.g09ddcfe
+# meta.yaml template originally from:
+# /Users/ilan/anaconda/packages/fastcache, last modified Sat May 28 13:56:07 2016
+# ------------------------------------------------
+
+package:
+    name: fastcache
+    version: 1.0.2
+source:
+    fn: fastcache-1.0.2.tar.gz
+    md5: 1c301bedd2be2ae48d9c853ca7719e19
+    url: https://pypi.python.org/packages/source/f/fastcache/fastcache-1.0.2.tar.gz
+build:
+    number: '1'
+requirements:
+    build:
+        - python
+    run:
+        - python
+test:
+    imports:
+        - fastcache
+about:
+    description: 'C implementation of Python 3 functools.lru_cache. Provides speedup
+        of 10-
+
+        30x over standard library.
+
+        '
+    dev_url: https://github.com/pbrady/fastcache
+    doc_url: https://pypi.python.org/pypi/fastcache/1.0.2
+    home: https://github.com/pbrady/fastcache
+    license: MIT
+    summary: C implementation of Python 3 functools.lru_cache

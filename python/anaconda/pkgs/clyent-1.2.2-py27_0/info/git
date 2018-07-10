@@ -1,0 +1,17 @@
+==> git log -n1 <==
+commit b8cc94eccabfde03ef9cd527f1eeb6d69c03eaa6
+Merge: d8a5154 c708266
+Author: Derek Ludwig <derek.s.ludwig@gmail.com>
+Date:   Tue Apr 5 11:09:07 2016 -0700
+
+    Merge pull request #8 from Anaconda-Server/ref/add-colorize-tests
+    
+    Add colorize tests
+
+==> git describe --tags --dirty <==
+1.2.2
+
+==> git status <==
+# Not currently on any branch.
+nothing to commit (working directory clean)
+

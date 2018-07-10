@@ -1,0 +1,29 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_3", 
+  "build_number": 3, 
+  "depends": [
+    "mkl >=11.0", 
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/mkl/__init__.py", 
+    "lib/python2.7/site-packages/mkl/__init__.pyc", 
+    "lib/python2.7/site-packages/mkl/service.so", 
+    "lib/python2.7/site-packages/mkl/test.py", 
+    "lib/python2.7/site-packages/mkl/test.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "3-clause BSD", 
+  "license_family": "BSD", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/mkl-service-1.1.2-py27_3", 
+    "type": "hard-link"
+  }, 
+  "md5": "b5b6c41d085f9b51e21fac8af8711ddb", 
+  "name": "mkl-service", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/mkl-service-1.1.2-py27_3.tar.bz2", 
+  "version": "1.1.2"
+}

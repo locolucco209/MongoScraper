@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "astroid >=1.4.1,<1.5.0", 
+    "isort >=4.2.5", 
+    "python 2.7*", 
+    "six"
+  ], 
+  "license": "GPL", 
+  "license_family": "GPL2", 
+  "name": "pylint", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "1.6.4"
+}

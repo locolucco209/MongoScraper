@@ -1,0 +1,14 @@
+prefix=/opt/anaconda1anaconda2anaconda3
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/qt
+
+
+Name: Qt5 WebEngine
+Description: Qt WebEngine module
+Version: 5.6.2
+Libs: -L${libdir} -lQt5WebEngine 
+Libs.private: -L/opt/anaconda1anaconda2anaconda3/lib -lQt5WebEngineCore -L/opt/anaconda1anaconda2anaconda3/lib -L/opt/anaconda1anaconda2anaconda3/lib -framework DiskArbitration -framework IOKit -L/opt/anaconda1anaconda2anaconda3/lib -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Quick -lQt5Gui -lQt5WebChannel -lQt5Qml -lQt5Network -lQt5Core -lQt5Quick -L/opt/anaconda1anaconda2anaconda3/lib -framework DiskArbitration -framework IOKit -L/opt/anaconda1anaconda2anaconda3/lib -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Gui -lQt5Qml -lQt5Network -lQt5Core -framework OpenGL -framework AGL  
+Cflags: -I${includedir}/QtWebEngine -I${includedir}
+Requires: Qt5Core Qt5Gui Qt5Qml Qt5Quick Qt5WebEngineCore
+

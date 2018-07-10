@@ -1,0 +1,14 @@
+prefix=/opt/anaconda1anaconda2anaconda3
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/qt
+
+
+Name: Qt5 MultimediaWidgets
+Description: Qt MultimediaWidgets module
+Version: 5.6.2
+Libs: -L${libdir} -lQt5MultimediaWidgets 
+Libs.private: -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Multimedia -L/opt/anaconda1anaconda2anaconda3/lib -framework DiskArbitration -framework IOKit -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Widgets -lQt5Gui -lQt5Network -lQt5Core -lQt5OpenGL -L/opt/anaconda1anaconda2anaconda3/lib -framework DiskArbitration -framework IOKit -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Widgets -lQt5Gui -lQt5Core -framework OpenGL -framework AGL  
+Cflags: -I${includedir}/QtMultimediaWidgets -I${includedir}
+Requires: Qt5Core Qt5Gui Qt5Multimedia Qt5Widgets
+

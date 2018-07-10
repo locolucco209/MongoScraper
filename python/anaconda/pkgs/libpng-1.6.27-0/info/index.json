@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [
+    "zlib 1.2.*"
+  ], 
+  "license": "libpng license", 
+  "license_family": "Other", 
+  "name": "libpng", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "1.6.27"
+}

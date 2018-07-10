@@ -1,0 +1,14 @@
+prefix=/opt/anaconda1anaconda2anaconda3
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/qt
+
+
+Name: Qt5 WebSockets
+Description: Qt WebSockets module
+Version: 5.6.2
+Libs: -L${libdir} -lQt5WebSockets 
+Libs.private: -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Network -framework DiskArbitration -framework IOKit -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Core   
+Cflags: -I${includedir}/QtWebSockets -I${includedir}
+Requires: Qt5Core Qt5Network
+

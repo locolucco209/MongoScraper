@@ -1,0 +1,17 @@
+tornado >= 4.2
+toolz >= 0.7.4
+msgpack-python
+cloudpickle >= 0.2.2
+dask >= 0.14.1
+click >= 6.6
+six
+tblib
+psutil
+zict >= 0.1.2
+sortedcollections
+
+[: python_version < '3.0']
+futures
+
+[: python_version < '3.4']
+singledispatch

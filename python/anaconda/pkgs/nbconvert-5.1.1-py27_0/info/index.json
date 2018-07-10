@@ -1,0 +1,24 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "bleach", 
+    "entrypoints >=0.2.2", 
+    "jinja2", 
+    "jupyter_client", 
+    "jupyter_core", 
+    "mistune !=0.6", 
+    "nbformat", 
+    "pandocfilters >=1.4.1", 
+    "pygments", 
+    "python 2.7*", 
+    "testpath", 
+    "traitlets >=4.2"
+  ], 
+  "license": "BSD", 
+  "name": "nbconvert", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "5.1.1"
+}

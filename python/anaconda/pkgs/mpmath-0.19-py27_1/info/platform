@@ -1,0 +1,12 @@
+platform:  Darwin-11.4.2-x86_64-i386-64bit
+system:    Darwin
+node:      atx-xserve-02.corp.continuum.io
+release:   11.4.2
+version:   Darwin Kernel Version 11.4.2: Thu Aug 23 16:25:48 PDT 2012; root:xnu-1699.32.7~1/RELEASE_X86_64
+machine:   x86_64
+processor: i386
+
+$ sw_vers
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63

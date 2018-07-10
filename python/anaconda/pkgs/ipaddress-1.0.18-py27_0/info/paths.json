@@ -1,0 +1,23 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/ipaddress-1.0.18-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "86d0be23b6f2cb51e0ea29270a4e45003d7da197ee90ad07157e7d891e708388",
+      "size_in_bytes": 783
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipaddress.py",
+      "path_type": "hardlink",
+      "sha256": "d14e46bd832eca266b5798d27084476311566f02f3338e07362698f31e7ba940",
+      "size_in_bytes": 80156
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipaddress.pyc",
+      "path_type": "hardlink",
+      "sha256": "2223e87b6e53686bb3b6110a7228b1af09f3a8798d47070554a535ffebc00963",
+      "size_in_bytes": 74990
+    }
+  ],
+  "paths_version": 1
+}

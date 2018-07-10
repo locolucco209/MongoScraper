@@ -1,0 +1,41 @@
+# This file created by conda-build 2.0.8
+# meta.yaml template originally from:
+# /Users/ilan/anaconda/packages/libxml2, last modified Thu Dec  8 14:40:57 2016
+# ------------------------------------------------
+
+package:
+    name: libxml2
+    version: 2.9.4
+source:
+    sha1: 958ae70baf186263a4bd801a81dd5d682aedd1db
+    url: ftp://xmlsoft.org/libxml2/libxml2-2.9.4.tar.gz
+build: {}
+requirements:
+    build:
+        - libiconv
+        - zlib 1.2.*
+    run:
+        - libiconv
+        - zlib 1.2.*
+test:
+    commands:
+        - xmllint test.xml
+    files:
+        - test.xml
+about:
+    description: 'Libxml2 is the XML C parser and toolkit developed for the
+
+        Gnome project (but usable outside of the Gnome platform).
+
+        Though the library is written in C a variety of language
+
+        bindings make it available in other environments.
+
+        '
+    dev_url: https://git.gnome.org/browse/libxml2/
+    doc_url: http://xmlsoft.org/docs.html
+    home: http://xmlsoft.org/
+    license: MIT
+    license_family: MIT
+    license_file: COPYING
+    summary: The XML C parser and toolkit of Gnome

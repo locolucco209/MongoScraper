@@ -1,0 +1,7 @@
+{
+  "description": "Numpy's documentation uses several custom extensions to Sphinx. These are\nshipped in this numpydoc package, in case you want to make use of them\nin third-party projects.\n", 
+  "dev_url": "https://github.com/numpy/numpydoc", 
+  "home": "https://github.com/numpy/numpydoc", 
+  "license": "BSD", 
+  "summary": "Sphinx extension to support docstrings in Numpy format"
+}

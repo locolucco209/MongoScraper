@@ -1,0 +1,39 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "ptyprocess", 
+    "python 2.7*", 
+    "tornado >=4.0"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/terminado-0.6-py2.7.egg-info", 
+    "lib/python2.7/site-packages/terminado/__init__.py", 
+    "lib/python2.7/site-packages/terminado/__init__.pyc", 
+    "lib/python2.7/site-packages/terminado/_static/terminado.js", 
+    "lib/python2.7/site-packages/terminado/management.py", 
+    "lib/python2.7/site-packages/terminado/management.pyc", 
+    "lib/python2.7/site-packages/terminado/tests/__init__.py", 
+    "lib/python2.7/site-packages/terminado/tests/__init__.pyc", 
+    "lib/python2.7/site-packages/terminado/tests/basic_test.py", 
+    "lib/python2.7/site-packages/terminado/tests/basic_test.pyc", 
+    "lib/python2.7/site-packages/terminado/uimod_embed.js", 
+    "lib/python2.7/site-packages/terminado/uimodule.py", 
+    "lib/python2.7/site-packages/terminado/uimodule.pyc", 
+    "lib/python2.7/site-packages/terminado/websocket.py", 
+    "lib/python2.7/site-packages/terminado/websocket.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/terminado-0.6-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "45fbff5477bf057726d052f236103d9b", 
+  "name": "terminado", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/terminado-0.6-py27_0.tar.bz2", 
+  "version": "0.6"
+}

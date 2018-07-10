@@ -1,0 +1,113 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/alabaster-0.7.10-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "f02cdad6e90a818f602323c5f36b163990a0012e5fad1a033cab2fb56d884b72",
+      "size_in_bytes": 1750
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster-0.7.10-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "3db2fc04c9ed72c4a246384bc685d35e9cd461b2fe4d0442829aa06cb3ace421",
+      "size_in_bytes": 444
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster-0.7.10-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster-0.7.10-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "bc320e66ec7ad8e0ef1fcedbc929c04b3a6c86d1ff4a27f2b4a60948ce778833",
+      "size_in_bytes": 10
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "b0a0f89809917167fb361f910e9beb3bd5275a26855aed8cfa2a9fc8ff482015",
+      "size_in_bytes": 554
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "5a7ba77daf4e098722ed0b2076d540ede6db43ff06d7751e63e0a69f15344aa1",
+      "size_in_bytes": 1071
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/_version.py",
+      "path_type": "hardlink",
+      "sha256": "ef891b9f31bb8bb52c80f2a74f992aa2cb08f7f3efcc3765309e97552e7053ff",
+      "size_in_bytes": 81
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/_version.pyc",
+      "path_type": "hardlink",
+      "sha256": "6c1eb80fe6d17862c265b5de7eb905b2564749d71158ca66510c9cf34ffef482",
+      "size_in_bytes": 271
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/about.html",
+      "path_type": "hardlink",
+      "sha256": "dff25b2448f47bbc18f013cb10e16b519356032d8bd5ad831173e308535f9812",
+      "size_in_bytes": 1781
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/donate.html",
+      "path_type": "hardlink",
+      "sha256": "f8a2e571dd5bd16e569fc7fd27f79eb493bbc9a7cbb1a25030e31022e14b2419",
+      "size_in_bytes": 330
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/layout.html",
+      "path_type": "hardlink",
+      "sha256": "d3e47980fb89edf49869b4f0e96ba9c36555e87928ff680e392efb945632ae58",
+      "size_in_bytes": 3099
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/navigation.html",
+      "path_type": "hardlink",
+      "sha256": "e82edc42c003914b254ef305728df8dab0c228cd8af762fa1b8da7421c8f4a9a",
+      "size_in_bytes": 323
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/relations.html",
+      "path_type": "hardlink",
+      "sha256": "e4b1a2944c590d666e4bb1d767e3cb51237099e68fd7e9fbf7e9c3fdccbc57e9",
+      "size_in_bytes": 621
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/static/alabaster.css_t",
+      "path_type": "hardlink",
+      "sha256": "9964da6b07248959b8033909f0149c02dda2cc6f6dcbe03c2a7e014db935af5f",
+      "size_in_bytes": 14610
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/static/custom.css",
+      "path_type": "hardlink",
+      "sha256": "39f23a6561786e3cb4e33e4a96562a1305a8b74c0d45dc215a64018692cd5d4c",
+      "size_in_bytes": 42
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/support.py",
+      "path_type": "hardlink",
+      "sha256": "8612e10437b2c8ad5bf689c57bcefc9f6eda363c5133cb8bd0d71a6e8458ae57",
+      "size_in_bytes": 4916
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/support.pyc",
+      "path_type": "hardlink",
+      "sha256": "1c1fc452861d87aa86d9a6084e6fa8840cb77a1c924937c9bdf0b45ea201e56d",
+      "size_in_bytes": 2392
+    },
+    {
+      "_path": "lib/python2.7/site-packages/alabaster/theme.conf",
+      "path_type": "hardlink",
+      "sha256": "9f1517f4208a90ca25b51fecf4425d40878f5a0c7bacf74562aadcac786282ac",
+      "size_in_bytes": 2264
+    }
+  ],
+  "paths_version": 1
+}

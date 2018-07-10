@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "matplotlib", 
+    "numpy", 
+    "pandas", 
+    "python 2.7*", 
+    "scipy"
+  ], 
+  "license": "BSD", 
+  "name": "seaborn", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "0.7.1"
+}

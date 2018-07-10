@@ -1,0 +1,40 @@
+# This file created by conda-build 2.0.8
+# meta.yaml template originally from:
+# /Users/ilan/anaconda/packages/toolz, last modified Mon Dec 12 14:32:31 2016
+# ------------------------------------------------
+
+package:
+    name: toolz
+    version: 0.8.2
+source:
+    fn: toolz-0.8.2.tar.gz
+    md5: 7e548980f4959660ff1a921ca86d0beb
+    url: https://pypi.python.org/packages/75/9c/a26de5efd56009e15af607bff6d2a395631e3c20e7c64b861c9bc4b34288/toolz-0.8.2.tar.gz
+build: {}
+requirements:
+    build:
+        - python
+        - setuptools
+    run:
+        - python
+test:
+    imports:
+        - toolz
+about:
+    description: 'Toolz provides a set of utility functions for iterators, functions,
+        and
+
+        dictionaries. These functions interoperate well and form the building
+
+        blocks of common data analytic operations. They extend the standard
+
+        libraries itertools and functools and borrow heavily from the standard
+
+        libraries of contemporary functional languages.
+
+        '
+    dev_url: https://github.com/pytoolz/toolz
+    doc_url: http://toolz.readthedocs.org/en/latest/
+    home: http://toolz.readthedocs.org/en/latest/
+    license: BSD
+    summary: List processing tools and functional utilities

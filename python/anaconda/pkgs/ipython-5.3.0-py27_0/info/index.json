@@ -1,0 +1,23 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "appnope", 
+    "decorator", 
+    "get_terminal_size", 
+    "pathlib2", 
+    "pexpect", 
+    "pickleshare", 
+    "prompt_toolkit >=1.0.4,<2.0.0", 
+    "pygments", 
+    "python 2.7*", 
+    "simplegeneric >0.8", 
+    "traitlets >=4.2"
+  ], 
+  "license": "BSD", 
+  "name": "ipython", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "5.3.0"
+}

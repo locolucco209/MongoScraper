@@ -1,0 +1,35 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/colorama-0.3.9-py2.7.egg-info", 
+    "lib/python2.7/site-packages/colorama/__init__.py", 
+    "lib/python2.7/site-packages/colorama/__init__.pyc", 
+    "lib/python2.7/site-packages/colorama/ansi.py", 
+    "lib/python2.7/site-packages/colorama/ansi.pyc", 
+    "lib/python2.7/site-packages/colorama/ansitowin32.py", 
+    "lib/python2.7/site-packages/colorama/ansitowin32.pyc", 
+    "lib/python2.7/site-packages/colorama/initialise.py", 
+    "lib/python2.7/site-packages/colorama/initialise.pyc", 
+    "lib/python2.7/site-packages/colorama/win32.py", 
+    "lib/python2.7/site-packages/colorama/win32.pyc", 
+    "lib/python2.7/site-packages/colorama/winterm.py", 
+    "lib/python2.7/site-packages/colorama/winterm.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/colorama-0.3.9-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "62e592c6dc1ef009a3f8883a6390d083", 
+  "name": "colorama", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/colorama-0.3.9-py27_0.tar.bz2", 
+  "version": "0.3.9"
+}

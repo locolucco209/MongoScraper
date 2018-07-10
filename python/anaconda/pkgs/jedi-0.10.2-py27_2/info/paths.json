@@ -1,0 +1,773 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/jedi-0.10.2-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "82dfc40bcc15b43a5a9015ae2130a966480bd77351dd17e9b4b7c88cf32d7815",
+      "size_in_bytes": 13411
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi-0.10.2-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "023a80aeda15d710c36132225f9d74495267b90ff669d1396ad2e5cc499a8ca2",
+      "size_in_bytes": 10564
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi-0.10.2-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi-0.10.2-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "4aa363f54efbc8e9f965fe098ba0aa2fcf83d9e360fc5ef5187a3c57c48c574e",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f94d8e0d72e99402d8a852732b8dcfd3fef6943633d53b13675bb205721ff7a3",
+      "size_in_bytes": 1641
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "6dc391bff6a38b99b46af8e7c244ae2ceb8f538b4e025a886bb4881cc0e61ac3",
+      "size_in_bytes": 1932
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/__main__.py",
+      "path_type": "hardlink",
+      "sha256": "8e41b48f006658cf798456104db3766639272585494b596ca0ee53f97f6f3e36",
+      "size_in_bytes": 1427
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/__main__.pyc",
+      "path_type": "hardlink",
+      "sha256": "ec5543b8fda30893d52a43ca252c167eda1e687bf636a3d0f9e09614c5483e48",
+      "size_in_bytes": 1558
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/_compatibility.py",
+      "path_type": "hardlink",
+      "sha256": "d226b581d8b5d4527c3255937ccaacd0439ccf88f93f4c0f72eb98a3e3488b3f",
+      "size_in_bytes": 9012
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/_compatibility.pyc",
+      "path_type": "hardlink",
+      "sha256": "c60f8ceee35962c1d4ca5f79ef52381401490fee3e0516a7747b6f39ea1e38cb",
+      "size_in_bytes": 9795
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "60a70c9cae7d986835b458771d8dbf93a8ad8151e24aad363baeeca55134dcac",
+      "size_in_bytes": 18692
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "be4917fd5b17f51b31796bfbb863b903e4197b4dde1e8658d426afd79be64eac",
+      "size_in_bytes": 18899
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/classes.py",
+      "path_type": "hardlink",
+      "sha256": "70b865f54725d2cae9eaa4c1aa88688baf3d3af5ef7a7ae798f117f76ea22d65",
+      "size_in_bytes": 24341
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/classes.pyc",
+      "path_type": "hardlink",
+      "sha256": "cbca49c1b3b9df4b2d3f05043b10d1f32fc0ac19d78b6a83488d71de003369e2",
+      "size_in_bytes": 27063
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/completion.py",
+      "path_type": "hardlink",
+      "sha256": "c1c532d46b6a86045996702f2f42707d639c728c48ac5d1f2655d61c99f2e787",
+      "size_in_bytes": 10177
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/completion.pyc",
+      "path_type": "hardlink",
+      "sha256": "c980ad5d9758a29085f254f1ec94fceb665c5503b9995b8eabd6246f8a421b29",
+      "size_in_bytes": 9003
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/helpers.py",
+      "path_type": "hardlink",
+      "sha256": "f6526f076a7384ca80d71ffb7e8be2a7bd1bf9b9edfb39c5f57e69e59ed28178",
+      "size_in_bytes": 10648
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/helpers.pyc",
+      "path_type": "hardlink",
+      "sha256": "0e9ae3cc006190e759887a70493f77488e5a44c7dccaf0a5a6ec2e903dee6a51",
+      "size_in_bytes": 10468
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/interpreter.py",
+      "path_type": "hardlink",
+      "sha256": "6a6d187df2401613b493cbaff8830a0f2ec2beea7d57565249a3ae46504f4672",
+      "size_in_bytes": 1420
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/interpreter.pyc",
+      "path_type": "hardlink",
+      "sha256": "537bf7db1049a0327e6e83c3efa1fd9b6ed3bd16f4b2507d6bdaffec92a32e95",
+      "size_in_bytes": 2074
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/keywords.py",
+      "path_type": "hardlink",
+      "sha256": "1056f652e4932bc08b6c3e61a79914b1e599808558b404a2e793856fde8d1177",
+      "size_in_bytes": 3541
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/keywords.pyc",
+      "path_type": "hardlink",
+      "sha256": "d31f5b2debc45649568eeae8863fdf0f4d9c68310cbf929681f037fff89529c7",
+      "size_in_bytes": 5245
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/replstartup.py",
+      "path_type": "hardlink",
+      "sha256": "8dc51569341896406579ce3ed341ed5983b7881dd88f9a20dd223c20d6de2d08",
+      "size_in_bytes": 832
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/replstartup.pyc",
+      "path_type": "hardlink",
+      "sha256": "3f5a2aa9244e0c1ac6a4e497639d20f52eb76449d0f92bc6b5b7cd659489a2e8",
+      "size_in_bytes": 921
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/usages.py",
+      "path_type": "hardlink",
+      "sha256": "abcf6216deafa23a11fcf110a88f16f5065e18cd9aa4402b672e41611b45fae7",
+      "size_in_bytes": 2968
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/api/usages.pyc",
+      "path_type": "hardlink",
+      "sha256": "98f5f3041e755410e3bc20bd6ec71a5e905bd1d1857727961eccef86a1c47533",
+      "size_in_bytes": 3103
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/cache.py",
+      "path_type": "hardlink",
+      "sha256": "242d9c24b8ad46689ed9a0d9f554a242da5e98eb430274aeae088a70fad5b489",
+      "size_in_bytes": 3703
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/cache.pyc",
+      "path_type": "hardlink",
+      "sha256": "dcef059e390b65833da0165c0302d20aadfd6928a871099f234b331eb697bad0",
+      "size_in_bytes": 4275
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/common.py",
+      "path_type": "hardlink",
+      "sha256": "5b786654e6dcdf4c4a81ead502798fcc4a8aa456f767385120d1069135974b84",
+      "size_in_bytes": 6363
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/common.pyc",
+      "path_type": "hardlink",
+      "sha256": "1cdcdd424c3885b924e311fc16f07e79b55d2e62f3b5f79ba883649b6d8fc4fc",
+      "size_in_bytes": 8055
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/debug.py",
+      "path_type": "hardlink",
+      "sha256": "652959d477a6882c13f88427148ef14554bd028ea02c478b1bf75a4b310a52c1",
+      "size_in_bytes": 3601
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/debug.pyc",
+      "path_type": "hardlink",
+      "sha256": "c7d682d05fd75c0dc47eb33237db79ed769bb89e49d3e7d2edb06270fbd50660",
+      "size_in_bytes": 4421
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "a4391ff20ee9ed81fe8f39811f767b3fb43254e97eb2f05edd70dfa7bd5f3a80",
+      "size_in_bytes": 26873
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "ee999af7c34bee9c4aee5247a04add7ad69cfc9c49b243505de35676f324baee",
+      "size_in_bytes": 20263
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/analysis.py",
+      "path_type": "hardlink",
+      "sha256": "56fc62f8417fb0cc0ad6ce99ad16dd6e31703468238005de5df92ea9eb192be8",
+      "size_in_bytes": 7836
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/analysis.pyc",
+      "path_type": "hardlink",
+      "sha256": "745bab56457d33fe0d8b0b011dd6837ab6b20923cbe955beccc1e5a89346e801",
+      "size_in_bytes": 9039
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/cache.py",
+      "path_type": "hardlink",
+      "sha256": "b0f7d8a30fa45bc89c7e19346b541e1a134b98af59180efeb3fad219677bcd17",
+      "size_in_bytes": 2038
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/cache.pyc",
+      "path_type": "hardlink",
+      "sha256": "b7e890bd0b5aefb5bf7b98188126abc35928753ea70306433999eebf6b010cb1",
+      "size_in_bytes": 2517
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "0b07c3ae1c7371dfb5807e9098e42e5c495e4f007380c39d53d4a9322c1a9d3d",
+      "size_in_bytes": 19340
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "d165806aa85dbb3ebf45aba2c8fc162f985f6f3a4c1661d78ef08468001d79a9",
+      "size_in_bytes": 22418
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/fake.py",
+      "path_type": "hardlink",
+      "sha256": "65358dd6185bebaecc54de4d8a643a1b4df31d9158da9f75df46bfead3f6693e",
+      "size_in_bytes": 6424
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/fake.pyc",
+      "path_type": "hardlink",
+      "sha256": "0e47c09365b1e3013103ce1f41408dde8837527640b270ab5abb801d358b9899",
+      "size_in_bytes": 5929
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/fake/_functools.pym",
+      "path_type": "hardlink",
+      "sha256": "5567e48e96ee620ef615144b6e03d85d48c8544121667e2124e4628742c0e097",
+      "size_in_bytes": 325
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/fake/_sqlite3.pym",
+      "path_type": "hardlink",
+      "sha256": "3b2a1da429550c41978c75d740dc7d7240dd206e7dbb60a32ac2c9bb99a47be9",
+      "size_in_bytes": 489
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/fake/_sre.pym",
+      "path_type": "hardlink",
+      "sha256": "b3734927edf9a8a48607e7ddc37f8453bd14e1d6531685c03c54846fd8b46595",
+      "size_in_bytes": 3019
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/fake/_weakref.pym",
+      "path_type": "hardlink",
+      "sha256": "ee8aa6b28388cb94a2c620f9e1978c0dd46f20cbacefbc87651a020e3d71c6bb",
+      "size_in_bytes": 198
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/fake/builtins.pym",
+      "path_type": "hardlink",
+      "sha256": "161ecca2876610feb39f8a8b68ab5b8b715f993abe077c9fb124426a1291adc5",
+      "size_in_bytes": 5467
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/fake/datetime.pym",
+      "path_type": "hardlink",
+      "sha256": "c7122acb8f65e2678f3a76a819f8e229a379c3d26f3dbf6b55458982931d56c6",
+      "size_in_bytes": 77
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/fake/io.pym",
+      "path_type": "hardlink",
+      "sha256": "fae310a92db7667ad81ed3b99bc8f5bfcf5c65d41a4ee032138ac1431b572c21",
+      "size_in_bytes": 113
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/fake/posix.pym",
+      "path_type": "hardlink",
+      "sha256": "2ae55d3fbfd332377b728ba2e7c6a4eb2d92a12b5aa14a4c664084957cfc7c27",
+      "size_in_bytes": 58
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/mixed.py",
+      "path_type": "hardlink",
+      "sha256": "31bca51d6d189dc6925604d634454466d211cb7796be6ac87dcb910eb24ed0a1",
+      "size_in_bytes": 6966
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/compiled/mixed.pyc",
+      "path_type": "hardlink",
+      "sha256": "159895cf8fbb03a3d0caff73c01937a384c546d2d525f05bd339ca9cf1f71907",
+      "size_in_bytes": 6980
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/context.py",
+      "path_type": "hardlink",
+      "sha256": "5230dda51aceb9f4633c81d7a8067759918e52c886cbd0df018722f625c78cd1",
+      "size_in_bytes": 5418
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/context.pyc",
+      "path_type": "hardlink",
+      "sha256": "f7331f00b61e647eb1c8b313116f8e62bceb81b0d22b2a7b7b54587b88eb3708",
+      "size_in_bytes": 9632
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/docstrings.py",
+      "path_type": "hardlink",
+      "sha256": "54ccae90b74bbd3fe90db475d00a0613be60164ff49368d0a82f0b1cd4a34e13",
+      "size_in_bytes": 7335
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/docstrings.pyc",
+      "path_type": "hardlink",
+      "sha256": "96fe62e349f39ed016dcc5e526e9c9ab1fe948e3240572f6a1256a3f5b063b84",
+      "size_in_bytes": 8224
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/dynamic.py",
+      "path_type": "hardlink",
+      "sha256": "be025ff5f9eb121764deed6b0d1b0d585a2013b310a87ffb04b17bf2ff8bad75",
+      "size_in_bytes": 7089
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/dynamic.pyc",
+      "path_type": "hardlink",
+      "sha256": "5d3951200d4bcd72a00a842c571b6e016ae593dd40008f136c35155b5737d714",
+      "size_in_bytes": 7040
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/filters.py",
+      "path_type": "hardlink",
+      "sha256": "6fecc8ed09e15ba99a1094c92ffdd37471a563bf6ebf3c21c076ba665231ff5f",
+      "size_in_bytes": 10578
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/filters.pyc",
+      "path_type": "hardlink",
+      "sha256": "c18a3131a6dd41aff0ea320cd464c09a32f4fdbc3ca8c948e2b972bc8a5f1379",
+      "size_in_bytes": 16215
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/finder.py",
+      "path_type": "hardlink",
+      "sha256": "7da49eeda06644b13d26892628900ced8041804626799a07859f3077702e98c2",
+      "size_in_bytes": 15177
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/finder.pyc",
+      "path_type": "hardlink",
+      "sha256": "d821b17d462d7e3c633d2594a2b2ba20b99154da976d39f0e3d47189f7cfb56a",
+      "size_in_bytes": 13018
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/flow_analysis.py",
+      "path_type": "hardlink",
+      "sha256": "8066b3c07924858ad452ccb3de2a21015909c7315ab37231adfc40ec838f3ce3",
+      "size_in_bytes": 3970
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/flow_analysis.pyc",
+      "path_type": "hardlink",
+      "sha256": "9e326f568cf56791681cadd854a80d96ba2188c79c24b8e6d256e0671d55d775",
+      "size_in_bytes": 3801
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/helpers.py",
+      "path_type": "hardlink",
+      "sha256": "cbee5c599ec597753bf76aeb3b3ae00a7189191ba63b7f652692e3feca72a171",
+      "size_in_bytes": 5575
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/helpers.pyc",
+      "path_type": "hardlink",
+      "sha256": "ad091533899988591cff49c2675177c9bc423534c7094757eade5f4707520a59",
+      "size_in_bytes": 5495
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/imports.py",
+      "path_type": "hardlink",
+      "sha256": "8f981f089beae9bab51053351ea23c9274dfebdc49370da6baf6a2872c9c2ba2",
+      "size_in_bytes": 21041
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/imports.pyc",
+      "path_type": "hardlink",
+      "sha256": "9ae5b2775c4d2fe44399df79bf567aade58cc5bca58ddf5eed4dad5f95e4130c",
+      "size_in_bytes": 17089
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/instance.py",
+      "path_type": "hardlink",
+      "sha256": "839774b880af1aeb46b279cfb3c8b7dbdabd322e172248ebcfa64ab74468b96a",
+      "size_in_bytes": 16459
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/instance.pyc",
+      "path_type": "hardlink",
+      "sha256": "7d5b555e9c58a5216c14ff45bf7919f97a80d556c2173e9fe00fafff49409401",
+      "size_in_bytes": 19935
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/iterable.py",
+      "path_type": "hardlink",
+      "sha256": "ad7aba9871cfae25a87202852046b6f8bcb2ca0322253126fef0c784d5d221ce",
+      "size_in_bytes": 31367
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/iterable.pyc",
+      "path_type": "hardlink",
+      "sha256": "d0cd2f7ade42f56291c25b6b14a70863f7096eac04ae01428bc4b89eab66c9cd",
+      "size_in_bytes": 37155
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/jedi_typing.py",
+      "path_type": "hardlink",
+      "sha256": "c6e2353c507eba107d637d73f1e76247ff5ac92d33e258c344f381e4bf04ed74",
+      "size_in_bytes": 2563
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/jedi_typing.pyc",
+      "path_type": "hardlink",
+      "sha256": "3ed869f3e76523b4e036de2346a2f2189c907f146e220ae20a8dbdfd49e1c15e",
+      "size_in_bytes": 5702
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/param.py",
+      "path_type": "hardlink",
+      "sha256": "f0e09204ade1a2115885fa101e4216119d7f7a8f9c96d4aa568e49ec9e0b6204",
+      "size_in_bytes": 16455
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/param.pyc",
+      "path_type": "hardlink",
+      "sha256": "cc82576862b90a7066fbbfffd66a4bd8a2d8d58c876ffdb30e56b1bc1d495b78",
+      "size_in_bytes": 13782
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/pep0484.py",
+      "path_type": "hardlink",
+      "sha256": "5999ba8cc3f4123414845d9231e1580ca042f9d75dccb1db159df11dd6583878",
+      "size_in_bytes": 7807
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/pep0484.pyc",
+      "path_type": "hardlink",
+      "sha256": "2b8d0d1649b50274bb244a87f2fbd78fdd3ea6d73b9022726363ef4d44e4bde0",
+      "size_in_bytes": 8467
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/precedence.py",
+      "path_type": "hardlink",
+      "sha256": "36b219b6724904aa7b20e428c7616fa73e7c3fb6ddccdb35ae4eb68fc4126d2c",
+      "size_in_bytes": 6274
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/precedence.pyc",
+      "path_type": "hardlink",
+      "sha256": "0919858e28def165e513a14f8b73524ad5066a8d6555282d784a8d258eb89019",
+      "size_in_bytes": 5950
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/recursion.py",
+      "path_type": "hardlink",
+      "sha256": "8b24e47d0f83b7600f6fc8765e7138224bd47da3ad3907f84df6fdb900a50a85",
+      "size_in_bytes": 3429
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/recursion.pyc",
+      "path_type": "hardlink",
+      "sha256": "dbb098072215a336378b1bf7436d8b3a131cc098ac6a9fae908447148bca34f0",
+      "size_in_bytes": 4366
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/representation.py",
+      "path_type": "hardlink",
+      "sha256": "715fc00f7df561db43ef69fee3bd22d55124bd1b07782ffcf2499c073e92895a",
+      "size_in_bytes": 25594
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/representation.pyc",
+      "path_type": "hardlink",
+      "sha256": "d2c6cc406cdbf81071212d4f334850d602b19e84ce2921ab544db21deb89c861",
+      "size_in_bytes": 28250
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/site.py",
+      "path_type": "hardlink",
+      "sha256": "b6da554a20392cce8e2640d81a2591dc22c66a1a4688482905f8fdab7d03832c",
+      "size_in_bytes": 3592
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/site.pyc",
+      "path_type": "hardlink",
+      "sha256": "2c873ae8f0b17dea58a59b2ac6a97750e897ca9f01037c23adf03f3ed2c915ed",
+      "size_in_bytes": 3476
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/stdlib.py",
+      "path_type": "hardlink",
+      "sha256": "72369f589a3bd6095298d47ac8e2654900a2752b73c22960d90f1a546383e8f7",
+      "size_in_bytes": 10517
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/stdlib.pyc",
+      "path_type": "hardlink",
+      "sha256": "64298d57dcfd32da2d5271faee06a19c9e45b98c67c2fdb644c2a4939eb97ab3",
+      "size_in_bytes": 11270
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/sys_path.py",
+      "path_type": "hardlink",
+      "sha256": "c570558512a6fe19a765354f676539f0cce84540e30ae5e5e847d16de33ea583",
+      "size_in_bytes": 10434
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/evaluate/sys_path.pyc",
+      "path_type": "hardlink",
+      "sha256": "2f092c386d0071ddcc1632ffb673d9601868db872d759ab8bfa382966a856e65",
+      "size_in_bytes": 9844
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "a5f779a370ab9e0c6973450889f91ca6061f97b6db766547c84cd869019e72a0",
+      "size_in_bytes": 216
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "cf1d43071d6c927872677d8732ac58a517f9c36ed19a18062b6c261609622922",
+      "size_in_bytes": 567
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/cache.py",
+      "path_type": "hardlink",
+      "sha256": "38b2f1077621845f44d54d7d3d187b170f6ddc21b5a6c91eeb58e396a06fc399",
+      "size_in_bytes": 3920
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/cache.pyc",
+      "path_type": "hardlink",
+      "sha256": "c87d779942c9829982e6674e0715044f532078b1aa8e60c444a64ca8c633ac70",
+      "size_in_bytes": 4272
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/parser.py",
+      "path_type": "hardlink",
+      "sha256": "29df7494c669498b9a3561147d8117fe307764400ba1d462b1e735d70058542e",
+      "size_in_bytes": 2904
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/parser.pyc",
+      "path_type": "hardlink",
+      "sha256": "803f888d8168fc6250cc96bf6023b4f49ef7914bf711a6e13d448849272ce57e",
+      "size_in_bytes": 3699
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/pgen2/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "79bfb9b460fbdcb1e7f72115eb846b2b918d320b8f3a18053b8d21e735cbb203",
+      "size_in_bytes": 337
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/pgen2/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "ddc6d29b6590aeee1eda9afeae12135a8d67d6309a4e0b5e813e676ef1120b66",
+      "size_in_bytes": 144
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/pgen2/grammar.py",
+      "path_type": "hardlink",
+      "sha256": "ae62f0fae0709462362a35e58adb4865d57aee0ac7f5608df26ca31fc5048447",
+      "size_in_bytes": 4775
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/pgen2/grammar.pyc",
+      "path_type": "hardlink",
+      "sha256": "2c77637d347aff46b41a83e297b2b3116297117106bfc47a6db8d77333ad94ec",
+      "size_in_bytes": 5375
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/pgen2/parse.py",
+      "path_type": "hardlink",
+      "sha256": "c0dee245a527a5df9ab22540c80e60123a7a053bdd89034ebcfa521ec2e44cfa",
+      "size_in_bytes": 8278
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/pgen2/parse.pyc",
+      "path_type": "hardlink",
+      "sha256": "3d8087c9d64039ed2f2853e68dda77814e0697d7eb4bf7e6dfb4d5643f64f298",
+      "size_in_bytes": 6873
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/pgen2/pgen.py",
+      "path_type": "hardlink",
+      "sha256": "483a53a4ca5a7bbe60193eccf1bcea6f453f1ead8463f8109eab8bddc88f27c8",
+      "size_in_bytes": 13994
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/pgen2/pgen.pyc",
+      "path_type": "hardlink",
+      "sha256": "22a9d6a63801e2b7ab010aace027ed8959dfb72a3c7cf65efc887df1f18d1fde",
+      "size_in_bytes": 12543
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/python/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e9f4ecb956c0dfe8066d793957953603adc1bfba95af2b391cd23b2484c5febc",
+      "size_in_bytes": 4239
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/python/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "88a24a63e9d7c485c7ad25c64e05cc672c5b4059d5c39083f4a6d23dddad07af",
+      "size_in_bytes": 4079
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/python/diff.py",
+      "path_type": "hardlink",
+      "sha256": "a018840fad9fe4b54dcb3ab51a04c6b358e646c8193fa41678dace3223c124eb",
+      "size_in_bytes": 22672
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/python/diff.pyc",
+      "path_type": "hardlink",
+      "sha256": "7e0dc3d373d391b52b16fbab5dfa77b4fbeddaaa0d4bf3caebdd6eaee2556b98",
+      "size_in_bytes": 17746
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/python/grammar2.7.txt",
+      "path_type": "hardlink",
+      "sha256": "21ac49b4cdd2528ccf95cb370df052ee5a1eb5a3dc1e34c1619cbe6b0a0dcb2b",
+      "size_in_bytes": 6639
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/python/grammar3.4.txt",
+      "path_type": "hardlink",
+      "sha256": "437108e8f97e40295e0ed927697af893c0254e7b93d7bdc1c0f2cbc18a1eaf50",
+      "size_in_bytes": 6236
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/python/grammar3.5.txt",
+      "path_type": "hardlink",
+      "sha256": "320c1108f9d5a4966f072c06c50f47e8930a794b9e6ad267af2974f2cbefc507",
+      "size_in_bytes": 7046
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/python/grammar3.6.txt",
+      "path_type": "hardlink",
+      "sha256": "c9090c8be9b02af7039f1be4bd766a6cd1ca252f193b55748e35552e14e6386e",
+      "size_in_bytes": 7211
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/python/parser.py",
+      "path_type": "hardlink",
+      "sha256": "12c48ea910368b2a477d0db7ee171ce336c37b1dd8097adc1689804d36704b8c",
+      "size_in_bytes": 9417
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/python/parser.pyc",
+      "path_type": "hardlink",
+      "sha256": "fdbea711ccc9c48dd6a25b7b7ce7d15c56a5f88e302ee3642fb58c86bbe57390",
+      "size_in_bytes": 7408
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/python/tree.py",
+      "path_type": "hardlink",
+      "sha256": "13fb990fca14ce2d0abf40b4ef7957e7fb4992337137645207678b31fec2d828",
+      "size_in_bytes": 38913
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/python/tree.pyc",
+      "path_type": "hardlink",
+      "sha256": "997a45b1124f8da136114c054cf426c7d4c88cf9fca6349fc7b48dc7b860b837",
+      "size_in_bytes": 50178
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/token.py",
+      "path_type": "hardlink",
+      "sha256": "fc8ba378ba75de3eb6356d08f1fdc4d7190cfd941bc8c0f17e56468d6ea77abb",
+      "size_in_bytes": 1300
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/token.pyc",
+      "path_type": "hardlink",
+      "sha256": "7c17dbb422224d81787747dd79f790fddb89681442ba22edcb82a725ef357508",
+      "size_in_bytes": 1376
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/tokenize.py",
+      "path_type": "hardlink",
+      "sha256": "b31fc11fb83926c23c67f01c56189d2a01d956677cb56f9dc3a13acbb3194a2d",
+      "size_in_bytes": 13763
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/tokenize.pyc",
+      "path_type": "hardlink",
+      "sha256": "c8642e5b52b2201db7ea3c524be9f96450821a7ced93970426f2dc9d12544088",
+      "size_in_bytes": 10370
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/tree.py",
+      "path_type": "hardlink",
+      "sha256": "3e6519ad572c9db799bdbba445897e117ba330bd5320d3e2f5999253376f0ea1",
+      "size_in_bytes": 10590
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/parser/tree.pyc",
+      "path_type": "hardlink",
+      "sha256": "64e1e18dd83b8cb89e0ef07e65661a4fcfc7dff3acce1a45be23a909eb95d057",
+      "size_in_bytes": 13459
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/refactoring.py",
+      "path_type": "hardlink",
+      "sha256": "913947596f80a70c0f923f1ed09833e540bd7b25798fb206aff85b1151d09d67",
+      "size_in_bytes": 7040
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/refactoring.pyc",
+      "path_type": "hardlink",
+      "sha256": "6c9a3b6040587510fcd32cfda3f98798210e1ed88f1bf9cf40f3a91d3e620e92",
+      "size_in_bytes": 6880
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/settings.py",
+      "path_type": "hardlink",
+      "sha256": "a20b39e68cb78766daed5970e42b5866a7ae7125317a1ed6e9fd3a5ac4df092d",
+      "size_in_bytes": 5619
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/settings.pyc",
+      "path_type": "hardlink",
+      "sha256": "957b49f13acf4a5167f33ecb78fe640f6b20526a439242599a0eeedf690ea5a7",
+      "size_in_bytes": 3014
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/utils.py",
+      "path_type": "hardlink",
+      "sha256": "c7610f1186bd501519f21c919cfd13d8974278da9343b7cf9f792ee04ac39af2",
+      "size_in_bytes": 4634
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jedi/utils.pyc",
+      "path_type": "hardlink",
+      "sha256": "d6e5d9f79bfe22298a732db3482666ed076424ebea0f51fadbc8251c97d11626",
+      "size_in_bytes": 4881
+    }
+  ],
+  "paths_version": 1
+}

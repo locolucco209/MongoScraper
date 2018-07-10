@@ -1,0 +1,32 @@
+# This file created by conda-build 1.20.3+48.g09ddcfe
+# meta.yaml template originally from:
+# /Users/ilan/anaconda/packages/ptyprocess, last modified Thu Jun  2 13:26:12 2016
+# ------------------------------------------------
+
+package:
+    name: ptyprocess
+    version: 0.5.1
+source:
+    fn: ptyprocess-0.5.1.tar.gz
+    md5: 94e537122914cc9ec9c1eadcd36e73a1
+    url: https://pypi.python.org/packages/db/d7/b465161910f3d1cef593c5e002bff67e0384898f597f1a7fdc8db4c02bf6/ptyprocess-0.5.1.tar.gz
+requirements:
+    build:
+        - python
+    run:
+        - python
+test:
+    imports:
+        - ptyprocess
+about:
+    description: 'Ptyprocess allows you to launch a subprocess in a pseudo terminal
+        (pty),
+
+        and interact with both the process and its pty.
+
+        '
+    dev_url: https://github.com/pexpect/ptyprocess
+    home: https://github.com/pexpect/ptyprocess
+    license: ISC
+    license_family: Other
+    summary: Run a subprocess in a pseudo terminal

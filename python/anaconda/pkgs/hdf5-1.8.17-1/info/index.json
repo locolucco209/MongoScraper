@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64", 
+  "build": "1", 
+  "build_number": 1, 
+  "depends": [
+    "zlib 1.2.*"
+  ], 
+  "license": "BSD-like", 
+  "license_family": "BSD", 
+  "name": "hdf5", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "1.8.17"
+}

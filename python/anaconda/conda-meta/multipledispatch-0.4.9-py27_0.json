@@ -1,0 +1,37 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/multipledispatch-0.4.9-py2.7.egg-info/PKG-INFO", 
+    "lib/python2.7/site-packages/multipledispatch-0.4.9-py2.7.egg-info/SOURCES.txt", 
+    "lib/python2.7/site-packages/multipledispatch-0.4.9-py2.7.egg-info/dependency_links.txt", 
+    "lib/python2.7/site-packages/multipledispatch-0.4.9-py2.7.egg-info/not-zip-safe", 
+    "lib/python2.7/site-packages/multipledispatch-0.4.9-py2.7.egg-info/top_level.txt", 
+    "lib/python2.7/site-packages/multipledispatch/__init__.py", 
+    "lib/python2.7/site-packages/multipledispatch/__init__.pyc", 
+    "lib/python2.7/site-packages/multipledispatch/conflict.py", 
+    "lib/python2.7/site-packages/multipledispatch/conflict.pyc", 
+    "lib/python2.7/site-packages/multipledispatch/core.py", 
+    "lib/python2.7/site-packages/multipledispatch/core.pyc", 
+    "lib/python2.7/site-packages/multipledispatch/dispatcher.py", 
+    "lib/python2.7/site-packages/multipledispatch/dispatcher.pyc", 
+    "lib/python2.7/site-packages/multipledispatch/utils.py", 
+    "lib/python2.7/site-packages/multipledispatch/utils.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/multipledispatch-0.4.9-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "0c60cdaa95842c1b1ef06078199305a1", 
+  "name": "multipledispatch", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/multipledispatch-0.4.9-py27_0.tar.bz2", 
+  "version": "0.4.9"
+}

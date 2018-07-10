@@ -1,0 +1,125 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/QtAwesome-0.4.4-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "19294719e15179a35531e2a49ba2d6432dbbf2630f222d272cacf824b7fa9e37",
+      "size_in_bytes": 1894
+    },
+    {
+      "_path": "lib/python2.7/site-packages/QtAwesome-0.4.4-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "bdb18d3b3a27278c1d363108fcd62abe1fa4f00235cbba49e3c238540f4c1dd3",
+      "size_in_bytes": 762
+    },
+    {
+      "_path": "lib/python2.7/site-packages/QtAwesome-0.4.4-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/QtAwesome-0.4.4-py2.7.egg-info/requires.txt",
+      "path_type": "hardlink",
+      "sha256": "3b9f6e61d18741f87d1c78222a156d1c1c8e35ffde206b2389ada44ae493b516",
+      "size_in_bytes": 9
+    },
+    {
+      "_path": "lib/python2.7/site-packages/QtAwesome-0.4.4-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "9c7f0bd630967ff31b658ffa24c604374d73c370bc3c7c1659cea3ed79a616c5",
+      "size_in_bytes": 10
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "1a2fa985c7a909feca8d8a813a9cfe35daf0a398d2c4be0cf8aad95ea23a40f3",
+      "size_in_bytes": 6190
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "d8c856a99d13aecdef91c0f20178bb0c3ace6fab9820336bea78a56a114a0c83",
+      "size_in_bytes": 7169
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/_version.py",
+      "path_type": "hardlink",
+      "sha256": "0170fc7311dee92a18f94ebec52ecc6181f84cb8117b7e832b574d0c5de4ff63",
+      "size_in_bytes": 72
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/_version.pyc",
+      "path_type": "hardlink",
+      "sha256": "17a73be53d2c861accaccacf026967166e98aadf84145c841aafe672acacfd1c",
+      "size_in_bytes": 262
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/animation.py",
+      "path_type": "hardlink",
+      "sha256": "8b7385d1127b44e3ed6d5273e696f5e877cdd556ad331092ceddcd278786925c",
+      "size_in_bytes": 1284
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/animation.pyc",
+      "path_type": "hardlink",
+      "sha256": "f3a94c1fe70b740fcec2fd7ec6926bb00b8707bd08b2a4537b645a8fa3b195a4",
+      "size_in_bytes": 2106
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/fonts/elusiveicons-webfont-charmap.json",
+      "path_type": "hardlink",
+      "sha256": "be05507fc31c47f89910983b030fec906ee86861a79b8e03b1f24029699679e8",
+      "size_in_bytes": 7924
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/fonts/elusiveicons-webfont.ttf",
+      "path_type": "hardlink",
+      "sha256": "29b93f3fe666bf73dcc857869aee47532f710c0a16959c6275dc5bc2e3be4c9e",
+      "size_in_bytes": 79556
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/fonts/fontawesome-webfont-charmap.json",
+      "path_type": "hardlink",
+      "sha256": "6818554df171b6c7e951210ab8f1e908890680523ff1b88a217068c33fceacf9",
+      "size_in_bytes": 17979
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/fonts/fontawesome-webfont.ttf",
+      "path_type": "hardlink",
+      "sha256": "7b5a4320fba0d4c8f79327645b4b9cc875a2ec617a557e849b813918eb733499",
+      "size_in_bytes": 142072
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/iconic_font.py",
+      "path_type": "hardlink",
+      "sha256": "3710fbce0a6d295301aba7f5b84d3b18181356e8bbff159ac6351cc43a9c899e",
+      "size_in_bytes": 14406
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/iconic_font.pyc",
+      "path_type": "hardlink",
+      "sha256": "83cfff17c62a664012eba2cbb670298627860bbe00ec55ab9ce76978569fe041",
+      "size_in_bytes": 12750
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/tests/__pycache__/test_qtawesome.cpython-35-PYTEST.pyc",
+      "path_type": "hardlink",
+      "sha256": "8de6d833a47f9959b81f62b2f84618ae061a721f0bb07f6d34c74bbb7d367637",
+      "size_in_bytes": 1068
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/tests/test_qtawesome.py",
+      "path_type": "hardlink",
+      "sha256": "0e0bb034e29789750b310524235404e07e83620d5950d3634d6580a7a60b899d",
+      "size_in_bytes": 360
+    },
+    {
+      "_path": "lib/python2.7/site-packages/qtawesome/tests/test_qtawesome.pyc",
+      "path_type": "hardlink",
+      "sha256": "967f67cb390d55f4b65ee6e32eea779a79731a6f58b615ae08bc450c4dad86e3",
+      "size_in_bytes": 656
+    }
+  ],
+  "paths_version": 1
+}

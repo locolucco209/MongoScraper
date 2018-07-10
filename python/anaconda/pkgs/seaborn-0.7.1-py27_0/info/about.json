@@ -1,0 +1,8 @@
+{
+  "description": "Seaborn is a Python visualization library based on matplotlib. It\nprovides a high-level interface for drawing attractive statistical graphics.\n", 
+  "dev_url": "https://github.com/mwaskom/seaborn", 
+  "doc_url": "http://stanford.edu/~mwaskom/software/seaborn/", 
+  "home": "http://stanford.edu/~mwaskom/software/seaborn/", 
+  "license": "BSD", 
+  "summary": "Statistical data visualization"
+}

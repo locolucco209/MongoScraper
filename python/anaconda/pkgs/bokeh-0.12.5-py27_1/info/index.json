@@ -1,0 +1,21 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "futures >=3.0.3", 
+    "jinja2 >=2.7", 
+    "numpy", 
+    "python 2.7*", 
+    "python-dateutil >=2.1", 
+    "pyyaml >=3.10", 
+    "requests >=1.2.3", 
+    "six >=1.5.2", 
+    "tornado >=4.3"
+  ], 
+  "license": "BSD", 
+  "name": "bokeh", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "0.12.5"
+}

@@ -1,0 +1,16 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "cryptography >=1.7", 
+    "python 2.7*", 
+    "six >=1.5.2"
+  ], 
+  "license": "Apache Software License", 
+  "license_family": "Apache", 
+  "name": "pyopenssl", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "17.0.0"
+}

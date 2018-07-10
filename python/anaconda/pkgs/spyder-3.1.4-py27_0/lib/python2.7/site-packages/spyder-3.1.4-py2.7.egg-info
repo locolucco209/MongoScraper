@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: spyder
+Version: 3.1.4
+Summary: Scientific PYthon Development EnviRonment
+Home-page: https://github.com/spyder-ide/spyder
+Author: The Spyder Project Contributors
+Author-email: UNKNOWN
+License: MIT
+Download-URL: https://github.com/spyder-ide/spyder/files/spyder-3.1.4.zip
+Description: Spyder is an interactive Python development environment providing
+        MATLAB-like features in a simple and light-weighted software.
+        It also provides ready-to-use pure-Python widgets to your PyQt5 or
+        PyQt4 application: source code editor with syntax highlighting and
+        code introspection/analysis features, NumPy array editor, dictionary
+        editor, Python console, etc.
+Keywords: PyQt5 PyQt4 editor shell console widgets IDE
+Platform: any
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development :: Widget Sets

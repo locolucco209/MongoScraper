@@ -1,0 +1,41 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/mistune-0.7.4-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "89b87df2a77278bf8aa6e74b0dce53857f058cfc7253aaade22b31011285f1ff",
+      "size_in_bytes": 10461
+    },
+    {
+      "_path": "lib/python2.7/site-packages/mistune-0.7.4-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "eb8a71362aff028e2a942ff8087dc04d068cf7dbeb16972623e952edebe6fc5b",
+      "size_in_bytes": 4578
+    },
+    {
+      "_path": "lib/python2.7/site-packages/mistune-0.7.4-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/mistune-0.7.4-py2.7.egg-info/not-zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/mistune-0.7.4-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "b6325333ae6401dc0a009da603bebdb670c661895f47ca6a46ca1b2a35447dc8",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "lib/python2.7/site-packages/mistune.so",
+      "path_type": "hardlink",
+      "sha256": "9b3fb67eb3920ecf2349e3b0ed0627adc3b6391a2b4cbe96f342d8ebe8324c05",
+      "size_in_bytes": 689272
+    }
+  ],
+  "paths_version": 1
+}

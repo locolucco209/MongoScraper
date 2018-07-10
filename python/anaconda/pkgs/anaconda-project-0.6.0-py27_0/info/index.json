@@ -1,0 +1,18 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "anaconda-client", 
+    "beautifulsoup4", 
+    "python 2.7*", 
+    "requests", 
+    "ruamel_yaml", 
+    "tornado"
+  ], 
+  "license": "BSD", 
+  "name": "anaconda-project", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "0.6.0"
+}

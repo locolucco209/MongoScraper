@@ -1,0 +1,23 @@
+{
+  "paths": [
+    {
+      "_path": "include/python2.7/greenlet/greenlet.h",
+      "path_type": "hardlink",
+      "sha256": "02d2bf034bfeba73246c7068008ff700e662297e6b2c823e0018a447cdbb06ee",
+      "size_in_bytes": 3799
+    },
+    {
+      "_path": "lib/python2.7/site-packages/greenlet-0.4.12-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "bbb5cd4e7b745ac6cc379d6aeb984144d3b5b49faa2c03e3c9d4cb18646fc898",
+      "size_in_bytes": 3713
+    },
+    {
+      "_path": "lib/python2.7/site-packages/greenlet.so",
+      "path_type": "hardlink",
+      "sha256": "4eb71d0a4eed546d73989122746acbace2f5bf0be820707cf91fd67d5cb9fc8a",
+      "size_in_bytes": 30744
+    }
+  ],
+  "paths_version": 1
+}

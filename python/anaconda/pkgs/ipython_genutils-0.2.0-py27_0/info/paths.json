@@ -1,0 +1,203 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils-0.2.0-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "71496b21eb7ed18ea4b03dee081acfad96e631b879cc2a5e769e4888e2e2de47",
+      "size_in_bytes": 765
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "2d24dcc80b4e90ceda1e45e42b90deaae69c885f5720188ca2e7a11751a33b63",
+      "size_in_bytes": 48
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "a06a66eb759984a21fd27367e01b4e8e909a17cc2350194c4e4b3ef8ea1fbf9a",
+      "size_in_bytes": 231
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/_version.py",
+      "path_type": "hardlink",
+      "sha256": "eaecefd67921cc36d7db879190a040f5244a3a9aa8430d80ba6fa7c43fdd004a",
+      "size_in_bytes": 72
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/_version.pyc",
+      "path_type": "hardlink",
+      "sha256": "14f1752b043ea56045a72fcac811f5adae9df275101ee8b399ae02bd1947d2a8",
+      "size_in_bytes": 269
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/encoding.py",
+      "path_type": "hardlink",
+      "sha256": "0fc4b5bf42444a6196c2d1b211dd9462d34296bcf7537ba0b2c6b8fc6e28f48b",
+      "size_in_bytes": 2869
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/encoding.pyc",
+      "path_type": "hardlink",
+      "sha256": "8929b40ad19c1b2cecea3202fd1951b3ab8e5d9ca3323b126b2bf1ab0a6d4dff",
+      "size_in_bytes": 2037
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/importstring.py",
+      "path_type": "hardlink",
+      "sha256": "98280bd1639f42a445f85e9a7be6c00220311f97d69b9c1fabcb9b3a92b1cf29",
+      "size_in_bytes": 1035
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/importstring.pyc",
+      "path_type": "hardlink",
+      "sha256": "447b8ec1bb8a7fd8e7ada8df1cf4e803d5c4afcabc4d952e394831acaf1a53c0",
+      "size_in_bytes": 1139
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/ipstruct.py",
+      "path_type": "hardlink",
+      "sha256": "8add019b3d8b364adf83f5d12eeb1e4f23ebf3dfc63bcf687bf7b5e714c06ed9",
+      "size_in_bytes": 11258
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/ipstruct.pyc",
+      "path_type": "hardlink",
+      "sha256": "6f52d73e2bfeb7ea83f1646b0851f8cedaa66cb154f38a8c1ad3141e9692a564",
+      "size_in_bytes": 12190
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/path.py",
+      "path_type": "hardlink",
+      "sha256": "d62c178baea316f56739fad258892b80503f9f3039d7ed303145d6644d85269a",
+      "size_in_bytes": 5386
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/path.pyc",
+      "path_type": "hardlink",
+      "sha256": "1411296b8115987cc311af4f9387d2c9122780a6d6e063917547b32844916e15",
+      "size_in_bytes": 5155
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/py3compat.py",
+      "path_type": "hardlink",
+      "sha256": "a117fc6d073e1a869f3d706ff42ab57a26c054ced7e1a438719dd12d1fa36b97",
+      "size_in_bytes": 10810
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/py3compat.pyc",
+      "path_type": "hardlink",
+      "sha256": "6998d2e50800330cfbc98e66249ab461a91351d5ee52ad4c4d5b31508e9c987f",
+      "size_in_bytes": 11628
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/tempdir.py",
+      "path_type": "hardlink",
+      "sha256": "1451751dd0614bf7c44cf5add90a519e031ca0580308a2a56baabc242a41e6d2",
+      "size_in_bytes": 4929
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/tempdir.pyc",
+      "path_type": "hardlink",
+      "sha256": "b8294a8a81211489f4fb31edf782895dca94414f19b0d5ce13fdc96e7d9407ba",
+      "size_in_bytes": 5709
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/testing/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/testing/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "79d6cefa0818e44b656e7453460ade05afe3ecc14029949fff329bdb42362960",
+      "size_in_bytes": 151
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/testing/decorators.py",
+      "path_type": "hardlink",
+      "sha256": "ba354826f7e8e9f3070a56103e0ac366ef7f733966441800c9f9df6599e0b432",
+      "size_in_bytes": 10913
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/testing/decorators.pyc",
+      "path_type": "hardlink",
+      "sha256": "652fa940479b2ed2148a33babe5a11196e5df8a4809d870ef30e32c5cb571642",
+      "size_in_bytes": 11988
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "88bb28c0a494d39d180b6a6bece4318a1a5779996e44afb41bee240987f6ecd3",
+      "size_in_bytes": 149
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/tests/test_importstring.py",
+      "path_type": "hardlink",
+      "sha256": "5a8ea5f3ba0b5c9810efa14614337dc609e6a73b74480b0365e49faf2dad60cb",
+      "size_in_bytes": 654
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/tests/test_importstring.pyc",
+      "path_type": "hardlink",
+      "sha256": "95e5dfca6d18ab6994ab54594a82aa224792d6f0db994e8111020b241564f3e6",
+      "size_in_bytes": 1298
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/tests/test_path.py",
+      "path_type": "hardlink",
+      "sha256": "c291605ed78463e268ce10f4bab636b1132f7a9ff3a68a9a979ad3d6ccdafbe4",
+      "size_in_bytes": 3310
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/tests/test_path.pyc",
+      "path_type": "hardlink",
+      "sha256": "112e5ab8da9f6e493648d906b7a02dc32fd0717dfa36b413c304ca1bc6a2fb5b",
+      "size_in_bytes": 5296
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/tests/test_tempdir.py",
+      "path_type": "hardlink",
+      "sha256": "1d4fdc162dd0de62a81b7398b5c5cace4248a948f48ae5d63cadb3dc9c6e219f",
+      "size_in_bytes": 668
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/tests/test_tempdir.pyc",
+      "path_type": "hardlink",
+      "sha256": "725dbbb1532cc003866d7b58fec410b6ab3c967fc50e967bc092192d796beb92",
+      "size_in_bytes": 1166
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/tests/test_text.py",
+      "path_type": "hardlink",
+      "sha256": "e3eb9ab97847ea70f7e3893090864931fd7aae843954a62419452e35040573ab",
+      "size_in_bytes": 2043
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/tests/test_text.pyc",
+      "path_type": "hardlink",
+      "sha256": "b089f634f7b1d051ca906d9396b6ee22471c62cb206422b6c0adb700f1b8e980",
+      "size_in_bytes": 2785
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/text.py",
+      "path_type": "hardlink",
+      "sha256": "42032199fd7191e6175d34bfdff89f7895dc753aac4320bf750f1ed657b9b69c",
+      "size_in_bytes": 6929
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ipython_genutils/text.pyc",
+      "path_type": "hardlink",
+      "sha256": "e015aa5ad4df7cf9e12027462c236955af42dac8e8dd925ad553d2b7a21378e9",
+      "size_in_bytes": 7736
+    }
+  ],
+  "paths_version": 1
+}

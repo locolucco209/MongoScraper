@@ -1,0 +1,34 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/wrapt-1.10.10-py2.7.egg-info", 
+    "lib/python2.7/site-packages/wrapt/__init__.py", 
+    "lib/python2.7/site-packages/wrapt/__init__.pyc", 
+    "lib/python2.7/site-packages/wrapt/_wrappers.so", 
+    "lib/python2.7/site-packages/wrapt/arguments.py", 
+    "lib/python2.7/site-packages/wrapt/arguments.pyc", 
+    "lib/python2.7/site-packages/wrapt/decorators.py", 
+    "lib/python2.7/site-packages/wrapt/decorators.pyc", 
+    "lib/python2.7/site-packages/wrapt/importer.py", 
+    "lib/python2.7/site-packages/wrapt/importer.pyc", 
+    "lib/python2.7/site-packages/wrapt/wrappers.py", 
+    "lib/python2.7/site-packages/wrapt/wrappers.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/wrapt-1.10.10-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "7a1ec5e8e59a4a3576c7530e2c5a8d5e", 
+  "name": "wrapt", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/wrapt-1.10.10-py27_0.tar.bz2", 
+  "version": "1.10.10"
+}

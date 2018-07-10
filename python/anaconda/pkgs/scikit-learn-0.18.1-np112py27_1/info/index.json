@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64", 
+  "build": "np112py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "mkl 2017.0.1", 
+    "numpy 1.12*", 
+    "python 2.7*", 
+    "scipy"
+  ], 
+  "license": "3-clause BSD", 
+  "license_family": "BSD", 
+  "name": "scikit-learn", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "0.18.1"
+}

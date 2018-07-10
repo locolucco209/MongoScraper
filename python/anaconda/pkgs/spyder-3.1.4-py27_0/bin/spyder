@@ -1,0 +1,6 @@
+#!/bin/bash /opt/anaconda1anaconda2anaconda3/bin/pythonw
+if __name__ == '__main__':
+    import sys
+    import spyder.app.start
+
+    sys.exit(spyder.app.start.main())

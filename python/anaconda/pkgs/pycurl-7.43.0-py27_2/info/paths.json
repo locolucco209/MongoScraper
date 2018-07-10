@@ -1,0 +1,29 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/curl/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "597f9692f2b6571b429df5ca8d88ba321e76d3a2ac97d35e03b1a0cc27ec4299",
+      "size_in_bytes": 7023
+    },
+    {
+      "_path": "lib/python2.7/site-packages/curl/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "61ea3fb2be873765523c8d5161b96d2ed354a0f2b710b12f2cf41be92778776a",
+      "size_in_bytes": 7941
+    },
+    {
+      "_path": "lib/python2.7/site-packages/pycurl-7.43.0-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "2672a401d3e25fb4fb65706155b2a699aa10b146a3f4cefb889ed94b625b449f",
+      "size_in_bytes": 4537
+    },
+    {
+      "_path": "lib/python2.7/site-packages/pycurl.so",
+      "path_type": "hardlink",
+      "sha256": "abc31df98db34ea7af417b255e7e3d6438f7b1833bbd3ba94aeb603ba810d8af",
+      "size_in_bytes": 158384
+    }
+  ],
+  "paths_version": 1
+}

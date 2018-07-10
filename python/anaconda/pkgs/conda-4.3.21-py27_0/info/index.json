@@ -1,0 +1,19 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "conda-env >=2.6", 
+    "enum34", 
+    "pycosat >=0.6.1", 
+    "pyopenssl >=16.2", 
+    "python 2.7*", 
+    "requests >=2.12.4", 
+    "ruamel_yaml >=0.11.14"
+  ], 
+  "license": "BSD", 
+  "name": "conda", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "4.3.21"
+}

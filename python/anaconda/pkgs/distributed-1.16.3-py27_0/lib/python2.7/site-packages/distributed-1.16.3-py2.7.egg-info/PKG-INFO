@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: distributed
+Version: 1.16.3
+Summary: Distributed computing
+Home-page: https://distributed.readthedocs.io/en/latest/
+Author: Matthew Rocklin
+Author-email: mrocklin@gmail.com
+License: BSD
+Description: Distributed
+        ===========
+        
+        A library for distributed computation.  See documentation_ for more details.
+        
+        .. _documentation: https://distributed.readthedocs.io/en/latest
+        
+Platform: UNKNOWN

@@ -1,0 +1,41 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*", 
+    "setuptools"
+  ], 
+  "files": [
+    "bin/isort", 
+    "lib/python2.7/site-packages/isort-4.2.5-py2.7.egg-info", 
+    "lib/python2.7/site-packages/isort/__init__.py", 
+    "lib/python2.7/site-packages/isort/__init__.pyc", 
+    "lib/python2.7/site-packages/isort/hooks.py", 
+    "lib/python2.7/site-packages/isort/hooks.pyc", 
+    "lib/python2.7/site-packages/isort/isort.py", 
+    "lib/python2.7/site-packages/isort/isort.pyc", 
+    "lib/python2.7/site-packages/isort/main.py", 
+    "lib/python2.7/site-packages/isort/main.pyc", 
+    "lib/python2.7/site-packages/isort/natural.py", 
+    "lib/python2.7/site-packages/isort/natural.pyc", 
+    "lib/python2.7/site-packages/isort/pie_slice.py", 
+    "lib/python2.7/site-packages/isort/pie_slice.pyc", 
+    "lib/python2.7/site-packages/isort/pylama_isort.py", 
+    "lib/python2.7/site-packages/isort/pylama_isort.pyc", 
+    "lib/python2.7/site-packages/isort/settings.py", 
+    "lib/python2.7/site-packages/isort/settings.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "MIT", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/isort-4.2.5-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "250102095ef045037832cf36c1ea3499", 
+  "name": "isort", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/isort-4.2.5-py27_0.tar.bz2", 
+  "version": "4.2.5"
+}

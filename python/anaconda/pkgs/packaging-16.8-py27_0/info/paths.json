@@ -1,0 +1,119 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/packaging-16.8-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "2781c6d0c243b8627eaa031bd1fc6ad8158abdd1d231e137b89573e585e06df7",
+      "size_in_bytes": 7296
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/__about__.py",
+      "path_type": "hardlink",
+      "sha256": "ce47023d337fe9370b5b436b960d35efaf91d5043f5953d39bcb33d51e3e1e33",
+      "size_in_bytes": 720
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/__about__.pyc",
+      "path_type": "hardlink",
+      "sha256": "f278a82c85c7534e8a6b5d11696604bb58a4e986613098f1707d56b321cb092d",
+      "size_in_bytes": 765
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "fef35a7394ebcf0b2bcdb38521b17ee5c1ea73f63668f4f60fbceb211d3a04ea",
+      "size_in_bytes": 513
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "7f40b9f1e299f244945ed2a1f0410b86cda49f41c95bd8e5ff54eaa9a7102137",
+      "size_in_bytes": 587
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/_compat.py",
+      "path_type": "hardlink",
+      "sha256": "562fc0d2b0107876d4f9af57d2db75c909bd46a92041b0d2c73470f16954f640",
+      "size_in_bytes": 860
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/_compat.pyc",
+      "path_type": "hardlink",
+      "sha256": "656b020e571c6469d85e8272babbd1e8bccef1d650832f127d6db7f8ff33024e",
+      "size_in_bytes": 1148
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/_structures.py",
+      "path_type": "hardlink",
+      "sha256": "448984089e1cff04e5693618c1960b1c489e6c331a00998ad683c0461c354f9a",
+      "size_in_bytes": 1416
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/_structures.pyc",
+      "path_type": "hardlink",
+      "sha256": "da1b7992f16ecfe9a55a697e87d0a9a6c1f6d199c9623838df16b42931ec1864",
+      "size_in_bytes": 3669
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/markers.py",
+      "path_type": "hardlink",
+      "sha256": "12782ac976de757241d1fab8c8ae555d840f08d29ac113a7cd838c8f445cb51e",
+      "size_in_bytes": 8185
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/markers.pyc",
+      "path_type": "hardlink",
+      "sha256": "611d162c4146d583712b9b3f5aec7975f263cc6d5ffb4fb250ae7c74d0aabe38",
+      "size_in_bytes": 11101
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/requirements.py",
+      "path_type": "hardlink",
+      "sha256": "433fc2cabe0f7622765628c77a78c726fbc1e4e2244fea9fa280a94ac563c8fc",
+      "size_in_bytes": 4271
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/requirements.pyc",
+      "path_type": "hardlink",
+      "sha256": "6d482b727c4daf3b869e1443884cba14f83c54a17838b04ff254f5462a3d3f1c",
+      "size_in_bytes": 4912
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/specifiers.py",
+      "path_type": "hardlink",
+      "sha256": "4803117abcceddf2b622415909a664bb065a2ff106a8734ecf8a678b8be19cdd",
+      "size_in_bytes": 28025
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/specifiers.pyc",
+      "path_type": "hardlink",
+      "sha256": "60594b782163583d088e932e3c7ddfc53e02485f1c8158b0e8155721f70c47f1",
+      "size_in_bytes": 23623
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/utils.py",
+      "path_type": "hardlink",
+      "sha256": "de6e96bcf9ba34dc44f2b9131a69f4afbe41fc66521a0ee291a7f11ec04dd560",
+      "size_in_bytes": 421
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/utils.pyc",
+      "path_type": "hardlink",
+      "sha256": "f585aef52891a39e5a78b5926767d9cb45a88ad499a0ce9001cb711d70a14fdd",
+      "size_in_bytes": 546
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/version.py",
+      "path_type": "hardlink",
+      "sha256": "3b01a7c587ebda084dcd8c79f6a588064acadd29c1ea7f997ddd5768ba679ccd",
+      "size_in_bytes": 11556
+    },
+    {
+      "_path": "lib/python2.7/site-packages/packaging/version.pyc",
+      "path_type": "hardlink",
+      "sha256": "5fa1b09c9b85727614aa11d2f662905162357b76c3f53279e76da9e1e07ec921",
+      "size_in_bytes": 13266
+    }
+  ],
+  "paths_version": 1
+}

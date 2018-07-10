@@ -1,0 +1,29 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/PyAudio-0.2.7-py2.7.egg-info", 
+    "lib/python2.7/site-packages/_portaudio.so", 
+    "lib/python2.7/site-packages/pyaudio.py", 
+    "lib/python2.7/site-packages/pyaudio.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "MIT", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/pyaudio-0.2.7-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "15a2f07084391414a13b4de26e853552", 
+  "name": "pyaudio", 
+  "platform": "osx", 
+  "requires": [
+    "python 2.7"
+  ], 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/pyaudio-0.2.7-py27_0.tar.bz2", 
+  "version": "0.2.7"
+}

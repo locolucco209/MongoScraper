@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*", 
+    "toolz >=0.8.0"
+  ], 
+  "license": "BSD", 
+  "name": "cytoolz", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "0.8.2"
+}

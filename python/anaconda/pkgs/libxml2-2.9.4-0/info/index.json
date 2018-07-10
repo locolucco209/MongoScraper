@@ -1,0 +1,15 @@
+{
+  "arch": "x86_64", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [
+    "libiconv", 
+    "zlib 1.2.*"
+  ], 
+  "license": "MIT", 
+  "license_family": "MIT", 
+  "name": "libxml2", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "2.9.4"
+}

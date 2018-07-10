@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/Users/lukemassetti/anaconda
+exec_prefix=/Users/lukemassetti/anaconda
+libdir=/Users/lukemassetti/anaconda/lib
+includedir=/Users/lukemassetti/anaconda/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: http://tukaani.org/xz/
+Version: 5.2.2
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -D_THREAD_SAFE -pthread 

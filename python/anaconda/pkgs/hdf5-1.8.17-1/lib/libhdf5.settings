@@ -1,0 +1,65 @@
+	    SUMMARY OF THE HDF5 CONFIGURATION
+	    =================================
+
+General Information:
+-------------------
+		   HDF5 Version: 1.8.17
+		  Configured on: Tue Aug  2 08:44:51 BST 2016
+		  Configured by: ray@rays-Mac.local
+		 Configure mode: production
+		    Host system: i386-apple-darwin11.4.2
+	      Uname information: Darwin rays-Mac.local 11.4.2 Darwin Kernel Version 11.4.2: Thu Aug 23 16:25:48 PDT 2012; root:xnu-1699.32.7~1/RELEASE_X86_64 x86_64
+		       Byte sex: little-endian
+		      Libraries: shared
+	     Installation point: /opt/anaconda1anaconda2anaconda3
+
+Compiling Options:
+------------------
+               Compilation Mode: production
+                     C Compiler: /usr/bin/clang ( Apple LLVM version 4.2 )
+                         CFLAGS:  -arch x86_64
+                      H5_CFLAGS:  -O3
+                      AM_CFLAGS: 
+                       CPPFLAGS: 
+                    H5_CPPFLAGS:   -DNDEBUG -UH5_DEBUG_API
+                    AM_CPPFLAGS: 
+               Shared C Library: yes
+               Static C Library: no
+  Statically Linked Executables: no
+                        LDFLAGS:  -arch x86_64
+                     H5_LDFLAGS: 
+                     AM_LDFLAGS: 
+ 	 	Extra libraries: -lpthread -lz -ldl -lm 
+ 		       Archiver: ar
+ 		 	 Ranlib: ranlib
+ 	      Debugged Packages: 
+		    API Tracing: no
+
+Languages:
+----------
+                        Fortran: no
+
+                            C++: yes
+                   C++ Compiler: /usr/bin/clang++ ( Apple LLVM version 4.2 )
+                      C++ Flags:  -arch x86_64
+                   H5 C++ Flags:  -O3
+                   AM C++ Flags: 
+             Shared C++ Library: yes
+             Static C++ Library: no
+
+Features:
+---------
+                  Parallel HDF5: no
+             High Level library: yes
+                   Threadsafety: yes
+            Default API Mapping: v18
+ With Deprecated Public Symbols: yes
+         I/O filters (external): deflate(zlib)
+                            MPE: no
+                     Direct VFD: no
+                        dmalloc: no
+Clear file buffers before write: yes
+           Using memory checker: no
+         Function Stack Tracing: no
+      Strict File Format Checks: no
+   Optimization Instrumentation: no

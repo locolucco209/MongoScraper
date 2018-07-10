@@ -1,0 +1,14 @@
+prefix=/Users/lukemassetti/anaconda
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/qt
+
+
+Name: Qt5 UiTools
+Description: Qt UiTools module
+Version: 5.6.2
+Libs: -L${libdir} -lQt5UiTools 
+Libs.private: -L/Users/lukemassetti/anaconda/lib -lQt5Widgets -framework DiskArbitration -framework IOKit -L/Users/lukemassetti/anaconda/lib -lQt5Gui -lQt5Core -lQt5Widgets -L/Users/lukemassetti/anaconda/lib -framework DiskArbitration -framework IOKit -L/Users/lukemassetti/anaconda/lib -lQt5Gui -lQt5Core -framework OpenGL -framework AGL  
+Cflags: -I${includedir}/QtUiTools -I${includedir}
+Requires: Qt5Core Qt5Gui Qt5Widgets
+

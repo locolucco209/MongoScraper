@@ -1,0 +1,27 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "click >=6.6", 
+    "cloudpickle >=0.2.2", 
+    "dask >=0.14.1", 
+    "futures", 
+    "msgpack-python", 
+    "psutil", 
+    "python 2.7*", 
+    "singledispatch", 
+    "six", 
+    "sortedcollections", 
+    "tblib", 
+    "toolz >=0.7.4", 
+    "tornado >=4.2", 
+    "zict >=0.1.1"
+  ], 
+  "license": "BSD 3-Clause", 
+  "license_family": "BSD", 
+  "name": "distributed", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "1.16.3"
+}

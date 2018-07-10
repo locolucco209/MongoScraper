@@ -1,0 +1,40 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/alabaster-0.7.10-py2.7.egg-info/PKG-INFO", 
+    "lib/python2.7/site-packages/alabaster-0.7.10-py2.7.egg-info/SOURCES.txt", 
+    "lib/python2.7/site-packages/alabaster-0.7.10-py2.7.egg-info/dependency_links.txt", 
+    "lib/python2.7/site-packages/alabaster-0.7.10-py2.7.egg-info/top_level.txt", 
+    "lib/python2.7/site-packages/alabaster/__init__.py", 
+    "lib/python2.7/site-packages/alabaster/__init__.pyc", 
+    "lib/python2.7/site-packages/alabaster/_version.py", 
+    "lib/python2.7/site-packages/alabaster/_version.pyc", 
+    "lib/python2.7/site-packages/alabaster/about.html", 
+    "lib/python2.7/site-packages/alabaster/donate.html", 
+    "lib/python2.7/site-packages/alabaster/layout.html", 
+    "lib/python2.7/site-packages/alabaster/navigation.html", 
+    "lib/python2.7/site-packages/alabaster/relations.html", 
+    "lib/python2.7/site-packages/alabaster/static/alabaster.css_t", 
+    "lib/python2.7/site-packages/alabaster/static/custom.css", 
+    "lib/python2.7/site-packages/alabaster/support.py", 
+    "lib/python2.7/site-packages/alabaster/support.pyc", 
+    "lib/python2.7/site-packages/alabaster/theme.conf"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/alabaster-0.7.10-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "b537800e2ddf47cac2e7167b6b389d46", 
+  "name": "alabaster", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/alabaster-0.7.10-py27_0.tar.bz2", 
+  "version": "0.7.10"
+}

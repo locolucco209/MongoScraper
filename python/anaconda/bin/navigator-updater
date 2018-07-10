@@ -1,0 +1,6 @@
+#!/bin/bash /Users/lukemassetti/anaconda/bin/python.app
+if __name__ == '__main__':
+    import sys
+    import navigator_updater.app.main
+
+    sys.exit(navigator_updater.app.main.main())

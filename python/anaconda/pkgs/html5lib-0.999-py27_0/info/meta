@@ -1,0 +1,7 @@
+pkg: html5lib-0.999
+dist: html5lib-0.999-py27_0
+home: https://github.com/html5lib/html5lib-python
+license: MIT
+has_bin: False
+has_lib: False
+has_py: True

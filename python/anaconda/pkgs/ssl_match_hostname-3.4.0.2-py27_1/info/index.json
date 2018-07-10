@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "backports", 
+    "python 2.7*"
+  ], 
+  "license": "PSF", 
+  "name": "ssl_match_hostname", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "3.4.0.2"
+}

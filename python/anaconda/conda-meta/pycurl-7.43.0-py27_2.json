@@ -1,0 +1,30 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_2", 
+  "build_number": 2, 
+  "depends": [
+    "curl 7.52.*", 
+    "openssl 1.0.2*", 
+    "python 2.7*", 
+    "zlib 1.2.*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/curl/__init__.py", 
+    "lib/python2.7/site-packages/curl/__init__.pyc", 
+    "lib/python2.7/site-packages/pycurl-7.43.0-py2.7.egg-info", 
+    "lib/python2.7/site-packages/pycurl.so"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "LGPL, MIT", 
+  "license_family": "LGPL", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/pycurl-7.43.0-py27_2", 
+    "type": "hard-link"
+  }, 
+  "md5": "c1e4a68de45e38bea80bd1fe9da38a0e", 
+  "name": "pycurl", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/pycurl-7.43.0-py27_2.tar.bz2", 
+  "version": "7.43.0"
+}

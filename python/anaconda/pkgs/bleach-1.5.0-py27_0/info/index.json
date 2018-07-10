@@ -1,0 +1,16 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "html5lib >=0.999,!=0.9999,!=0.99999,<0.99999999", 
+    "python 2.7*", 
+    "six"
+  ], 
+  "license": "Apache Software License", 
+  "license_family": "Apache", 
+  "name": "bleach", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "1.5.0"
+}

@@ -1,0 +1,83 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/colorama-0.3.9-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "edb293e162aa06928941e07fcaa32ba2a0726a6bcbdc3f2ded2fec3129c6d116",
+      "size_in_bytes": 15860
+    },
+    {
+      "_path": "lib/python2.7/site-packages/colorama/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "577f87bffbce6beda513943fd261a4761668fbd7b85eb1935bfe38714f35a906",
+      "size_in_bytes": 240
+    },
+    {
+      "_path": "lib/python2.7/site-packages/colorama/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "a036570e8f4973bda35a972ab237920d8cb7c1903e4a7d25f30a5136a7ad1662",
+      "size_in_bytes": 466
+    },
+    {
+      "_path": "lib/python2.7/site-packages/colorama/ansi.py",
+      "path_type": "hardlink",
+      "sha256": "162d2e9fe40ba919bebfba3f9ca88eab20bc3daa4124aec32d5feaf4b2ad4ced",
+      "size_in_bytes": 2524
+    },
+    {
+      "_path": "lib/python2.7/site-packages/colorama/ansi.pyc",
+      "path_type": "hardlink",
+      "sha256": "01b4ada5934d967b9f80a31ba965e3446313678c1687fc6e2550c2ba6460b21d",
+      "size_in_bytes": 4160
+    },
+    {
+      "_path": "lib/python2.7/site-packages/colorama/ansitowin32.py",
+      "path_type": "hardlink",
+      "sha256": "42b89e617dadb1a5883b5f4fe9b88c6b5cd40adfbf69bb9da04a76fc876a6595",
+      "size_in_bytes": 9668
+    },
+    {
+      "_path": "lib/python2.7/site-packages/colorama/ansitowin32.pyc",
+      "path_type": "hardlink",
+      "sha256": "b929af1bb9a4c9ec8a366a4c58e29c86ab08da680d23905d482149bba2d894a4",
+      "size_in_bytes": 8996
+    },
+    {
+      "_path": "lib/python2.7/site-packages/colorama/initialise.py",
+      "path_type": "hardlink",
+      "sha256": "707a9526d6fcd8e1bb1d40b1bd0da3a06ecdfc2a316c829b23f7e0af26648f6d",
+      "size_in_bytes": 1917
+    },
+    {
+      "_path": "lib/python2.7/site-packages/colorama/initialise.pyc",
+      "path_type": "hardlink",
+      "sha256": "8216d7cb326da70d4ffbccc72d71adb7397bfee9e08c442630c30c6eb0bd9e18",
+      "size_in_bytes": 2235
+    },
+    {
+      "_path": "lib/python2.7/site-packages/colorama/win32.py",
+      "path_type": "hardlink",
+      "sha256": "e4773b2f52da6ee6eb60385d5807d1cb396dd7812b3f760a0ef7ffcd869aacb9",
+      "size_in_bytes": 5426
+    },
+    {
+      "_path": "lib/python2.7/site-packages/colorama/win32.pyc",
+      "path_type": "hardlink",
+      "sha256": "aa67b182cc6699d8878e6a7af21bba333c10f4ae19963a20b998d771d1b495c8",
+      "size_in_bytes": 4993
+    },
+    {
+      "_path": "lib/python2.7/site-packages/colorama/winterm.py",
+      "path_type": "hardlink",
+      "sha256": "57b53ba23c06d6ae27e8f2ab8a98c4bd6fe1b58422e6e79748cdcb514a2aa836",
+      "size_in_bytes": 6290
+    },
+    {
+      "_path": "lib/python2.7/site-packages/colorama/winterm.pyc",
+      "path_type": "hardlink",
+      "sha256": "3a4a65205820da9ed092ac83e9d0bf6a84ba5d47f0c54abd3ec1f34274a244e0",
+      "size_in_bytes": 5750
+    }
+  ],
+  "paths_version": 1
+}

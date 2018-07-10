@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "jupyter_core", 
+    "python 2.7*", 
+    "python-dateutil >=2.1", 
+    "pyzmq >=13.0", 
+    "traitlets"
+  ], 
+  "license": "BSD", 
+  "name": "jupyter_client", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "5.0.1"
+}

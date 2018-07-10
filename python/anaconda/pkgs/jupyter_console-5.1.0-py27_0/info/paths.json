@@ -1,0 +1,151 @@
+{
+  "paths": [
+    {
+      "_path": "bin/jupyter-console",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "8a9408f9414911384c08e6834292656a0985a464c4865208dbb69cb58f24206c",
+      "size_in_bytes": 121
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console-5.1.0-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "5be0992751249c845d68b7c82d32ad67d2d5cde01fc4aab5ad9b9c7040314d69",
+      "size_in_bytes": 781
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "2877aafd74abc6c8ac0becfc3780ef5c1a7c78722c91e4c7f69c5517baa9b5fe",
+      "size_in_bytes": 80
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "6ecbe2673ab245186753b73c19325c2d23cb5c6ecb35f0dbc3da42fc04cdf3d7",
+      "size_in_bytes": 279
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/__main__.py",
+      "path_type": "hardlink",
+      "sha256": "f6c8d514ff6768655ce57590e9e87fe8fa5f8746d83104c5cd01d30bfd0cc67b",
+      "size_in_bytes": 90
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/__main__.pyc",
+      "path_type": "hardlink",
+      "sha256": "43e44f1ce37082d80aeef44988dde4300687cb39cac03cdfe1661a62ceca71fe",
+      "size_in_bytes": 280
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/_version.py",
+      "path_type": "hardlink",
+      "sha256": "8c1a29d802a9074c1507da90d9dcbb4a84f2f389dcd16e58f2412db32cc225a6",
+      "size_in_bytes": 349
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/_version.pyc",
+      "path_type": "hardlink",
+      "sha256": "95d0339e67ec9f42004d23d4e3933d6a77e624ac53b15efba02b50dac670548d",
+      "size_in_bytes": 565
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/app.py",
+      "path_type": "hardlink",
+      "sha256": "793c6a765f39ef39df5c77eaed95fb84ede0cbdd916005b8c91364a1eefee9d5",
+      "size_in_bytes": 5296
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/app.pyc",
+      "path_type": "hardlink",
+      "sha256": "7c8b367e17df642a23afb9838f3a60c247b1e07138a2dbf325c8c4bcc9b0a4ab",
+      "size_in_bytes": 4990
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/completer.py",
+      "path_type": "hardlink",
+      "sha256": "78451c5d96c4b6ee6a5c7fbe41b2d617fe89f85dcceacbc9542eb4ca89348029",
+      "size_in_bytes": 1442
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/completer.pyc",
+      "path_type": "hardlink",
+      "sha256": "aed9e7930176bff22e07798bb7ce7166a6823cf295232393f96cf7bbc236251c",
+      "size_in_bytes": 1856
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/ptshell.py",
+      "path_type": "hardlink",
+      "sha256": "717ad9ce382bc54f88b9eb4512b41b6a6d1dc417dc8dddd1ac512e68ec9515cd",
+      "size_in_bytes": 32196
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/ptshell.pyc",
+      "path_type": "hardlink",
+      "sha256": "6d833f693e768df795caca0b7b398a8c7911d88baff4111079bc358dd7df5c9b",
+      "size_in_bytes": 29897
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "b18d541468e13d3d8e4d793ff1692a6a3504ef65226eace33c6e20ccbfcb80c7",
+      "size_in_bytes": 148
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/tests/test_console.py",
+      "path_type": "hardlink",
+      "sha256": "0e231f889b2e38e59f193fda3a068b21863b7a8f37439aba18a1a4ebb9c3b08d",
+      "size_in_bytes": 2405
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/tests/test_console.pyc",
+      "path_type": "hardlink",
+      "sha256": "972baae8cdb4919758bee6ae84906e0e01fc46e9942efa1edeb53b53109d6244",
+      "size_in_bytes": 3402
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/tests/test_image_handler.py",
+      "path_type": "hardlink",
+      "sha256": "9d465f227650f8605a2462e6612d02fd028b4806275efd8cc985fe70231e08f5",
+      "size_in_bytes": 3464
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/tests/test_image_handler.pyc",
+      "path_type": "hardlink",
+      "sha256": "adb859f7959cf7123c8002863bc40e0881d2c1c4a0608679b389dd6fa085241c",
+      "size_in_bytes": 5502
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/tests/writetofile.py",
+      "path_type": "hardlink",
+      "sha256": "1f1eb0671abe1492aaceb7cef26c4ab0fcce2c5bab2b5d5016bbb9ffef746135",
+      "size_in_bytes": 895
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/tests/writetofile.pyc",
+      "path_type": "hardlink",
+      "sha256": "f50c0006332e6bfb89be6e26e198c8356495aaebd70af8a9d3661fd37e53d6d7",
+      "size_in_bytes": 754
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/zmqhistory.py",
+      "path_type": "hardlink",
+      "sha256": "1c1936883645af2f5f2e0855385e746ab9f054e7fa80862e39b3ddfd067e7140",
+      "size_in_bytes": 3526
+    },
+    {
+      "_path": "lib/python2.7/site-packages/jupyter_console/zmqhistory.pyc",
+      "path_type": "hardlink",
+      "sha256": "cda55ea9df48ad67046d8bfc4e8a37e89ca8ea09702e2edca76fbb703fc35fca",
+      "size_in_bytes": 3749
+    }
+  ],
+  "paths_version": 1
+}

@@ -1,0 +1,133 @@
+html {
+  overflow-y: scroll;
+}
+
+body {
+  background-color: black;
+  font-family: Helvetica, sans-serif;
+}
+
+.header .col-sm {
+  margin: 15px;
+  padding-bottom: 15px;
+}
+
+.top-story .col-sm {
+  line-height: 1.6;
+}
+
+.Brands-to-Follow {
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 50%;
+  border: epx solid #2c2c2c;
+  padding: 5px;
+  text-align: center;
+  line-height: 1.6;
+}
+
+.exchanges {
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 50%;
+  border: epx solid #2c2c2c;
+  padding: 5px;
+  text-align: center;
+  line-height: 1.6;
+}
+
+.wallets {
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 50%;
+  border: epx solid #2c2c2c;
+  padding: 5px;
+  text-align: center;
+  line-height: 1.6;
+}
+
+p {
+  font-style: italic;
+  color: green;
+}
+
+a {
+  color: #E9FF00;
+  font-size: 18px;
+  text-decoration: none;
+  text-shadow: -1px 1px #818181;
+}
+
+a:hover {
+  color: #FF9700;
+  text-shadow: none;
+}
+
+a:visited {
+  color: #575757;
+  text-shadow: none;
+}
+
+h2 {
+  color: grey;
+  text-align: left;
+  margin: 5px;
+}
+
+h4 {
+  color: #34c2ff;
+  text-align: center;
+  margin: 5px;
+}
+
+.Footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: rgb(77, 77, 77);
+  text-align: center;
+  padding: 20px;
+  background-color: black;
+}
+
+@media screen and (max-width:320px) {
+  .Site-Title-Img {
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100%;
+    padding: 5px;
+    text-align: left;
+  }
+  .Header-Intro-Story {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100%;
+    border: 5px solid #2c2c2c;
+    padding: 5px;
+    text-align: left;
+    line-height: 1.6;
+  }
+  .Site-Material {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100%;
+    border: 5px solid #2c2c2c;
+    padding: 5px;
+    text-align: left;
+    line-height: 1.6;
+  }
+  .Brands-to-Follow {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100%;
+    border: 5px solid #2c2c2c;
+    padding: 5px;
+    text-align: center;
+    line-height: 1.6;
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_3", 
+  "build_number": 3, 
+  "depends": [
+    "mkl >=11.0", 
+    "python 2.7*"
+  ], 
+  "license": "3-clause BSD", 
+  "license_family": "BSD", 
+  "name": "mkl-service", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "1.1.2"
+}

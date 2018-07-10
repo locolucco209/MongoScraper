@@ -1,0 +1,35 @@
+package:
+  name: cytoolz
+  version: 0.8.2
+
+source:
+  fn: cytoolz-0.8.2.tar.gz
+  url: https://pypi.python.org/packages/0f/e6/ccc124714dcc1bd511e64ddafb4d5d20ada2533b92e3173a4cf09e0d0831/cytoolz-0.8.2.tar.gz
+  md5: 06bd40dbb1257131094ca819054eb492
+  patches:
+    - setup.patch
+
+requirements:
+  build:
+    - python
+    - cython
+    - toolz >=0.8.0
+  run:
+    - python
+    - toolz >=0.8.0
+
+test:
+  imports:
+    - cytoolz
+
+about:
+  home: https://github.com/pytoolz/cytoolz
+  license: BSD
+  license_file: LICENSE.txt
+  summary: Cython implementation of Toolz, high performance functional utilities
+  description: |
+    CyToolz is the Cython implementation of the toolz package, which provides
+    high performance utility functions for iterables, functions, and
+    dictionaries.
+  doc_url: http://toolz.readthedocs.org
+  dev_url: https://github.com/pytoolz/cytoolz

@@ -1,0 +1,13 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_2", 
+  "build_number": 2, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "license": "MIT", 
+  "name": "jedi", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "0.10.2"
+}

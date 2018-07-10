@@ -1,0 +1,10 @@
+bin/icu-config
+lib/icu/54.1/Makefile.inc
+lib/icu/54.1/pkgdata.inc
+lib/icu/Makefile.inc
+lib/icu/pkgdata.inc
+lib/pkgconfig/icu-i18n.pc
+lib/pkgconfig/icu-io.pc
+lib/pkgconfig/icu-le.pc
+lib/pkgconfig/icu-lx.pc
+lib/pkgconfig/icu-uc.pc

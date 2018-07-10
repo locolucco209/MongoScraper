@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "python 2.7*", 
+    "yaml 0.1.6"
+  ], 
+  "license": "MIT", 
+  "name": "ruamel_yaml", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "0.11.14"
+}

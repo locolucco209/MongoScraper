@@ -1,0 +1,11 @@
+pkg: appscript-1.0.1
+dist: appscript-1.0.1-py27_0
+home: http://appscript.sourceforge.net/
+license: Public Domain
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

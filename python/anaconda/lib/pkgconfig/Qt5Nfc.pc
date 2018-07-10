@@ -1,0 +1,14 @@
+prefix=/Users/lukemassetti/anaconda
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/qt
+
+
+Name: Qt5 Nfc
+Description: Qt Nfc module
+Version: 5.6.2
+Libs: -L${libdir} -lQt5Nfc 
+Libs.private: -L/Users/lukemassetti/anaconda/lib -lQt5Core -framework DiskArbitration -framework IOKit -L/Users/lukemassetti/anaconda/lib   
+Cflags: -I${includedir}/QtNfc -I${includedir}
+Requires: Qt5Core
+

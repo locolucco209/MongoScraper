@@ -1,0 +1,28 @@
+# This file created by conda-build 2.0.8
+# meta.yaml template originally from:
+# /Users/ilan/anaconda/packages/backports_abc, last modified Wed Dec  7 12:32:23 2016
+# ------------------------------------------------
+
+package:
+    name: backports_abc
+    version: '0.5'
+source:
+    fn: backports_abc-0.5.tar.gz
+    md5: 7d1936ec183a3586290adf60f6f96764
+    url: https://pypi.python.org/packages/68/3c/1317a9113c377d1e33711ca8de1e80afbaf4a3c950dd0edfaf61f9bfe6d8/backports_abc-0.5.tar.gz
+build: {}
+requirements:
+    build:
+        - python
+    run:
+        - python
+test:
+    imports:
+        - backports_abc
+about:
+    dev_url: https://github.com/cython/backports_abc
+    doc_url: https://pypi.python.org/pypi/backports_abc
+    home: https://github.com/cython/backports_abc
+    license: PSF
+    license_file: LICENSE
+    summary: backport of recent additions to the 'collections.abc' module

@@ -1,0 +1,14 @@
+prefix=/opt/anaconda1anaconda2anaconda3
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/qt
+
+
+Name: Qt5 QuickWidgets
+Description: Qt QuickWidgets module
+Version: 5.6.2
+Libs: -L${libdir} -lQt5QuickWidgets 
+Libs.private: -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Quick -L/opt/anaconda1anaconda2anaconda3/lib -framework DiskArbitration -framework IOKit -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Widgets -lQt5Gui -lQt5Qml -lQt5Network -lQt5Core -framework OpenGL -framework AGL  
+Cflags: -I${includedir}/QtQuickWidgets -I${includedir}
+Requires: Qt5Core Qt5Gui Qt5Qml Qt5Quick Qt5Widgets
+

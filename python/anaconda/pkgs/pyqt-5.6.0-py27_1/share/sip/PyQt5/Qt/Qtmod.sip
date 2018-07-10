@@ -1,0 +1,26 @@
+%CompositeModule PyQt5.Qt
+
+%Include QtCore/QtCoremod.sip
+%Include QtGui/QtGuimod.sip
+%Include QtNetwork/QtNetworkmod.sip
+%Include QtMultimedia/QtMultimediamod.sip
+%Include QtQml/QtQmlmod.sip
+%Include QtWidgets/QtWidgetsmod.sip
+%Include QtXml/QtXmlmod.sip
+%Include QtXmlPatterns/QtXmlPatternsmod.sip
+%Include QtDesigner/QtDesignermod.sip
+%Include QtHelp/QtHelpmod.sip
+%Include QtMultimediaWidgets/QtMultimediaWidgetsmod.sip
+%Include QtOpenGL/QtOpenGLmod.sip
+%Include QtPrintSupport/QtPrintSupportmod.sip
+%Include QtQuick/QtQuickmod.sip
+%Include QtSql/QtSqlmod.sip
+%Include QtSvg/QtSvgmod.sip
+%Include QtBluetooth/QtBluetoothmod.sip
+%Include QtMacExtras/QtMacExtrasmod.sip
+%Include QtQuickWidgets/QtQuickWidgetsmod.sip
+%Include QtWebSockets/QtWebSocketsmod.sip
+%Include QtWebChannel/QtWebChannelmod.sip
+%Include QtWebEngineCore/QtWebEngineCoremod.sip
+%Include QtWebEngineWidgets/QtWebEngineWidgetsmod.sip
+%Include QtNfc/QtNfcmod.sip

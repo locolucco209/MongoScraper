@@ -1,0 +1,113 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy-1.2.2-py2.7-macosx-10.7-x86_64.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "0ac4d9cba0b7e38a2e4fab9efda0798adae7d258710815253faa61993524b3fb",
+      "size_in_bytes": 3025
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy-1.2.2-py2.7-macosx-10.7-x86_64.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "bf4dc790f0a942235edbd6fa9df3788f1040408ed2f0c1d5631c7e2cb54cd966",
+      "size_in_bytes": 1062
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy-1.2.2-py2.7-macosx-10.7-x86_64.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy-1.2.2-py2.7-macosx-10.7-x86_64.egg-info/native_libs.txt",
+      "path_type": "hardlink",
+      "sha256": "a38d72b7b53cd451ffe3c3a29d294184139c566b56b13cd399afa8546bfeee64",
+      "size_in_bytes": 26
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy-1.2.2-py2.7-macosx-10.7-x86_64.egg-info/not-zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy-1.2.2-py2.7-macosx-10.7-x86_64.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "50d1fe15007e8fff1b62a3f3de00fdd241ef682e364d0a98d2d8474a76da6b49",
+      "size_in_bytes": 18
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "c1f280e3b3534ab91a6a06caef8d5c0e85864caffecec5a7a85db696138ba426",
+      "size_in_bytes": 332
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "7218778c6e140d5d90b1fa62a701c03d0f9b2964d520394ecd8f2398e6bb73f3",
+      "size_in_bytes": 589
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy/cext.c",
+      "path_type": "hardlink",
+      "sha256": "b2e1615410eccfc036d721c34d1dbcd6e4494ce22b3e50bf893f7b9ace3e44ee",
+      "size_in_bytes": 38758
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy/cext.so",
+      "path_type": "hardlink",
+      "sha256": "8978cbba57de46bec23e7e95962b8a1db071705aa8a0e732eda7b9f29ff9e7b7",
+      "size_in_bytes": 40180
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy/compat.py",
+      "path_type": "hardlink",
+      "sha256": "0d8dc76cac1badb78a63ab645d13512c9d60a3a1c96fc1d4c16ab2c374f983f8",
+      "size_in_bytes": 196
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy/compat.pyc",
+      "path_type": "hardlink",
+      "sha256": "294642e05526a2e546fb9fe89ac25266997ea958aa7406942ebc32b39e416515",
+      "size_in_bytes": 605
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy/simple.py",
+      "path_type": "hardlink",
+      "sha256": "04e64921ae307408bfe0e5143f5a78eb62cbcc475eccac5a239b39e9236cc919",
+      "size_in_bytes": 8204
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy/simple.pyc",
+      "path_type": "hardlink",
+      "sha256": "1a5b2f4012995090fce31d13be4898dd7f4f9e10c2691f4cf5647944c1e56061",
+      "size_in_bytes": 12397
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy/slots.py",
+      "path_type": "hardlink",
+      "sha256": "7116a26acf4f33ef3a913548e1dfe85633e0361645839eabbcc81d1a4c7a4b5b",
+      "size_in_bytes": 11339
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy/slots.pyc",
+      "path_type": "hardlink",
+      "sha256": "8d857d69e2e53a8c3a9ffdc8e386ab9da2a4686c19287b8fedbac2a732db0cd7",
+      "size_in_bytes": 26128
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy/utils.py",
+      "path_type": "hardlink",
+      "sha256": "c785d3aed969fe60d358efc43aafc82c83afd90a25f112cc9d19b933c97739f5",
+      "size_in_bytes": 291
+    },
+    {
+      "_path": "lib/python2.7/site-packages/lazy_object_proxy/utils.pyc",
+      "path_type": "hardlink",
+      "sha256": "36be80bcccc956225d036f402b56a729d7834c656cd2180bb32a8fe54e483e04",
+      "size_in_bytes": 1226
+    }
+  ],
+  "paths_version": 1
+}

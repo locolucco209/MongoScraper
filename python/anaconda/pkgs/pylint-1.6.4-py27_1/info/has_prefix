@@ -1,0 +1,5 @@
+/opt/anaconda1anaconda2anaconda3 text bin/epylint
+/opt/anaconda1anaconda2anaconda3 text bin/pylint
+/opt/anaconda1anaconda2anaconda3 text bin/pylint-gui
+/opt/anaconda1anaconda2anaconda3 text bin/pyreverse
+/opt/anaconda1anaconda2anaconda3 text bin/symilar

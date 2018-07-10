@@ -1,0 +1,6 @@
+/opt/anaconda1anaconda2anaconda3 text bin/libpng-config
+/opt/anaconda1anaconda2anaconda3 text bin/libpng16-config
+/opt/anaconda1anaconda2anaconda3 text lib/libpng.la
+/opt/anaconda1anaconda2anaconda3 text lib/libpng16.la
+/opt/anaconda1anaconda2anaconda3 text lib/pkgconfig/libpng.pc
+/opt/anaconda1anaconda2anaconda3 text lib/pkgconfig/libpng16.pc

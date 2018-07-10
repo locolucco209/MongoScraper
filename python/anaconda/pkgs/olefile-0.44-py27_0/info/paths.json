@@ -1,0 +1,71 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/OleFileIO_PL.py",
+      "path_type": "hardlink",
+      "sha256": "aa2cc04c0a430eb12b7113fe086443d804cb774ef8217eb099515a51508999c0",
+      "size_in_bytes": 1047
+    },
+    {
+      "_path": "lib/python2.7/site-packages/OleFileIO_PL.pyc",
+      "path_type": "hardlink",
+      "sha256": "f74b0759470acca50cc7f7ff680bfb8ecd24e58ef29081eccaf27ff0cdce07c4",
+      "size_in_bytes": 1121
+    },
+    {
+      "_path": "lib/python2.7/site-packages/olefile-0.44-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "b36966384f1762cc80a55daa59364d90fe868b89c2c6f199c61aa95a4676a237",
+      "size_in_bytes": 12456
+    },
+    {
+      "_path": "lib/python2.7/site-packages/olefile/CONTRIBUTORS.txt",
+      "path_type": "hardlink",
+      "sha256": "0d86445b920671e9c87d9d6f16653918273da05c9e2f9329a8137ca5500f12f7",
+      "size_in_bytes": 950
+    },
+    {
+      "_path": "lib/python2.7/site-packages/olefile/LICENSE.txt",
+      "path_type": "hardlink",
+      "sha256": "7f4c63907b3c099d136ee1398a8dc5b7c4f462ff6d57accc592c3bc448f3fc4b",
+      "size_in_bytes": 2902
+    },
+    {
+      "_path": "lib/python2.7/site-packages/olefile/README.html",
+      "path_type": "hardlink",
+      "sha256": "de5341360ed43204b87b892428b01182916a3d95d80dad05630d0118946b45bc",
+      "size_in_bytes": 9819
+    },
+    {
+      "_path": "lib/python2.7/site-packages/olefile/README.rst",
+      "path_type": "hardlink",
+      "sha256": "3a7fe8ba7dda05bd14cc9dd67fd34f0355f19ab8f20ca5cfb727695f26615131",
+      "size_in_bytes": 9334
+    },
+    {
+      "_path": "lib/python2.7/site-packages/olefile/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "49a265bbfdec1acaf063cdb9334857b6e657e6b7cec796257ea2b0f707da9f92",
+      "size_in_bytes": 1194
+    },
+    {
+      "_path": "lib/python2.7/site-packages/olefile/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "850e9ea672b994fea3440a413910c8a0f8114f8ac3d0813d156a57a99d872858",
+      "size_in_bytes": 1390
+    },
+    {
+      "_path": "lib/python2.7/site-packages/olefile/olefile.py",
+      "path_type": "hardlink",
+      "sha256": "be21b89eb8f2c0eaaa74a7862893bdb0b9128a5bfba671cc89874980d70da35b",
+      "size_in_bytes": 111647
+    },
+    {
+      "_path": "lib/python2.7/site-packages/olefile/olefile.pyc",
+      "path_type": "hardlink",
+      "sha256": "f13da9b0c4bb5fa6cd44eff342cf2aad1f16365aef7ff8e1bd24777212a5ce2c",
+      "size_in_bytes": 60806
+    }
+  ],
+  "paths_version": 1
+}

@@ -1,0 +1,89 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/widgetsnbextension-2.0.0-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "c62d5433542c06d679073d5e0d311a5d943f64646a7c2d90b240244fc7a09b27",
+      "size_in_bytes": 1469
+    },
+    {
+      "_path": "lib/python2.7/site-packages/widgetsnbextension-2.0.0-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "c1c1040239869ae4852dd0015605d679e6a86d1850bf86f3a7383d2570d63f5f",
+      "size_in_bytes": 565
+    },
+    {
+      "_path": "lib/python2.7/site-packages/widgetsnbextension-2.0.0-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/widgetsnbextension-2.0.0-py2.7.egg-info/not-zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/widgetsnbextension-2.0.0-py2.7.egg-info/requires.txt",
+      "path_type": "hardlink",
+      "sha256": "7bab88ad624b96712351f15921da949ce9bdd775f06d6289df9acd77f1ae6404",
+      "size_in_bytes": 64
+    },
+    {
+      "_path": "lib/python2.7/site-packages/widgetsnbextension-2.0.0-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "f2651b7e38dd42b952344dd68cbcfed4112546878cf3ee21cd46641e56f156fb",
+      "size_in_bytes": 19
+    },
+    {
+      "_path": "lib/python2.7/site-packages/widgetsnbextension/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "231e7c8b0eb14f79a2b0dd8fb9d0f19c6788805c4130f6d40212b754f6a640d6",
+      "size_in_bytes": 765
+    },
+    {
+      "_path": "lib/python2.7/site-packages/widgetsnbextension/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "67e1ff8aab95542be4ef923ab68964556a3179d0586e09ab5d467db5fff37546",
+      "size_in_bytes": 1116
+    },
+    {
+      "_path": "lib/python2.7/site-packages/widgetsnbextension/_version.py",
+      "path_type": "hardlink",
+      "sha256": "f6fd0a6f3ac94f6295c9bf5ea5c5ceab6f0dc7a9178c0b7b3af2760085a86309",
+      "size_in_bytes": 72
+    },
+    {
+      "_path": "lib/python2.7/site-packages/widgetsnbextension/_version.pyc",
+      "path_type": "hardlink",
+      "sha256": "3f097365344c8e2272ea595701f7591e5e05e9c532f4becd93d5ac346db1bbf9",
+      "size_in_bytes": 271
+    },
+    {
+      "_path": "lib/python2.7/site-packages/widgetsnbextension/static/extension.js",
+      "path_type": "hardlink",
+      "sha256": "a49d44ecf93e04cfea26bd806e218c69912c6872472d680bf344027ecf22ea89",
+      "size_in_bytes": 1209364
+    },
+    {
+      "_path": "lib/python2.7/site-packages/widgetsnbextension/static/extension.js.map",
+      "path_type": "hardlink",
+      "sha256": "7585e9d1c8517cc77473a001bbcdf93128c0086392641c71ebe2afce8af42bf1",
+      "size_in_bytes": 1444977
+    },
+    {
+      "_path": "share/jupyter/nbextensions/jupyter-js-widgets/extension.js",
+      "path_type": "hardlink",
+      "sha256": "a49d44ecf93e04cfea26bd806e218c69912c6872472d680bf344027ecf22ea89",
+      "size_in_bytes": 1209364
+    },
+    {
+      "_path": "share/jupyter/nbextensions/jupyter-js-widgets/extension.js.map",
+      "path_type": "hardlink",
+      "sha256": "7585e9d1c8517cc77473a001bbcdf93128c0086392641c71ebe2afce8af42bf1",
+      "size_in_bytes": 1444977
+    }
+  ],
+  "paths_version": 1
+}

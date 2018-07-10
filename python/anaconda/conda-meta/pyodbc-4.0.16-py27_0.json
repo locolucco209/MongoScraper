@@ -1,0 +1,25 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*", 
+    "unixodbc 2.3.4"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/pyodbc-4.0.16-py2.7.egg-info", 
+    "lib/python2.7/site-packages/pyodbc.so"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "MIT", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/pyodbc-4.0.16-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "9d9d36b1b40c3ce85ec930c96ae222cc", 
+  "name": "pyodbc", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/pyodbc-4.0.16-py27_0.tar.bz2", 
+  "version": "4.0.16"
+}

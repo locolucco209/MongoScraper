@@ -1,0 +1,15 @@
+prefix=/Users/lukemassetti/anaconda
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/qt
+
+host_bins=${prefix}/bin
+qt_config=minimal-config small-config medium-config large-config full-config no-pkg-config c++11 accessibility opengl shared qpa reduce_exports getaddrinfo ipv6ifname getifaddrs png freetype no-harfbuzz system-zlib cups iconv ssl securetransport rpath corewlan icu concurrent audio-backend release
+
+Name: Qt5 Core
+Description: Qt Core module
+Version: 5.6.2
+Libs: -L${libdir} -lQt5Core 
+Libs.private: -framework DiskArbitration -framework IOKit -L/Users/lukemassetti/anaconda/lib -lz -licui18n -licuuc -licudata -L/Users/lukemassetti/anaconda/lib -lqtpcre -L/Users/lukemassetti/anaconda/lib -lm -framework Foundation -framework CoreServices -framework AppKit -framework ApplicationServices -framework CoreFoundation  
+Cflags: -I${includedir}/QtCore -I${includedir}
+

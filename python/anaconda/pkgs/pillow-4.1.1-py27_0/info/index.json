@@ -1,0 +1,19 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "freetype 2.5.*", 
+    "jpeg 9*", 
+    "libtiff 4.0.*", 
+    "olefile", 
+    "python 2.7*", 
+    "zlib 1.2.*"
+  ], 
+  "license": "PIL license", 
+  "license_family": "Other", 
+  "name": "pillow", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "4.1.1"
+}

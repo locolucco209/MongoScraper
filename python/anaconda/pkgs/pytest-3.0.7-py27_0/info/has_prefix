@@ -1,0 +1,2 @@
+/opt/anaconda1anaconda2anaconda3 text bin/py.test
+/opt/anaconda1anaconda2anaconda3 text bin/pytest

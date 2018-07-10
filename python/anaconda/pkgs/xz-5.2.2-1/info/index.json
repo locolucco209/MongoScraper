@@ -1,0 +1,12 @@
+{
+  "arch": "x86_64", 
+  "build": "1", 
+  "build_number": 1, 
+  "depends": [], 
+  "license": "Public-Domain, GPL", 
+  "license_family": "GPL2", 
+  "name": "xz", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "5.2.2"
+}

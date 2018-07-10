@@ -1,0 +1,15 @@
+{
+  "arch": "x86_64", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [
+    "openssl 1.0.2*", 
+    "zlib 1.2.*"
+  ], 
+  "license": "MIT/X derivate", 
+  "license_family": "MIT", 
+  "name": "curl", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "7.52.1"
+}

@@ -1,0 +1,12 @@
+{
+  "arch": "x86_64", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "LGPLv2", 
+  "license_family": "LGPL", 
+  "name": "unixodbc", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "2.3.4"
+}

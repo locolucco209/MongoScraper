@@ -1,0 +1,15 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "pathlib2", 
+    "python 2.7*"
+  ], 
+  "license": "MIT", 
+  "license_family": "MIT", 
+  "name": "testpath", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "0.3"
+}

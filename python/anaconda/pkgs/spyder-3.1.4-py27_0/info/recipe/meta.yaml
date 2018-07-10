@@ -1,0 +1,86 @@
+# This file created by conda-build 2.1.10
+# meta.yaml template originally from:
+# /Users/rdonnelly/anaconda/packages/spyder, last modified Mon May  1 06:38:04 2017
+# ------------------------------------------------
+
+package:
+    name: spyder
+    version: 3.1.4
+source:
+    md5: 3244c9ef044ddd23f7d3a6e338df1a75
+    url: https://pypi.python.org/packages/26/8d/110cdf96a6ed0d1bc38e9dc15fa7263a5b601f27951bb09cc080f11024f1/spyder-3.1.4.tar.gz
+build:
+    entry_points:
+        - spyder = spyder.app.start:main
+    noarch: ''
+    noarch_python: false
+    number: '0'
+    osx_is_app: 'True'
+    string: py27_0
+requirements:
+    build:
+        - docutils 0.13.1 py27_0
+        - zlib 1.2.8 3
+        - pytz 2017.2 py27_0
+        - requests 2.13.0 py27_0
+        - setuptools 27.2.0 py27_0
+        - readline 6.2 2
+        - pygments 2.2.0 py27_0
+        - babel 2.4.0 py27_0
+        - sqlite 3.13.0 0
+        - python 2.7.13 0
+        - openssl 1.0.2k 1
+        - imagesize 0.7.1 py27_0
+        - tk 8.5.18 0
+        - snowballstemmer 1.2.1 py27_0
+        - sphinx 1.5.4 py27_0
+        - alabaster 0.7.10 py27_0
+        - six 1.10.0 py27_0
+        - jinja2 2.9.6 py27_0
+        - markupsafe 0.23 py27_2
+    run:
+        - python
+        - pyqt
+        - qtpy >=1.1
+        - qtawesome >=0.4.1
+        - rope
+        - pyflakes
+        - jedi >=0.8
+        - qtconsole >=4.2
+        - pickleshare
+        - nbconvert
+        - pygments >=2.0
+        - sphinx
+        - pep8
+        - psutil
+        - pylint
+        - pyzmq
+        - chardet >=2.0.0
+        - numpydoc
+        - python.app
+test:
+    commands:
+        - spyder -h
+    imports:
+        - spyder
+about:
+    description: 'Spyder is a powerful interactive development environment for the
+        Python
+
+        language with advanced editing, interactive testing, debugging and
+
+        introspection features. Additionally, Spyder is a numerical computing
+
+        environment thanks to the support of IPython and popular Python libraries
+
+        such as NumPy, SciPy, or matplotlib.
+
+        '
+    dev_url: https://github.com/spyder-ide/spyder
+    doc_url: http://pythonhosted.org/spyder/
+    home: https://github.com/spyder-ide/spyder
+    license: MIT
+    license_file: LICENSE
+    summary: Scientific PYthon Development EnviRonment
+extra:
+    final: true

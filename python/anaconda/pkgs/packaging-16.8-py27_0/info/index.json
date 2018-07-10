@@ -1,0 +1,16 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "pyparsing", 
+    "python 2.7*", 
+    "six"
+  ], 
+  "license": "BSD or Apache 2.0", 
+  "license_family": "Apache", 
+  "name": "packaging", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "16.8"
+}

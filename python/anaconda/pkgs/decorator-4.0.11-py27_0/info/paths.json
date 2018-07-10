@@ -1,0 +1,47 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/decorator-4.0.11-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "44a1245365536c2954b3fd2037594ee6e0c8addf76822b81316f003b8fa3bee8",
+      "size_in_bytes": 2723
+    },
+    {
+      "_path": "lib/python2.7/site-packages/decorator-4.0.11-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "f57dcb5f5f4565fc73b308d7a28f00e641037cc754b2b3097d5b478d1ee9d380",
+      "size_in_bytes": 370
+    },
+    {
+      "_path": "lib/python2.7/site-packages/decorator-4.0.11-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/decorator-4.0.11-py2.7.egg-info/not-zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/decorator-4.0.11-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "2a7e9e423a3cddcb56c5757204c398b74fd8a634630739ca615b8dcae0bf0d22",
+      "size_in_bytes": 10
+    },
+    {
+      "_path": "lib/python2.7/site-packages/decorator.py",
+      "path_type": "hardlink",
+      "sha256": "28b0cebf6dcab935dcdd20e47d955d391eb5b561667f016c9b1560c276889abb",
+      "size_in_bytes": 15649
+    },
+    {
+      "_path": "lib/python2.7/site-packages/decorator.pyc",
+      "path_type": "hardlink",
+      "sha256": "8b8831bc3b1414bbc63c6ed4ca427b00bdd20e2467593c5f5c49f3f3ae55460c",
+      "size_in_bytes": 13842
+    }
+  ],
+  "paths_version": 1
+}

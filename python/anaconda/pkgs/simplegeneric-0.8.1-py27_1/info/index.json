@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "license": "ZPL 2.1", 
+  "license_family": "Other", 
+  "name": "simplegeneric", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "0.8.1"
+}

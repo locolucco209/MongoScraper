@@ -1,0 +1,30 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/imagesize-0.7.1-py2.7.egg-info/PKG-INFO", 
+    "lib/python2.7/site-packages/imagesize-0.7.1-py2.7.egg-info/SOURCES.txt", 
+    "lib/python2.7/site-packages/imagesize-0.7.1-py2.7.egg-info/dependency_links.txt", 
+    "lib/python2.7/site-packages/imagesize-0.7.1-py2.7.egg-info/top_level.txt", 
+    "lib/python2.7/site-packages/imagesize/__init__.py", 
+    "lib/python2.7/site-packages/imagesize/__init__.pyc", 
+    "lib/python2.7/site-packages/imagesize/get.py", 
+    "lib/python2.7/site-packages/imagesize/get.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "MIT", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/imagesize-0.7.1-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "39f2c6c755abe85c587b546b7e07e090", 
+  "name": "imagesize", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/imagesize-0.7.1-py27_0.tar.bz2", 
+  "version": "0.7.1"
+}

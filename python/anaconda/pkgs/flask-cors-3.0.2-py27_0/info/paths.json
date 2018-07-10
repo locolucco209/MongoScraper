@@ -1,0 +1,101 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/Flask_Cors-3.0.2-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "66ab70558646f7e8d3940833895a2a8947c5bc7da80bed881d02e0c036467156",
+      "size_in_bytes": 6191
+    },
+    {
+      "_path": "lib/python2.7/site-packages/Flask_Cors-3.0.2-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "1e6faa007726c9b876e595763fb368f5f2c2361547afc17b1a5613cbb7c79c43",
+      "size_in_bytes": 1143
+    },
+    {
+      "_path": "lib/python2.7/site-packages/Flask_Cors-3.0.2-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/Flask_Cors-3.0.2-py2.7.egg-info/not-zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/Flask_Cors-3.0.2-py2.7.egg-info/requires.txt",
+      "path_type": "hardlink",
+      "sha256": "b74879d39777b0c4147754bb86769d1d2746ff24057fbe5af0279944bdb14b69",
+      "size_in_bytes": 15
+    },
+    {
+      "_path": "lib/python2.7/site-packages/Flask_Cors-3.0.2-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "696c9eff440d64fa7f42d3c5e1996e2c7aa7c952d3f423c9b1f886870aa45aea",
+      "size_in_bytes": 11
+    },
+    {
+      "_path": "lib/python2.7/site-packages/flask_cors/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "ca660062b6a1ff7e5e1b30f9d547441dd0514a42d3b5e6383b7e35db174e58c0",
+      "size_in_bytes": 924
+    },
+    {
+      "_path": "lib/python2.7/site-packages/flask_cors/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "7ca736fcbac31101c7bb08e73f61214343f57e29c74a5c8d72a6f8e2978287b6",
+      "size_in_bytes": 1348
+    },
+    {
+      "_path": "lib/python2.7/site-packages/flask_cors/core.py",
+      "path_type": "hardlink",
+      "sha256": "b968d8a0d5de3017128097c9038d82bb474691eae41b65772f3a203a09410803",
+      "size_in_bytes": 13567
+    },
+    {
+      "_path": "lib/python2.7/site-packages/flask_cors/core.pyc",
+      "path_type": "hardlink",
+      "sha256": "9e598d58222774d71b8c7914e7d27cfc8ef0e7b21b802718ed00129ee41e98a5",
+      "size_in_bytes": 12712
+    },
+    {
+      "_path": "lib/python2.7/site-packages/flask_cors/decorator.py",
+      "path_type": "hardlink",
+      "sha256": "8a2c23522d2555e0a6e0e2491d8e42beece3da710d6d49ecdc8abacea297bacb",
+      "size_in_bytes": 4937
+    },
+    {
+      "_path": "lib/python2.7/site-packages/flask_cors/decorator.pyc",
+      "path_type": "hardlink",
+      "sha256": "4b16ff002d3345c39436299c2a7af3e42f7c7b54f7103bcd7e71eea14929bcc0",
+      "size_in_bytes": 5087
+    },
+    {
+      "_path": "lib/python2.7/site-packages/flask_cors/extension.py",
+      "path_type": "hardlink",
+      "sha256": "2a723ea2044107b3ca873db22b69b4133452f428c93314df64210185a7a2c65f",
+      "size_in_bytes": 7405
+    },
+    {
+      "_path": "lib/python2.7/site-packages/flask_cors/extension.pyc",
+      "path_type": "hardlink",
+      "sha256": "fd6a9bb0ac7acea4af962b9b6f24575ad06c8ba9d1abc39759577e486a3a4ec4",
+      "size_in_bytes": 7473
+    },
+    {
+      "_path": "lib/python2.7/site-packages/flask_cors/version.py",
+      "path_type": "hardlink",
+      "sha256": "143502f313ae8b36912929321b554e9a50f0cdc3c981bcc5516cf9f1f85d5064",
+      "size_in_bytes": 22
+    },
+    {
+      "_path": "lib/python2.7/site-packages/flask_cors/version.pyc",
+      "path_type": "hardlink",
+      "sha256": "2d7833ebcae54e565aabd9ed159400a43ad8d2a50ea1d21f8405a8530b71d554",
+      "size_in_bytes": 195
+    }
+  ],
+  "paths_version": 1
+}

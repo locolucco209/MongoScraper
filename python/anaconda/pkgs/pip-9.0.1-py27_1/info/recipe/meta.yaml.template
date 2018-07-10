@@ -1,0 +1,40 @@
+package:
+  name: pip
+  version: 9.0.1
+
+source:
+  fn: pip-9.0.1.tar.gz
+  url: https://pypi.python.org/packages/11/b6/abcb525026a4be042b486df43905d6893fb04f05aac21c32c638e939e447/pip-9.0.1.tar.gz
+  md5: 35f01da33009719497f01a4ba69d63c9
+  patches:
+    - cio_conf.patch
+    - ensure_easy_pth.patch
+
+build:
+  number: 1
+  entry_points:
+    - pip = pip:main
+
+requirements:
+  build:
+    - python
+    - setuptools
+  run:
+    - python
+    - setuptools
+    - wheel
+
+test:
+  commands:
+    - pip -h
+    - pip list
+  imports:
+    - pip
+
+about:
+  home: https://pip.pypa.io/en/stable/
+  license: MIT
+  license_file: LICENSE.txt
+  summary: PyPA recommended tool for installing Python packages
+  doc_url: https://pip.pypa.io/en/stable/
+  dev_url: https://github.com/pypa/pip

@@ -1,0 +1,33 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/concurrent/__init__.py", 
+    "lib/python2.7/site-packages/concurrent/__init__.pyc", 
+    "lib/python2.7/site-packages/concurrent/futures/__init__.py", 
+    "lib/python2.7/site-packages/concurrent/futures/__init__.pyc", 
+    "lib/python2.7/site-packages/concurrent/futures/_base.py", 
+    "lib/python2.7/site-packages/concurrent/futures/_base.pyc", 
+    "lib/python2.7/site-packages/concurrent/futures/process.py", 
+    "lib/python2.7/site-packages/concurrent/futures/process.pyc", 
+    "lib/python2.7/site-packages/concurrent/futures/thread.py", 
+    "lib/python2.7/site-packages/concurrent/futures/thread.pyc", 
+    "lib/python2.7/site-packages/futures-3.1.1-py2.7.egg-info"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "PSF", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/futures-3.1.1-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "ce757397e350fbd0975d12b4f2edf755", 
+  "name": "futures", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/futures-3.1.1-py27_0.tar.bz2", 
+  "version": "3.1.1"
+}

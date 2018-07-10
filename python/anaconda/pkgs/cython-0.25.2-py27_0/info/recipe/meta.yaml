@@ -1,0 +1,44 @@
+# This file created by conda-build 2.0.8
+# meta.yaml template originally from:
+# /Users/ilan/anaconda/packages/cython, last modified Fri Dec  9 12:48:36 2016
+# ------------------------------------------------
+
+package:
+    name: cython
+    version: 0.25.2
+source:
+    fn: Cython-0.25.2.tar.gz
+    md5: 642c81285e1bb833b14ab3f439964086
+    url: https://pypi.python.org/packages/b7/67/7e2a817f9e9c773ee3995c1e15204f5d01c8da71882016cac10342ef031b/Cython-0.25.2.tar.gz
+build:
+    entry_points:
+        - cython = Cython.Compiler.Main:setuptools_main
+        - cythonize = Cython.Build.Cythonize:main
+        - cygdb = Cython.Debugger.Cygdb:main
+requirements:
+    build:
+        - python
+    run:
+        - python
+test:
+    commands:
+        - cython --version
+    files:
+        - fib.pyx
+    imports:
+        - Cython
+about:
+    description: 'Cython is an optimising static compiler for both the Python programming
+
+        language and the extended Cython programming language. It makes writing C
+
+        extensions for Python as easy as Python itself.
+
+        '
+    dev_url: https://github.com/cython/cython
+    doc_url: http://cython.org/#documentation
+    home: http://www.cython.org/
+    license: Apache version 2.0
+    license_family: Apache
+    license_file: LICENSE.txt
+    summary: The Cython compiler for writing C extensions for the Python language

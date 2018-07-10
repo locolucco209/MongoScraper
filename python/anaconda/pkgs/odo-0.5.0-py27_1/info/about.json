@@ -1,0 +1,8 @@
+{
+  "description": "Odo is data migration for the Blaze Project. t efficiently migrates data\nfrom the source to the target through a network of conversions.\n", 
+  "dev_url": "https://github.com/blaze/odo", 
+  "doc_url": "http://odo.readthedocs.org/en/latest/", 
+  "home": "http://odo.pydata.org/en/latest/", 
+  "license": "BSD", 
+  "summary": "Shapeshifting for your data"
+}

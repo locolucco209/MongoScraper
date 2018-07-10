@@ -1,0 +1,40 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/lazy_object_proxy-1.2.2-py2.7-macosx-10.7-x86_64.egg-info/PKG-INFO", 
+    "lib/python2.7/site-packages/lazy_object_proxy-1.2.2-py2.7-macosx-10.7-x86_64.egg-info/SOURCES.txt", 
+    "lib/python2.7/site-packages/lazy_object_proxy-1.2.2-py2.7-macosx-10.7-x86_64.egg-info/dependency_links.txt", 
+    "lib/python2.7/site-packages/lazy_object_proxy-1.2.2-py2.7-macosx-10.7-x86_64.egg-info/native_libs.txt", 
+    "lib/python2.7/site-packages/lazy_object_proxy-1.2.2-py2.7-macosx-10.7-x86_64.egg-info/not-zip-safe", 
+    "lib/python2.7/site-packages/lazy_object_proxy-1.2.2-py2.7-macosx-10.7-x86_64.egg-info/top_level.txt", 
+    "lib/python2.7/site-packages/lazy_object_proxy/__init__.py", 
+    "lib/python2.7/site-packages/lazy_object_proxy/__init__.pyc", 
+    "lib/python2.7/site-packages/lazy_object_proxy/cext.c", 
+    "lib/python2.7/site-packages/lazy_object_proxy/cext.so", 
+    "lib/python2.7/site-packages/lazy_object_proxy/compat.py", 
+    "lib/python2.7/site-packages/lazy_object_proxy/compat.pyc", 
+    "lib/python2.7/site-packages/lazy_object_proxy/simple.py", 
+    "lib/python2.7/site-packages/lazy_object_proxy/simple.pyc", 
+    "lib/python2.7/site-packages/lazy_object_proxy/slots.py", 
+    "lib/python2.7/site-packages/lazy_object_proxy/slots.pyc", 
+    "lib/python2.7/site-packages/lazy_object_proxy/utils.py", 
+    "lib/python2.7/site-packages/lazy_object_proxy/utils.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/lazy-object-proxy-1.2.2-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "e1c870ce9a7be4c094f890f4da0eec08", 
+  "name": "lazy-object-proxy", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/lazy-object-proxy-1.2.2-py27_0.tar.bz2", 
+  "version": "1.2.2"
+}

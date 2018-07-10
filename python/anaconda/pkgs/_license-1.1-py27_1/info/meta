@@ -1,0 +1,11 @@
+pkg: _license-1.1
+dist: _license-1.1-py27_1
+home: None
+license: proprietary - Continuum Analytics, Inc.
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

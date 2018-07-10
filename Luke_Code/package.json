@@ -1,0 +1,21 @@
+{
+  "name": "top-5000-songs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TopSongsCode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "AwesomeProject": "0.0.1",
+    "create-react-native-app": "^1.0.0",
+    "init": "^0.1.2",
+    "inquirer": "^1.2.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.1.4",
+    "mysql": "^2.11.1",
+    "npm": "^6.1.0"
+  }
+}

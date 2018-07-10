@@ -1,0 +1,44 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "pyparsing", 
+    "python 2.7*", 
+    "six"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/packaging-16.8-py2.7.egg-info", 
+    "lib/python2.7/site-packages/packaging/__about__.py", 
+    "lib/python2.7/site-packages/packaging/__about__.pyc", 
+    "lib/python2.7/site-packages/packaging/__init__.py", 
+    "lib/python2.7/site-packages/packaging/__init__.pyc", 
+    "lib/python2.7/site-packages/packaging/_compat.py", 
+    "lib/python2.7/site-packages/packaging/_compat.pyc", 
+    "lib/python2.7/site-packages/packaging/_structures.py", 
+    "lib/python2.7/site-packages/packaging/_structures.pyc", 
+    "lib/python2.7/site-packages/packaging/markers.py", 
+    "lib/python2.7/site-packages/packaging/markers.pyc", 
+    "lib/python2.7/site-packages/packaging/requirements.py", 
+    "lib/python2.7/site-packages/packaging/requirements.pyc", 
+    "lib/python2.7/site-packages/packaging/specifiers.py", 
+    "lib/python2.7/site-packages/packaging/specifiers.pyc", 
+    "lib/python2.7/site-packages/packaging/utils.py", 
+    "lib/python2.7/site-packages/packaging/utils.pyc", 
+    "lib/python2.7/site-packages/packaging/version.py", 
+    "lib/python2.7/site-packages/packaging/version.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "BSD or Apache 2.0", 
+  "license_family": "Apache", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/packaging-16.8-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "3e3b88b7b833515437294fc54f96dc0e", 
+  "name": "packaging", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/packaging-16.8-py27_0.tar.bz2", 
+  "version": "16.8"
+}

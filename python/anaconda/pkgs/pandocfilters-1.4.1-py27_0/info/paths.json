@@ -1,0 +1,23 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/pandocfilters-1.4.1-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "2d064a059485c63e881fa5a133b4e4412550ab857842b86fc078f52ee3e687e1",
+      "size_in_bytes": 9122
+    },
+    {
+      "_path": "lib/python2.7/site-packages/pandocfilters.py",
+      "path_type": "hardlink",
+      "sha256": "0e92849869768881f7b5b62f296ac4c05a3ae52ac5dd1c1bc0f21ba200674995",
+      "size_in_bytes": 8261
+    },
+    {
+      "_path": "lib/python2.7/site-packages/pandocfilters.pyc",
+      "path_type": "hardlink",
+      "sha256": "9d22e9389af2ac648c1e6e12142a3932ea206366c661a322172e88186a0eb7a0",
+      "size_in_bytes": 9236
+    }
+  ],
+  "paths_version": 1
+}

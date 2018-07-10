@@ -1,0 +1,111 @@
+{
+  "paths": [
+    {
+      "_path": "bin/curl",
+      "path_type": "hardlink",
+      "sha256": "f94f86c0e8135d8255e337e8dc57112b7235eae01135d898d4635dfdbd3236b4",
+      "size_in_bytes": 189428
+    },
+    {
+      "_path": "bin/curl-config",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "4f2507bbcf33c707fbaf2e46a1a3c9cb5094496a77747c950429a52be3d3c5dc",
+      "size_in_bytes": 5320
+    },
+    {
+      "_path": "include/curl/curl.h",
+      "path_type": "hardlink",
+      "sha256": "f9b02e7e3d816fcff6273c2f419a3ef81dd8e0cd3cfcb4cd1d672f10111605d9",
+      "size_in_bytes": 95315
+    },
+    {
+      "_path": "include/curl/curlbuild.h",
+      "path_type": "hardlink",
+      "sha256": "c41e364abf7c47533aafc6d316fd3138d5ec78d81b3d8b00e0f844f3d0dc5570",
+      "size_in_bytes": 7305
+    },
+    {
+      "_path": "include/curl/curlrules.h",
+      "path_type": "hardlink",
+      "sha256": "481568aae1eb7cdf8f440d8fa88035d3c46560ccd1f348fa758c1c23b7674908",
+      "size_in_bytes": 8936
+    },
+    {
+      "_path": "include/curl/curlver.h",
+      "path_type": "hardlink",
+      "sha256": "c6fbb4022d5ed0f301908c2fd9870355f484149b771414ec076b6390a02cc0e5",
+      "size_in_bytes": 3076
+    },
+    {
+      "_path": "include/curl/easy.h",
+      "path_type": "hardlink",
+      "sha256": "58b2142e4bd3287e53b98cc0f4f8a23dd9ba502db4aae08dea51ff00823a5824",
+      "size_in_bytes": 3473
+    },
+    {
+      "_path": "include/curl/mprintf.h",
+      "path_type": "hardlink",
+      "sha256": "61e8e3918f879fe4cf63992bd108eb08dfb2568fa907ec528d8ed3ac02ba0c56",
+      "size_in_bytes": 2071
+    },
+    {
+      "_path": "include/curl/multi.h",
+      "path_type": "hardlink",
+      "sha256": "71d0cb09f16dd2bb128199eba126df697ecfd10e6f58072cb4464b2ff8725604",
+      "size_in_bytes": 16095
+    },
+    {
+      "_path": "include/curl/stdcheaders.h",
+      "path_type": "hardlink",
+      "sha256": "78eb917e7082bf7ce255840c3af5fadd927b7eb5a62305c54b36c7da852cbfd4",
+      "size_in_bytes": 1329
+    },
+    {
+      "_path": "include/curl/typecheck-gcc.h",
+      "path_type": "hardlink",
+      "sha256": "bdeb17f6f49fde19ee5c304ef19c825f88879ac80a516afd72789de59a1073e5",
+      "size_in_bytes": 38425
+    },
+    {
+      "_path": "lib/libcurl.4.dylib",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/Users/ilan/minonda/conda-bld/curl_1485365275214/_b_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+      "sha256": "ed8360e754a510a5dd3fe2b9b57edaf879e004b9319c47b32329a98f5f452263",
+      "size_in_bytes": 416492
+    },
+    {
+      "_path": "lib/libcurl.a",
+      "path_type": "hardlink",
+      "sha256": "e6c8ab004d4c164ee35dcff8a167e65310da36e2362454989f7d735442369b1c",
+      "size_in_bytes": 667680
+    },
+    {
+      "_path": "lib/libcurl.dylib",
+      "file_mode": "binary",
+      "path_type": "softlink",
+      "prefix_placeholder": "/Users/ilan/minonda/conda-bld/curl_1485365275214/_b_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+      "sha256": "ed8360e754a510a5dd3fe2b9b57edaf879e004b9319c47b32329a98f5f452263",
+      "size_in_bytes": 416492
+    },
+    {
+      "_path": "lib/libcurl.la",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "0cc9011562a2e24d6212362a32028b3665f50be1f2f2796c66604536b0b2c53b",
+      "size_in_bytes": 1004
+    },
+    {
+      "_path": "lib/pkgconfig/libcurl.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "a2ad1970aae0ff38638298ef2ad3afaaf8cd2902ac9cb2cf58d6af1ec1e4a407",
+      "size_in_bytes": 1642
+    }
+  ],
+  "paths_version": 1
+}

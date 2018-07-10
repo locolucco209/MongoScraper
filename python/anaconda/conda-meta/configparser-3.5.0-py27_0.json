@@ -1,0 +1,35 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "backports", 
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/backports/configparser/__init__.py", 
+    "lib/python2.7/site-packages/backports/configparser/__init__.pyc", 
+    "lib/python2.7/site-packages/backports/configparser/helpers.py", 
+    "lib/python2.7/site-packages/backports/configparser/helpers.pyc", 
+    "lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg-info/PKG-INFO", 
+    "lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg-info/SOURCES.txt", 
+    "lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg-info/dependency_links.txt", 
+    "lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg-info/namespace_packages.txt", 
+    "lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg-info/not-zip-safe", 
+    "lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg-info/top_level.txt", 
+    "lib/python2.7/site-packages/configparser.py", 
+    "lib/python2.7/site-packages/configparser.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "MIT", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/configparser-3.5.0-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "c126b6600539747da4e596d5a1c22de3", 
+  "name": "configparser", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/configparser-3.5.0-py27_0.tar.bz2", 
+  "version": "3.5.0"
+}

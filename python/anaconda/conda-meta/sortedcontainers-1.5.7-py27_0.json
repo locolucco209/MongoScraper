@@ -1,0 +1,35 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/sortedcontainers-1.5.7-py2.7.egg-info/PKG-INFO", 
+    "lib/python2.7/site-packages/sortedcontainers-1.5.7-py2.7.egg-info/SOURCES.txt", 
+    "lib/python2.7/site-packages/sortedcontainers-1.5.7-py2.7.egg-info/dependency_links.txt", 
+    "lib/python2.7/site-packages/sortedcontainers-1.5.7-py2.7.egg-info/top_level.txt", 
+    "lib/python2.7/site-packages/sortedcontainers/__init__.py", 
+    "lib/python2.7/site-packages/sortedcontainers/__init__.pyc", 
+    "lib/python2.7/site-packages/sortedcontainers/sorteddict.py", 
+    "lib/python2.7/site-packages/sortedcontainers/sorteddict.pyc", 
+    "lib/python2.7/site-packages/sortedcontainers/sortedlist.py", 
+    "lib/python2.7/site-packages/sortedcontainers/sortedlist.pyc", 
+    "lib/python2.7/site-packages/sortedcontainers/sortedset.py", 
+    "lib/python2.7/site-packages/sortedcontainers/sortedset.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "Apache 2.0", 
+  "license_family": "Apache", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/sortedcontainers-1.5.7-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "5b350e47ecb6031d12404487060d27e6", 
+  "name": "sortedcontainers", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/sortedcontainers-1.5.7-py27_0.tar.bz2", 
+  "version": "1.5.7"
+}

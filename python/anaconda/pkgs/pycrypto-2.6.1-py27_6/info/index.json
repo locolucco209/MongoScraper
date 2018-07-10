@@ -1,0 +1,13 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_6", 
+  "build_number": 6, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "license": "Public-Domain", 
+  "name": "pycrypto", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "2.6.1"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "PickleShare is a small \"shelve\" like datastore with concurrency support.\nLike shelve, a PickleShareDB object acts like a normal dictionary. Unlike\nshelve, many processes can access the database simultaneously. Changing a\nvalue in database is immediately visible to other processes accessing the\nsame database.\n", 
+  "dev_url": "https://github.com/pickleshare/pickleshare", 
+  "doc_url": "https://pypi.python.org/pypi/pickleshare", 
+  "home": "https://github.com/vivainio/pickleshare", 
+  "license": "MIT", 
+  "summary": "file system based database that uses Python pickles"
+}

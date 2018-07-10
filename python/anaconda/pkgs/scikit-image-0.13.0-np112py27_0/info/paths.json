@@ -1,0 +1,4849 @@
+{
+  "paths": [
+    {
+      "_path": "bin/skivi",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "036c981c46764da67c71260bf5a24b6b0966e5638d266859c73f4c56124fb1f4",
+      "size_in_bytes": 165
+    },
+    {
+      "_path": "lib/python2.7/site-packages/scikit_image-0.13.0-py2.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "5ed133293715a8bf0b854efee43b58baff85808f43ee20ea11d6b37065169754",
+      "size_in_bytes": 1348
+    },
+    {
+      "_path": "lib/python2.7/site-packages/scikit_image-0.13.0-py2.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "dac2a42b4650c506c94da7bca6ff20e4d027e56e0638c9596b977fc981ccc658",
+      "size_in_bytes": 37545
+    },
+    {
+      "_path": "lib/python2.7/site-packages/scikit_image-0.13.0-py2.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/scikit_image-0.13.0-py2.7.egg-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "231cf5d1aaefc3f87b7570da314ff00a60b6ddc810d12771d40a0ebd0b0a23a5",
+      "size_in_bytes": 54
+    },
+    {
+      "_path": "lib/python2.7/site-packages/scikit_image-0.13.0-py2.7.egg-info/not-zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python2.7/site-packages/scikit_image-0.13.0-py2.7.egg-info/requires.txt",
+      "path_type": "hardlink",
+      "sha256": "74dc89cc01292d940728039a09105ee4cb4f3766a442fd1ba417a75d7c78753c",
+      "size_in_bytes": 57
+    },
+    {
+      "_path": "lib/python2.7/site-packages/scikit_image-0.13.0-py2.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "b38a8b7b834c75c619a91b37911918299604bdb8380345d9ad7852bf10d27dda",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "4e19ccfaff0f6d9c539855d28e2bd1e515e3583eacac6eb01d8af80aadc9d3f0",
+      "size_in_bytes": 5141
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "4bf85e3bf88a14d84f89bcd9bc16f2f5216e43203a23f7a598b0d5490188a13a",
+      "size_in_bytes": 4759
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_build.py",
+      "path_type": "hardlink",
+      "sha256": "39ba3e57ff83ea300de7e2ab0a9c9684a78f145d5dff42767b3a840e196f9f45",
+      "size_in_bytes": 3210
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_build.pyc",
+      "path_type": "hardlink",
+      "sha256": "c86e38efb16e5819c878f58a85579328786c89e66525c7006c922378871449d8",
+      "size_in_bytes": 3480
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "9ded834c284bf76397398711a41667f30f6b1bfa37926bce9b70c2555a386a51",
+      "size_in_bytes": 142
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/_geometry.py",
+      "path_type": "hardlink",
+      "sha256": "ed7100cf887ccc770eafbd4ecad44427a36ab335c4fc7c2975271f6bd4b4180a",
+      "size_in_bytes": 1404
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/_geometry.pyc",
+      "path_type": "hardlink",
+      "sha256": "074c56dd2e54aef480d380c07fe182099d3faa8c6140737044b20737b2ee50ac",
+      "size_in_bytes": 1882
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/_tempfile.py",
+      "path_type": "hardlink",
+      "sha256": "10b363ca1ed574e4933ca11266f93ba612141ce61f4e24e1866d0b9fdcd6f0bc",
+      "size_in_bytes": 759
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/_tempfile.pyc",
+      "path_type": "hardlink",
+      "sha256": "e92e34ddb642ebe4c1d67cb3dedc1ed4dbd4c1a2220fc7f1e2d9e4e1fef9f1cb",
+      "size_in_bytes": 1076
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/_warnings.py",
+      "path_type": "hardlink",
+      "sha256": "e3d4fcdf64c8b8b23437367016f89ce541212adf68c034980d2aa810e6ff9621",
+      "size_in_bytes": 4144
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/_warnings.pyc",
+      "path_type": "hardlink",
+      "sha256": "5f8b2e441fd80f0dfd5da3eaf3b54da2a5076caf763a0aee86fb32f9c57aefee",
+      "size_in_bytes": 4000
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/geometry.so",
+      "path_type": "hardlink",
+      "sha256": "31b1e87989e5ca8041e012194a58d46c97c5e30b23e3c584e15a4ae7b9259117",
+      "size_in_bytes": 16952
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/interpolation.so",
+      "path_type": "hardlink",
+      "sha256": "0cc50df66d112a044677fd7e0c43abbeea0ac6f79e348ca7f0ed9b48566f78ce",
+      "size_in_bytes": 32216
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/setup.py",
+      "path_type": "hardlink",
+      "sha256": "38ffb4a11bc35df86dc2796af599e1c2d7a2efb8e99be806cb7ae6584de258cd",
+      "size_in_bytes": 1228
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "e9d5e0560ad4fad5c284e14bd4bca2769661ade1a1e52363d5f634b0c460c0b7",
+      "size_in_bytes": 1539
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/testing.py",
+      "path_type": "hardlink",
+      "sha256": "dd5e56922abc0a5d9cb3b5ef7f18d38b8ab3384a538522e5ca0e5c13d5b3fcd0",
+      "size_in_bytes": 6848
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/testing.pyc",
+      "path_type": "hardlink",
+      "sha256": "5f9878a5253b4f884ff77ed689f4985f1f2eba79c6a1b229a4bd4b7b7411f3a6",
+      "size_in_bytes": 8045
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d77dae5b3d57b759d2916dd4b1ff7d32e895a895758f04b6b6db600a05461f42",
+      "size_in_bytes": 118
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "5e63b0e9f4e6cffcfcf3d1d17f0ee2a8252cca14f7e7e516b491378c332d7a08",
+      "size_in_bytes": 572
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/test_geometry.py",
+      "path_type": "hardlink",
+      "sha256": "0e3907581b3175fedf03488c0c8c02408701c78ee6dcf25e6131bc137a00bf8b",
+      "size_in_bytes": 2091
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/test_geometry.pyc",
+      "path_type": "hardlink",
+      "sha256": "5b60336fc2c7b1492c5838a3c9e3aa917354b8c5335509bca4d816e4e0a47c44",
+      "size_in_bytes": 2686
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/test_interpolation.py",
+      "path_type": "hardlink",
+      "sha256": "f7572b862e25d78e12c0f9eadb440aef9d91eb3c8d166abc62dc1f93bc255f57",
+      "size_in_bytes": 1095
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/test_interpolation.pyc",
+      "path_type": "hardlink",
+      "sha256": "a5074e010464c7fd61d63bdbb26f792706312dc085290296235d7828638f5722",
+      "size_in_bytes": 1377
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/test_safe_as_int.py",
+      "path_type": "hardlink",
+      "sha256": "19a4fa67960edc71299da0f624b72669505f0015864bc2f7316e176637d7fef3",
+      "size_in_bytes": 1771
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/test_safe_as_int.pyc",
+      "path_type": "hardlink",
+      "sha256": "37b7a256669557d018ccb5cb9d31f34e2086559a0c5d6f61260945832664f2a2",
+      "size_in_bytes": 1826
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/test_testing.py",
+      "path_type": "hardlink",
+      "sha256": "3e613b4ca1933569c92384dc4df0d64230f4ec0f3e1b2168100bc2d1f8127041",
+      "size_in_bytes": 2214
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/test_testing.pyc",
+      "path_type": "hardlink",
+      "sha256": "c319e66081ec704c23c8d795dcc6c7c58b52976642f67bde5584df5be1bea10a",
+      "size_in_bytes": 3295
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/test_utils.py",
+      "path_type": "hardlink",
+      "sha256": "a76d3385b0dfb17e22a5bb496ed191c6012d09de6cc6ff17dabeaea1938ff06f",
+      "size_in_bytes": 612
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/test_utils.pyc",
+      "path_type": "hardlink",
+      "sha256": "0b7d8ff2de55d83dd6d096e12ccee5fdc105a5b12685da142f17801842050d32",
+      "size_in_bytes": 1280
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/test_version_requirements.py",
+      "path_type": "hardlink",
+      "sha256": "20c0335a7948ffdb671e4923e096358d5f5842b197c5d117f7593d97330883ef",
+      "size_in_bytes": 1133
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/tests/test_version_requirements.pyc",
+      "path_type": "hardlink",
+      "sha256": "37feb6d13744a65629266bf27b35c7d2c714b0492da6e14bd134506321e2a6d1",
+      "size_in_bytes": 2432
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/transform.so",
+      "path_type": "hardlink",
+      "sha256": "80a33bd2a86a0a703fdcd2294f8d06f61e26e7d6088b534c09c2de8e24d1b1dc",
+      "size_in_bytes": 126496
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/utils.py",
+      "path_type": "hardlink",
+      "sha256": "7e7abbc84ee63346c65e026f85787737cc6086287dd07149d26c46a4ff362b56",
+      "size_in_bytes": 7614
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/utils.pyc",
+      "path_type": "hardlink",
+      "sha256": "140f180f856c048e44ecca32f01cb8b407a828b5afabd65e6e56e89ff763fd91",
+      "size_in_bytes": 8419
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/version_requirements.py",
+      "path_type": "hardlink",
+      "sha256": "c77d9b5ebdbbd6ded9994afbe448e820bc1fd889c6b06c4e60cd339e8a4b80ff",
+      "size_in_bytes": 4443
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/_shared/version_requirements.pyc",
+      "path_type": "hardlink",
+      "sha256": "a712322d39e1d798dd0b595d5436bf13ced0376539f07b62fc7680cf1c429de1",
+      "size_in_bytes": 5132
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "5efeee6d29dd4201fa20251bb24d04d6ce0595c5675038b998f5b3bbf66f7d07",
+      "size_in_bytes": 3764
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "a7b011592a28f1fa342e7f54c9e6e22ec7d586440aa2755bb27366aec96fae4a",
+      "size_in_bytes": 2485
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/adapt_rgb.py",
+      "path_type": "hardlink",
+      "sha256": "337f17577fc20201276e4e1e74c02066bde8b70d9f6ba8b9287730e14a6ed646",
+      "size_in_bytes": 2431
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/adapt_rgb.pyc",
+      "path_type": "hardlink",
+      "sha256": "9de08cfd392ebac52a591ef924e689198bec3c5a514203c51f40d5fb9697fe65",
+      "size_in_bytes": 3211
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/colorconv.py",
+      "path_type": "hardlink",
+      "sha256": "fc9e4c6bb4548c7c5500698c46a560e6e9c2a1ef57909cbbd123bfc317e1c454",
+      "size_in_bytes": 51383
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/colorconv.pyc",
+      "path_type": "hardlink",
+      "sha256": "0c0c3b610039b2b5d82adce7404efb4ae7048f6e92fb8d1ab81cd9586e1dc643",
+      "size_in_bytes": 52826
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/colorlabel.py",
+      "path_type": "hardlink",
+      "sha256": "772e1167f308ce16ec52dad3d79d72e78180f1a9ee040a6c34430dcab29b2e4a",
+      "size_in_bytes": 8191
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/colorlabel.pyc",
+      "path_type": "hardlink",
+      "sha256": "10f565e46cd13768d96957fc04ed78424cb85811d982483c3a5fbc4126aa5005",
+      "size_in_bytes": 7841
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/delta_e.py",
+      "path_type": "hardlink",
+      "sha256": "67fe2eee6eb59a88aa110eb068bc51816dca7262ba6c455ee6653ae2e7b408be",
+      "size_in_bytes": 10464
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/delta_e.pyc",
+      "path_type": "hardlink",
+      "sha256": "17ffe3fb62c88e84961cd199b0ac60cfc43ebb9169e6c05f2ffa31c71c22ef14",
+      "size_in_bytes": 10846
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/rgb_colors.py",
+      "path_type": "hardlink",
+      "sha256": "363f9fb2b5e9b82b4b1488ca320ce9bdbe8792ba598aebe00dce62993306b3dc",
+      "size_in_bytes": 4493
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/rgb_colors.pyc",
+      "path_type": "hardlink",
+      "sha256": "a4079b281ab7d0889b42880740ee655bb95f0618f1bac42a0c3fdf2d76ea35d6",
+      "size_in_bytes": 8765
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "e41c31034d1969632b26ab7bf4fe33b980330d09ec4610a3a8004e8027568ff1",
+      "size_in_bytes": 574
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/ciede2000_test_data.txt",
+      "path_type": "hardlink",
+      "sha256": "2e005c6f76ddfb7bbcc8f68490f1f7b4b4a2a4b06b36a80c985677a2799c0e40",
+      "size_in_bytes": 5709
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/lab_array_a_2.npy",
+      "path_type": "hardlink",
+      "sha256": "793d5981cbffceb14b5fb589f998a2b1acdb5ff9c14d364c8e9e8bd45a80b275",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/lab_array_d50_10.npy",
+      "path_type": "hardlink",
+      "sha256": "42e2ff26cb10e2a98fcf1bc06c2483302ff4fabf971fe8d49b530f490b5d24c7",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/lab_array_d50_2.npy",
+      "path_type": "hardlink",
+      "sha256": "4aa03b7018ff7276643d3c082123cf07304f9d8d898ae92a5756a86955de4faf",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/lab_array_d55_10.npy",
+      "path_type": "hardlink",
+      "sha256": "ab4f21368b6d8351578ab093381c44b49ae87a6b7f25c11aa094b07f215eed7d",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/lab_array_d55_2.npy",
+      "path_type": "hardlink",
+      "sha256": "0319723de4632a252bae828b7c96d038fb075a7df05beadfbad653da05efe372",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/lab_array_d65_10.npy",
+      "path_type": "hardlink",
+      "sha256": "5cb9e9c384d2577aaf8b7d2d21ff5b505708b80605a2f59d10e89d22c3d308d2",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/lab_array_d65_2.npy",
+      "path_type": "hardlink",
+      "sha256": "16e847160f7ba4f19806d8194ed44a6654c9367e5a2cb240aa6e7eece44a6649",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/lab_array_d75_10.npy",
+      "path_type": "hardlink",
+      "sha256": "c2d3de5422c785c925926b0c6223aeaf50b9393619d1c30830190d433606cbe1",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/lab_array_d75_2.npy",
+      "path_type": "hardlink",
+      "sha256": "c94d53da398d36e076471ff7e0dafcaffc64ce4ba33b4d04849c32d19c87494a",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/lab_array_e_2.npy",
+      "path_type": "hardlink",
+      "sha256": "ac05f17a83961b020ceccbdd46bddc86943d43e678dabcc898caf4a1e4be6165",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/luv_array_a_2.npy",
+      "path_type": "hardlink",
+      "sha256": "eaf05dc61f4a70ece367d5e751a14d42b7c397c7b1c2df4cfecec9ddf26e1c1a",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/luv_array_d50_10.npy",
+      "path_type": "hardlink",
+      "sha256": "fe223db556222ce3a59198bed3a3324c2c719b8083fb84dc5b00f214b4773b16",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/luv_array_d50_2.npy",
+      "path_type": "hardlink",
+      "sha256": "48e8989048904bdf2c3c1ada265c1c29c5eff60f02f848a25cde622982c84901",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/luv_array_d55_10.npy",
+      "path_type": "hardlink",
+      "sha256": "d88d53d2bad230c2331442187712ec52ffdee62bf0f60b200c33411bfed76c60",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/luv_array_d55_2.npy",
+      "path_type": "hardlink",
+      "sha256": "c761b40475df591ae9c0475d54ef712d067190ca4652efc6308b69080a652061",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/luv_array_d65_10.npy",
+      "path_type": "hardlink",
+      "sha256": "41a5452ffac4d31dd579d9528e725432c60d77b5f505d801898d9401429c89bf",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/luv_array_d65_2.npy",
+      "path_type": "hardlink",
+      "sha256": "962ce180132c6c11798cbc423b2b204d1d10187670f6eb5dec1058eaad301e0e",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/luv_array_d75_10.npy",
+      "path_type": "hardlink",
+      "sha256": "e1cc70d56eb6789633d4c2a4059b9533f616a7c8592c9bd342403e41d72f45e4",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/luv_array_d75_2.npy",
+      "path_type": "hardlink",
+      "sha256": "07db3bd59bd89de8e5ff62dad786fe5f4b299133495ba9bea30495b375133a98",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/data/luv_array_e_2.npy",
+      "path_type": "hardlink",
+      "sha256": "41b1037d81b267305ffe9e8e97e0affa9fa54b18e60413b01b8f11861cb32213",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/test_adapt_rgb.py",
+      "path_type": "hardlink",
+      "sha256": "867f355aa8f3c15b3419623f6fa155ae69c70e89d26d7ecd98e0faa0266fef32",
+      "size_in_bytes": 2591
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/test_adapt_rgb.pyc",
+      "path_type": "hardlink",
+      "sha256": "abf391e9906e744c140da2d3decda1adf0196bd26d14d7e2b5fd765909a64b55",
+      "size_in_bytes": 4113
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/test_colorconv.py",
+      "path_type": "hardlink",
+      "sha256": "384054e147306775d37d0242103f6b2e19ce337178655e2817832fe84444624a",
+      "size_in_bytes": 21981
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/test_colorconv.pyc",
+      "path_type": "hardlink",
+      "sha256": "fc0050574e660ff0eb92550cb6768be44e52761053da6492eb75a7e406a09d6a",
+      "size_in_bytes": 23732
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/test_colorlabel.py",
+      "path_type": "hardlink",
+      "sha256": "d082acae8c6c8809cac8813d6fa5dc46025489ed88bc6abeda12978d72af937b",
+      "size_in_bytes": 5358
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/test_colorlabel.pyc",
+      "path_type": "hardlink",
+      "sha256": "03919f17ad170d663c5effd17002666d688079da278be78d9f9d25d82b30bcce",
+      "size_in_bytes": 7328
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/test_delta_e.py",
+      "path_type": "hardlink",
+      "sha256": "9f18e70617dbf20800f8c66e33665ca195219c40ad9499bd9809e38ef9fb122a",
+      "size_in_bytes": 4822
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/color/tests/test_delta_e.pyc",
+      "path_type": "hardlink",
+      "sha256": "5f5f0129a2e58b03a7a934b22cb861f1f81296b2dcb04ca78e99725f6ae94c27",
+      "size_in_bytes": 6243
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "9aea858fa5d7c85fa06d80f709426720b4d4e49b572b8591f51a026dde7f1bbd",
+      "size_in_bytes": 10501
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "db6f270d5303f4d49ed53022de371493fc902a330a1949d6b06cbae742daf0d0",
+      "size_in_bytes": 12672
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/_binary_blobs.py",
+      "path_type": "hardlink",
+      "sha256": "f529418cf685aaf4000f101105c5ec97e0bfb966874d9f5b8b7a0ebcdd89a7a7",
+      "size_in_bytes": 2063
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/_binary_blobs.pyc",
+      "path_type": "hardlink",
+      "sha256": "4a3254fad30f81ea122e7fe4fa9c0ccde736f8361b5677cf1f5cb63fc899919f",
+      "size_in_bytes": 2428
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/_blobs_3d_fiji_skeleton.tif",
+      "path_type": "hardlink",
+      "sha256": "5182a2a94f240528985b8d15ec2aebbd5ca3c6b9214beff1eb6099c431e12b7b",
+      "size_in_bytes": 35293
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/astronaut.png",
+      "path_type": "hardlink",
+      "sha256": "88431cd9653ccd539741b555fb0a46b61558b301d4110412b5bc28b5e3ea6cb5",
+      "size_in_bytes": 791555
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/astronaut_GRAY_hog_L1.npy",
+      "path_type": "hardlink",
+      "sha256": "0ad2861c593dfd7154d4f7b0f5bb77492783f0930ef94873b9e99ae3ddbbf675",
+      "size_in_bytes": 2490992
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/astronaut_GRAY_hog_L2-Hys.npy",
+      "path_type": "hardlink",
+      "sha256": "ddc28e1569266f568d48e11bc9a891146071afa0886e2a9c88f1cd88efc24ce7",
+      "size_in_bytes": 2490992
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/block.png",
+      "path_type": "hardlink",
+      "sha256": "4d2d021f0a7d8aa16bae8466cf35b1830ae60a3af3d0ab2518e5ca4940c6eb80",
+      "size_in_bytes": 186
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/brick.png",
+      "path_type": "hardlink",
+      "sha256": "71f1912c840a4fb1576e2b7a1c44c542dadcd9c87dff1bbd342c3fa373dee0ba",
+      "size_in_bytes": 174069
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/bw_text.png",
+      "path_type": "hardlink",
+      "sha256": "308c2b09f8975a69b212e103b18520e8cbb7a4eccfce0f757836cd371f1b9094",
+      "size_in_bytes": 8348
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/bw_text_skeleton.npy",
+      "path_type": "hardlink",
+      "sha256": "9ff4fc23c6a01497d7987f14e3a97cbcc39cce54b2b3b7ee33b84c1b661d0ae1",
+      "size_in_bytes": 171908
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/camera.png",
+      "path_type": "hardlink",
+      "sha256": "361a6d56d22ee52289cd308d5461d090e06a56cb36007d8dfc3226cbe8aaa5db",
+      "size_in_bytes": 114228
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/checker_bilevel.png",
+      "path_type": "hardlink",
+      "sha256": "2e207e486545874a2a3e69ba653b28fdef923157be9017559540e65d1bcb8e28",
+      "size_in_bytes": 278
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/chelsea.png",
+      "path_type": "hardlink",
+      "sha256": "596aa1e7cb875eb79f437e310381d26b338a81c2da23439704a73c4651e8c4bb",
+      "size_in_bytes": 240512
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/chessboard_GRAY.png",
+      "path_type": "hardlink",
+      "sha256": "3e51870774515af4d07d820bd8827364c70839bf9b573c746e485095e893df90",
+      "size_in_bytes": 418
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/chessboard_GRAY_U16.tif",
+      "path_type": "hardlink",
+      "sha256": "9fd3392c5b6cbc5f686d8ff83eb57ef91d038ee0852ac26817e5ac99df4c7f45",
+      "size_in_bytes": 80110
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/chessboard_GRAY_U16B.tif",
+      "path_type": "hardlink",
+      "sha256": "b0a9270751f0fc340c90b8b615b62b88187b9ab5995942717566735d523cddb2",
+      "size_in_bytes": 80110
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/chessboard_GRAY_U8.npy",
+      "path_type": "hardlink",
+      "sha256": "71f394694b721e8a33760a355b3666c9b7d7fc1188ff96b3cd23c2a1d73a38d8",
+      "size_in_bytes": 40080
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/chessboard_GRAY_U8.npz",
+      "path_type": "hardlink",
+      "sha256": "6a36e30dcf13f32ad4ca31a0a65dd1651cf238b4e32bed20d290c385b7a6cd77",
+      "size_in_bytes": 594
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/chessboard_RGB.png",
+      "path_type": "hardlink",
+      "sha256": "1ac01eff2d4e50f4eda55a2ddecdc28a6576623a58d7a7ef84513c5cc19a0331",
+      "size_in_bytes": 1127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/chessboard_RGB_U8.npy",
+      "path_type": "hardlink",
+      "sha256": "34d57fb52c576f4232ef4d4bff9acc5ba0a450bff81d79c0453aa0aa2a9585cd",
+      "size_in_bytes": 120080
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/chessboard_RGB_U8.npz",
+      "path_type": "hardlink",
+      "sha256": "1f095e0b10fe5f923bec08e5780d7e55869f4f0346ae9f3d70b782c2ae08f695",
+      "size_in_bytes": 1490
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/clock_motion.png",
+      "path_type": "hardlink",
+      "sha256": "f029226b28b642e80113d86622e9b215ee067a0966feaf5e60604a1e05733955",
+      "size_in_bytes": 58784
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/coffee.png",
+      "path_type": "hardlink",
+      "sha256": "cc02f8ca188b167c775a7101b5d767d1e71792cf762c33d6fa15a4599b5a8de7",
+      "size_in_bytes": 466706
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/coins.png",
+      "path_type": "hardlink",
+      "sha256": "f8d773fc9cfa6f4d8e5942dc34d0a0788fcaed2a4fefbbed0aef5398d7ef4cba",
+      "size_in_bytes": 75825
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/color.png",
+      "path_type": "hardlink",
+      "sha256": "7d2df993de2b4fa2a78e04e5df8050f49a9c511aa75e59ab3bd56ac9c98aef7e",
+      "size_in_bytes": 85584
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/diamond-matlab-output.npz",
+      "path_type": "hardlink",
+      "sha256": "02fca68907e2b252b501dfe977eef71ae39fadaaa3702ebdc855195422ae1cc2",
+      "size_in_bytes": 2140
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/disk-matlab-output.npz",
+      "path_type": "hardlink",
+      "sha256": "8a39d5c866f6216d6a9c9166312aa4bbf4d18fab3d0dcd963c024985bde5856b",
+      "size_in_bytes": 2069
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/foo3x5x4indexed.png",
+      "path_type": "hardlink",
+      "sha256": "48a64c25c6da000ffdb5fcc34ebafe9ba3b1c9b61d7984ea7ca6dc54f9312dfa",
+      "size_in_bytes": 116
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/grass.png",
+      "path_type": "hardlink",
+      "sha256": "ced49494bf777157e75a733d978dd3e54a01251687828eefced312ca7f62ad8e",
+      "size_in_bytes": 203724
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/gray_morph_output.npz",
+      "path_type": "hardlink",
+      "sha256": "3012eb994e864e1dca1f66fada6b4375f84eac63658d049886b710488c2394d1",
+      "size_in_bytes": 45213
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/horse.png",
+      "path_type": "hardlink",
+      "sha256": "c7fb60789fe394c485f842291ea3b21e50d140f39d6dcb5fb9917cc178225455",
+      "size_in_bytes": 16633
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/hubble_deep_field.jpg",
+      "path_type": "hardlink",
+      "sha256": "3a19c5dd8a927a9334bb1229a6d63711b1c0c767fb27e2286e7c84a3e2c2f5f4",
+      "size_in_bytes": 527940
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/ihc.png",
+      "path_type": "hardlink",
+      "sha256": "f8dd1aa387ddd1f49d8ad13b50921b237df8e9b262606d258770687b0ef93cef",
+      "size_in_bytes": 477916
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/logo.png",
+      "path_type": "hardlink",
+      "sha256": "f2c57fe8af089f08b5ba523d95573c26e62904ac5967f4c8851b27d033690168",
+      "size_in_bytes": 179723
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/moon.png",
+      "path_type": "hardlink",
+      "sha256": "78739619d11f7eb9c165bb5d2efd4772cee557812ec847532dbb1d92ef71f577",
+      "size_in_bytes": 50177
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/motorcycle_disp.npz",
+      "path_type": "hardlink",
+      "sha256": "2e49c8cebff3fa20359a0cc6880c82e1c03bbb106da81a177218281bc2f113d7",
+      "size_in_bytes": 1146173
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/motorcycle_left.png",
+      "path_type": "hardlink",
+      "sha256": "db18e9c4157617403c3537a6ba355dfeafe9a7eabb6b9b94cb33f6525dd49179",
+      "size_in_bytes": 644701
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/motorcycle_right.png",
+      "path_type": "hardlink",
+      "sha256": "5fc913ae870e42a4b662314bc904d1786bcad8e2f0b9b67dba5a229406357797",
+      "size_in_bytes": 640373
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/mssim_matlab_output.npz",
+      "path_type": "hardlink",
+      "sha256": "cc11a14bfa040c75b02db32282439f2e2e3e96779196c171498afaa70528ed7a",
+      "size_in_bytes": 2097556
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/multi.fits",
+      "path_type": "hardlink",
+      "sha256": "5c71a83436762a52b1925f2f0d83881af7765ed50aede155af2800e54bbd5040",
+      "size_in_bytes": 270720
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/multipage.tif",
+      "path_type": "hardlink",
+      "sha256": "4da0ad0d3df4807a9847247d1b5e565b50d46481f643afb5c37c14802c78130f",
+      "size_in_bytes": 940
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/multipage_rgb.tif",
+      "path_type": "hardlink",
+      "sha256": "1d23b844fd38dce0e2d06f30432817cdb85e52070d8f5460a2ba58aebf34a0de",
+      "size_in_bytes": 5278
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/no_time_for_that_tiny.gif",
+      "path_type": "hardlink",
+      "sha256": "20abe94ba9e45f18de416c5fbef8d1f57a499600be40f9a200fae246010eefce",
+      "size_in_bytes": 4438
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/orb_descriptor_positions.txt",
+      "path_type": "hardlink",
+      "sha256": "f881ec1cfbe8023fbc8f8db315025b1e85afcf71acddb67a345715bfbebdc37b",
+      "size_in_bytes": 26105
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/page.png",
+      "path_type": "hardlink",
+      "sha256": "341a6f0a61557662b02734a9b6e56ec33a915b2c41886b97509dedf2a43b47a3",
+      "size_in_bytes": 47679
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/palette_color.png",
+      "path_type": "hardlink",
+      "sha256": "c4e817035fb9f7730fe95cff1da3866dea01728efc72b6e703d78f7ab9717bdd",
+      "size_in_bytes": 1019
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/palette_gray.png",
+      "path_type": "hardlink",
+      "sha256": "bace7f73783bf3ab3b7fdaf701707e4fa09f0dbd0ea72cf5b12ddc73d50b02a9",
+      "size_in_bytes": 935
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/phantom.png",
+      "path_type": "hardlink",
+      "sha256": "552ff698167aa402cceb17981130607a228a0a0aa7c519299eaa4d5f301ba36c",
+      "size_in_bytes": 3386
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/rank_filter_tests.npz",
+      "path_type": "hardlink",
+      "sha256": "70215330ed4f16c7cb2d080816f120a38f3b5668398b7b0c6663235aef6bb852",
+      "size_in_bytes": 34762
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/rocket.jpg",
+      "path_type": "hardlink",
+      "sha256": "c2dd0de7c538df8d111e479619b129464d0269d0ae5fd18ca91d33a7fdfea95c",
+      "size_in_bytes": 112525
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/rough-wall.png",
+      "path_type": "hardlink",
+      "sha256": "59c641fabbb70ba50b47660ce385fffb2da2a7f0b9e5e4184e882c3094bb4207",
+      "size_in_bytes": 197789
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/simple.fits",
+      "path_type": "hardlink",
+      "sha256": "cd36087fdbb909b6ba506bbff6bcd4c5f4da3a41862608fbac5e8555ef53d40f",
+      "size_in_bytes": 138240
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "ff0f53195d285d49e12a0a57c5ebfc7ac9da3babbbbdcfc6a1e9fea9a414d93a",
+      "size_in_bytes": 571
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/tests/test_data.py",
+      "path_type": "hardlink",
+      "sha256": "16651d31e18c4528b936d9618098854cc756092f93820cdb80244737d6324ca6",
+      "size_in_bytes": 2472
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/tests/test_data.pyc",
+      "path_type": "hardlink",
+      "sha256": "69887c4a0ef29a8381301a328b63ee460670a2ff17926f9a4c61146ca64afc05",
+      "size_in_bytes": 4841
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/text.png",
+      "path_type": "hardlink",
+      "sha256": "bd84aa3a6e3c9887850d45d606c96b2e59433fbef50338570b63c319e668e6d1",
+      "size_in_bytes": 42704
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/data/truncated.jpg",
+      "path_type": "hardlink",
+      "sha256": "4c226038acc78012d335efba29c6119a24444a886842182b7e18db378f4a557d",
+      "size_in_bytes": 400
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e7defa9983bbe5f184559ae5cc9bed41771d819c0b35914464ee4a362d799257",
+      "size_in_bytes": 642
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "5983eceb2893d9d539449f850fbbd5174a8c1c77f6c93935b206957495ec7753",
+      "size_in_bytes": 755
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/_draw.so",
+      "path_type": "hardlink",
+      "sha256": "8b86e99f1f9cd991a2642a8631bf14750edf0dc59c8942bcd014cc1fca8ee135",
+      "size_in_bytes": 341768
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/draw.py",
+      "path_type": "hardlink",
+      "sha256": "82ef4784c99bbbcaabd025684f574bee465128654c8530f9500052630701f3e8",
+      "size_in_bytes": 22252
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/draw.pyc",
+      "path_type": "hardlink",
+      "sha256": "8dd56e7acb003ff9f00824ea672df1502d6d2b09fe992b48b0294b0432c2a5c9",
+      "size_in_bytes": 22934
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/draw3d.py",
+      "path_type": "hardlink",
+      "sha256": "c58c4d1fd923b03222d1de80eb6a4e255a8f24f6bdda9b90d26206085bdd63d7",
+      "size_in_bytes": 3463
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/draw3d.pyc",
+      "path_type": "hardlink",
+      "sha256": "c681eb9a7c140f482edf0e3d1f2c27491c578ec4ee38635f877cbe77e00100b9",
+      "size_in_bytes": 3602
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/setup.py",
+      "path_type": "hardlink",
+      "sha256": "fe2522b94f3bbb1329fac34a0ecc776578551f6e0bd60ba1a922bed6239104b9",
+      "size_in_bytes": 981
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "c66c6e8b84ae49e29a9c760692e3a65870fd91b93bc370ac6bf32de2e41a5929",
+      "size_in_bytes": 1338
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "11d6e0df61c26a61847aef92f69126eeff73f384e289ea0757c7f72c2021b12f",
+      "size_in_bytes": 571
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/tests/test_draw.py",
+      "path_type": "hardlink",
+      "sha256": "e76632215dddf4c10b0d11c528999bce26208c443ff91f13e8124968660795b8",
+      "size_in_bytes": 30229
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/tests/test_draw.pyc",
+      "path_type": "hardlink",
+      "sha256": "a84300e3d9f1ea8cf488a6d387301fce0d5047ef5e7109783e5a3e5a72f8e413",
+      "size_in_bytes": 34940
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/tests/test_draw3d.py",
+      "path_type": "hardlink",
+      "sha256": "e65693897bfd6562b14baf62d83bf48e417e302a8ea188510770e4983ba4063e",
+      "size_in_bytes": 4429
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/draw/tests/test_draw3d.pyc",
+      "path_type": "hardlink",
+      "sha256": "fb90997d6d5d081bf58c160a6f9f4055ee19a843a3409ceef933b83d36adf007",
+      "size_in_bytes": 3836
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/exposure/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "2b5c3d671d0f2c8073c0fddcce6a0cdc701ba1009718c5b63a5bf216ad90e193",
+      "size_in_bytes": 534
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/exposure/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "5a3088f20d0f3e520990514d899ed10a0c2c8f5b2223cb1eeed108c6d9ef9f7d",
+      "size_in_bytes": 591
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/exposure/_adapthist.py",
+      "path_type": "hardlink",
+      "sha256": "612c98bbda28364921454ac9d5954c872def66aa836689a520aaf72c95a812e7",
+      "size_in_bytes": 11245
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/exposure/_adapthist.pyc",
+      "path_type": "hardlink",
+      "sha256": "8f49d3ef402259e3f8a4598422318b5c2a62c7c781cf1b014b16c69d1579a4ae",
+      "size_in_bytes": 9851
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/exposure/exposure.py",
+      "path_type": "hardlink",
+      "sha256": "d2f7f2a863e30626f687e61e0d9fd35032926c7c086ebda5cb87f1b855fc3d77",
+      "size_in_bytes": 15941
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/exposure/exposure.pyc",
+      "path_type": "hardlink",
+      "sha256": "eb027f1441e8439660f027ea7ee618b144d1e9fe953bb9f79b3e78f8b4ae44b5",
+      "size_in_bytes": 16531
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/exposure/setup.py",
+      "path_type": "hardlink",
+      "sha256": "d6ce6f0744f963edc32264f216398d0713540ff8fb84fc8379bfbc880827199f",
+      "size_in_bytes": 753
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/exposure/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "f899428b41e1f38a587982c6ec9a61b34beb74a757f8cd47159412c8e75c2265",
+      "size_in_bytes": 1075
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/exposure/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/exposure/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "3cb389e0de0589fc67a07e798e37ba9a0a85d9248416115b16d83f31d19f2bc5",
+      "size_in_bytes": 583
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/exposure/tests/test_exposure.py",
+      "path_type": "hardlink",
+      "sha256": "fa4696202e21a53e483485b27b36fcca009ea0bae3a7f07a2957073cda7a5c11",
+      "size_in_bytes": 17236
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/exposure/tests/test_exposure.pyc",
+      "path_type": "hardlink",
+      "sha256": "88b52dcbed77f725c0160a7ea3d596b43eb40a58e3eda724bb812e2e372eda9e",
+      "size_in_bytes": 23210
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/external/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/external/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "0d31ded27ed55b98e6ab59d61084209344c73590eadde5f0380333fa66e9ec2b",
+      "size_in_bytes": 143
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/external/setup.py",
+      "path_type": "hardlink",
+      "sha256": "75a15e19e6f8163fa745326d1fee8eeafb3b6e7f1460d345788b5ba61df63dd2",
+      "size_in_bytes": 859
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/external/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "3132433de20f4c528a4ca0081038f37010d9674749df4adc1c9a365319c78eeb",
+      "size_in_bytes": 1187
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/external/test_tifffile.py",
+      "path_type": "hardlink",
+      "sha256": "a3e021556bf3a2ca04476e5ecaa8e337cfbd762298fa33128eca102312ea96ea",
+      "size_in_bytes": 2221
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/external/test_tifffile.pyc",
+      "path_type": "hardlink",
+      "sha256": "a61690503c51e26ff37cf8282dc5f23f813fd865fb6eb7678c66682b4a1563a0",
+      "size_in_bytes": 3370
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/external/tifffile/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "684460e20be56fe36c8d2d64c72ab94c323fbfeb498a8f4a8fc4880b397b3fdf",
+      "size_in_bytes": 198
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/external/tifffile/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "d897ee2aa1d08682e9007028da190bdd927ab0bef713f8812342b765f43c9fc1",
+      "size_in_bytes": 450
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/external/tifffile/_tifffile.so",
+      "path_type": "hardlink",
+      "sha256": "713589fb6a72e5c786cf18b800cbd4f52bde138f915d9f5ef09ae9b8c2bd4ddf",
+      "size_in_bytes": 21016
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/external/tifffile/tifffile.py",
+      "path_type": "hardlink",
+      "sha256": "b950d4aea852610d3ba85972f9b54a014fd173516420eb1585e7e74a4cf669cc",
+      "size_in_bytes": 232209
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/external/tifffile/tifffile.pyc",
+      "path_type": "hardlink",
+      "sha256": "6b3fb07482edd80e29914ec4e36d1d586212e3f87469eefcdedd5c09cb816bda",
+      "size_in_bytes": 211022
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "14c5654dbae711663f5d9c8a23ae11308f198315d20a84231de4272da9b7abf4",
+      "size_in_bytes": 1946
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "f8c90667f682f87d9fa1cf964d930f9495e304816b78bb76fb05d796f51abc1d",
+      "size_in_bytes": 1868
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/_canny.py",
+      "path_type": "hardlink",
+      "sha256": "66674e7aff304323a94184f1393433d6cabf63b8d47c442964edc342c1f1d6c1",
+      "size_in_bytes": 11209
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/_canny.pyc",
+      "path_type": "hardlink",
+      "sha256": "96de2cde6715b6a6164cf02481512dac67cd19d409b50bab45368eab47343e4f",
+      "size_in_bytes": 8663
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/_daisy.py",
+      "path_type": "hardlink",
+      "sha256": "3316e81278b943bb59b5ce6b5444b6e2ac710d2de3711b4ff1819c138ecc309b",
+      "size_in_bytes": 9941
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/_daisy.pyc",
+      "path_type": "hardlink",
+      "sha256": "3b76a44422cfdcb8fbcbbd1d6f58695a114aaee4e678bcd7d29cc670e3e7d005",
+      "size_in_bytes": 8025
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/_hessian_det_appx.so",
+      "path_type": "hardlink",
+      "sha256": "a358c8f2cd4d6b19885aef68d1a31bb434547a4e6e5bd0d58434b57911ea7b1f",
+      "size_in_bytes": 156756
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/_hog.py",
+      "path_type": "hardlink",
+      "sha256": "32998f5e2235c7bad9c83def97ea7177c5c864d9ec67616dd05a40ef1cc23afb",
+      "size_in_bytes": 10514
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/_hog.pyc",
+      "path_type": "hardlink",
+      "sha256": "abe872bd07775ffcee4750767df8399251e39601ca762d57264dedc11968e5fb",
+      "size_in_bytes": 7204
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/_hoghistogram.so",
+      "path_type": "hardlink",
+      "sha256": "b202e57635f71a7d700e3f28efbd96f282328af281f92bac072c116803d740c4",
+      "size_in_bytes": 183176
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/_texture.so",
+      "path_type": "hardlink",
+      "sha256": "6b33e15598e3e38b7aa16a0620f64fdf02b5b70214efd295a28571d0e9849949",
+      "size_in_bytes": 284928
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/blob.py",
+      "path_type": "hardlink",
+      "sha256": "6ac81d3df3371c17a892969e43f6c1343b5d097f18f7f39fb83e43518b30a205",
+      "size_in_bytes": 16868
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/blob.pyc",
+      "path_type": "hardlink",
+      "sha256": "bb7358be417338ad9e53d175195b0ec6f42693f81db48a2e6abdbe562d18d00c",
+      "size_in_bytes": 15853
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/brief.py",
+      "path_type": "hardlink",
+      "sha256": "78ca264d181340dffd04cbac3745ab3395c2d04abfd40c976ecfdc08071e8c08",
+      "size_in_bytes": 7112
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/brief.pyc",
+      "path_type": "hardlink",
+      "sha256": "7594f00d7a1fc93d6eb80fd133c22c1cfb3a3fe84dcf21d009074ccee67fb2ce",
+      "size_in_bytes": 6859
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/brief_cy.so",
+      "path_type": "hardlink",
+      "sha256": "9257dbd3f670b51ee9576e735213100c28f4ac0f6986b25574f311e38c2f356c",
+      "size_in_bytes": 150564
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/censure.py",
+      "path_type": "hardlink",
+      "sha256": "01b2e8bffb213c77ab392b9f7f09790c4664980de29070e1c24cc4eeca9573f1",
+      "size_in_bytes": 11825
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/censure.pyc",
+      "path_type": "hardlink",
+      "sha256": "a495a294856c597f75f2fdda0f317b914ce2857b7adf4dd0dbfe22325f1afc30",
+      "size_in_bytes": 9571
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/censure_cy.so",
+      "path_type": "hardlink",
+      "sha256": "904302f4ed1ca943476954fa10c23bd10a2c0daf775a8ffc2e99a452da26a9d4",
+      "size_in_bytes": 138268
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/corner.py",
+      "path_type": "hardlink",
+      "sha256": "ebd08ada30ffe5ace810c5f0e160b79b9ba688896a1daaac094cd3387ce2208f",
+      "size_in_bytes": 33744
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/corner.pyc",
+      "path_type": "hardlink",
+      "sha256": "a4749ad325bdc5521d9e679bc836b0658af3dd9fbd18e714379a97372e2097f0",
+      "size_in_bytes": 33489
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/corner_cy.so",
+      "path_type": "hardlink",
+      "sha256": "5dba4dcf78999f8d58d1adc09dea1eef35e8ab7cf61c4f741e634447c468290a",
+      "size_in_bytes": 213728
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/match.py",
+      "path_type": "hardlink",
+      "sha256": "804dc677d4194f3f00311e2ff6f318a3eaf3ebc3f2b729d8a2f691bc0e193a8b",
+      "size_in_bytes": 2674
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/match.pyc",
+      "path_type": "hardlink",
+      "sha256": "4419738a35fe1ae4bfd9be2ff53a03dca5c52587179851b06f83320b6b7f6f5d",
+      "size_in_bytes": 2821
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/orb.py",
+      "path_type": "hardlink",
+      "sha256": "cb22e4651c2c0320500236708f0be41ba849472326c9308621013c88670d0e95",
+      "size_in_bytes": 12944
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/orb.pyc",
+      "path_type": "hardlink",
+      "sha256": "5b2de96abca52d43b9c608b8172c4fbba0a7d9f89fc9aac7cd7d61000747d112",
+      "size_in_bytes": 11053
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/orb_cy.so",
+      "path_type": "hardlink",
+      "sha256": "81e43f853d6a0854fa0ba809e062db8d998949e786b5437ea25bfa6dc7447734",
+      "size_in_bytes": 171724
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/peak.py",
+      "path_type": "hardlink",
+      "sha256": "ef5fda5a7727c4046d2e50bbad3c56f276896cc4d1adfcdcbd15d741e47c6434",
+      "size_in_bytes": 11285
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/peak.pyc",
+      "path_type": "hardlink",
+      "sha256": "58f181821c5eec04787cab074a5b2441fc94c8098723157cf473d8da97e05d79",
+      "size_in_bytes": 9111
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/register_translation.py",
+      "path_type": "hardlink",
+      "sha256": "36aa1c4e5c1595c97d084a7ca7844b6017eb787868c778fb9ee1595c39747076",
+      "size_in_bytes": 9961
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/register_translation.pyc",
+      "path_type": "hardlink",
+      "sha256": "256369e71507e0d927d3da59b953e9f733a050c37581186096cdcf356c9e67e5",
+      "size_in_bytes": 8307
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/setup.py",
+      "path_type": "hardlink",
+      "sha256": "3d998a8c1f44ff6faec6301d430f0b9402e4b2ce33bb3fbfbcd97555bd467a0f",
+      "size_in_bytes": 2132
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "ef2578da1a5085d8c1513eeae50315d476dafcc3244ffb832be08d7fd2b64ce3",
+      "size_in_bytes": 2029
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/template.py",
+      "path_type": "hardlink",
+      "sha256": "3504d5de8cd9850cb41e126f18844c50c674945f67161183a3e45b26469df898",
+      "size_in_bytes": 6575
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/template.pyc",
+      "path_type": "hardlink",
+      "sha256": "a6738843226a600add6f6750fb77b7bf813ed871e7d5905e6a893f03e694f609",
+      "size_in_bytes": 6426
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "3337d5da1d243e213fb079d13c0f35027f6fb9640f1aa754d748af1bfe0723cb",
+      "size_in_bytes": 580
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_blob.py",
+      "path_type": "hardlink",
+      "sha256": "ba2b75e29b5a799956d81fa3651a7842dbe6e026e78ef40e71aea33f34a1b65d",
+      "size_in_bytes": 5118
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_blob.pyc",
+      "path_type": "hardlink",
+      "sha256": "f5241a9e87384c5e6d842e88afdb3fadaaa1b6102564bfd72a48bc7a26de4a46",
+      "size_in_bytes": 6276
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_brief.py",
+      "path_type": "hardlink",
+      "sha256": "f11c8a84f8ab1371aecc7a449fd3fd1804b00d5f5f91a25388793b350ef461af",
+      "size_in_bytes": 3149
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_brief.pyc",
+      "path_type": "hardlink",
+      "sha256": "fa4ee5383fc47b0b56d1bcc28c8fe4b31b78402a40f8e3ba8279e29d3273644c",
+      "size_in_bytes": 3467
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_canny.py",
+      "path_type": "hardlink",
+      "sha256": "12ee75b6f32422421e17956458605aaef581a3f39d59c5bb79907e97b73affa7",
+      "size_in_bytes": 4499
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_canny.pyc",
+      "path_type": "hardlink",
+      "sha256": "0471757ee24b20b45fbdd61f182103bb18951360ed679eac660ee7b2f9f3cbef",
+      "size_in_bytes": 5426
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_censure.py",
+      "path_type": "hardlink",
+      "sha256": "5d5e77b7443548dee4212b0fc2222ea1b31e95040fe8d55bba5b887541f6051c",
+      "size_in_bytes": 3606
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_censure.pyc",
+      "path_type": "hardlink",
+      "sha256": "c9d6f1b8322a82b34b11f839f3f56a24e0e5d634373e6d557a50be7e4130a3fc",
+      "size_in_bytes": 4322
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_corner.py",
+      "path_type": "hardlink",
+      "sha256": "ca086e14aeaa5af12a00c64b512d5832f38a4b25765f1f28d49e3e59c6b91e2c",
+      "size_in_bytes": 16586
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_corner.pyc",
+      "path_type": "hardlink",
+      "sha256": "fd6b6fb1d71b5eb8746e1afd32c27af435c6f6f6d435a854f6d07f871b2a32c8",
+      "size_in_bytes": 16246
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_daisy.py",
+      "path_type": "hardlink",
+      "sha256": "9e960a8367c0e556b91c8be97434945d5e26f54c66a772ce4e66470df605149d",
+      "size_in_bytes": 3348
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_daisy.pyc",
+      "path_type": "hardlink",
+      "sha256": "fbc24ca0129f34bc295eab060c50f8ea7fafc7467190c6a144f03aaf32c831f7",
+      "size_in_bytes": 4533
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_hog.py",
+      "path_type": "hardlink",
+      "sha256": "6ac5c2f1961ee654d4146d5912d44aa5d02927523e1e3c49b4dba2ccaf855284",
+      "size_in_bytes": 8172
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_hog.pyc",
+      "path_type": "hardlink",
+      "sha256": "6da420031759f616bc0099621b53e514834a8b2a9e44a212871fb2288285e3cc",
+      "size_in_bytes": 6828
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_match.py",
+      "path_type": "hardlink",
+      "sha256": "9ca17d3050a9f8b1b7e1a493d8c10fd65d89a232080b7a43d8cd0670c3de4eb8",
+      "size_in_bytes": 5291
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_match.pyc",
+      "path_type": "hardlink",
+      "sha256": "da414ff4f5cccf1010e3b3779f26eb599f9acc2ea3bea658bc2b019234d7636b",
+      "size_in_bytes": 5403
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_orb.py",
+      "path_type": "hardlink",
+      "sha256": "21a5d81974241b063486b78d346aef396477059e5bda89fcde58602c99ecd9f1",
+      "size_in_bytes": 5228
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_orb.pyc",
+      "path_type": "hardlink",
+      "sha256": "ccca230d72f352db9bf85926459fcb8dd416946a8a9054203d6a2e36a07a46ca",
+      "size_in_bytes": 4543
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_peak.py",
+      "path_type": "hardlink",
+      "sha256": "4ced582d0b20cbba02aa5ecdfa75dd46b6b8ff7398b023be89fd87f68d568483",
+      "size_in_bytes": 18760
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_peak.pyc",
+      "path_type": "hardlink",
+      "sha256": "4d4a52b5a2511a7f8443117ba3045a34f24878c36385bf9edae2ae71e64bf6d0",
+      "size_in_bytes": 20706
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_register_translation.py",
+      "path_type": "hardlink",
+      "sha256": "a55bb457c64a43489501368c74d840372a0ca2761dc3678f1daec91f9c23e85a",
+      "size_in_bytes": 4520
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_register_translation.pyc",
+      "path_type": "hardlink",
+      "sha256": "e5a0139d9232950220409454a0218ee9dda530359c09486c92eb6d53492213bd",
+      "size_in_bytes": 4948
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_template.py",
+      "path_type": "hardlink",
+      "sha256": "88447d35507f92d85b09030a52538fe8b1b262567c0298ce2d494f0336ddda42",
+      "size_in_bytes": 6024
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_template.pyc",
+      "path_type": "hardlink",
+      "sha256": "0454d0bc8f6a191ba6720def5ec66466466f0f6acf437e76545aaaa8dae960b9",
+      "size_in_bytes": 7624
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_texture.py",
+      "path_type": "hardlink",
+      "sha256": "de63637674a20784c23fbad71098280f0a76f81ec682c9c5dd8e88b9baa45a83",
+      "size_in_bytes": 12108
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_texture.pyc",
+      "path_type": "hardlink",
+      "sha256": "9f2901d283cb27e067dfee47a5ff9dce954d38080cf5831e5663505d849a0f29",
+      "size_in_bytes": 14394
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_util.py",
+      "path_type": "hardlink",
+      "sha256": "4519bd24f68986952fa224b34a956e426fcd9acbb9799fddd6a385027289c179",
+      "size_in_bytes": 2822
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/tests/test_util.pyc",
+      "path_type": "hardlink",
+      "sha256": "32cc786158067621012355f86298770b1faa2e70d112e678dca219813dcabfd7",
+      "size_in_bytes": 3503
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/texture.py",
+      "path_type": "hardlink",
+      "sha256": "0f388a11f57bc886b41fa28ef74d50ac1018064c73d6d6c118c252969f710a5e",
+      "size_in_bytes": 17692
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/texture.pyc",
+      "path_type": "hardlink",
+      "sha256": "1b8792a29848fb4193eb0810a2af3586c9ccdc958d9ba8c40702161e9bf542a3",
+      "size_in_bytes": 16571
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/util.py",
+      "path_type": "hardlink",
+      "sha256": "3d4cb05097a01f8f56a66fda4fc8e74de0083994671c10a92ab0378520600983",
+      "size_in_bytes": 4729
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/feature/util.pyc",
+      "path_type": "hardlink",
+      "sha256": "9f2b78bc11cb2c8acd2a10e498ce96f2a01a562ec0440ff6f9ba090b6a8e2e0f",
+      "size_in_bytes": 5634
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "846bb09b46afbc9a72bf782739aa7522b868342dc10cf8f77dba3606ec7a6d54",
+      "size_in_bytes": 2156
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "3b608af0dffb3da4ebfb658fb2e98f1bbf77d9f37e9cf8c52e062513fe35feb0",
+      "size_in_bytes": 2092
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/_ctmf.so",
+      "path_type": "hardlink",
+      "sha256": "d1f85db176334cd428d39b4d7c1dfc5a5569bf44443a94ca3ef712bfe3b6bca4",
+      "size_in_bytes": 164136
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/_frangi.py",
+      "path_type": "hardlink",
+      "sha256": "6a85aacd55d908942ced1cf4dd54396f89f5d341efe2caf6d70aedd029349536",
+      "size_in_bytes": 6377
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/_frangi.pyc",
+      "path_type": "hardlink",
+      "sha256": "56b74b08d8451bcf8355f601ba4ae674de9c81d7d9669fa15c8b6e2477e29af0",
+      "size_in_bytes": 5860
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/_gabor.py",
+      "path_type": "hardlink",
+      "sha256": "0c435b91e4744f9f3735d0465dba21be4b4f4e79e2655ced110b4f3edff7f68a",
+      "size_in_bytes": 6926
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/_gabor.pyc",
+      "path_type": "hardlink",
+      "sha256": "d80ae4285706a8d770221bf1af980b49c50209da48bb2396176d9339d72a297b",
+      "size_in_bytes": 7318
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/_gaussian.py",
+      "path_type": "hardlink",
+      "sha256": "12f45cf9c1e8a6d58c3260b4e849e557f19b211549aae041fb80bdd231bd519a",
+      "size_in_bytes": 4655
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/_gaussian.pyc",
+      "path_type": "hardlink",
+      "sha256": "0b89c5f9c6e89635f75ca50743ab658f5f9cd367a0da3be48b7646c76e9da013",
+      "size_in_bytes": 5017
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/_rank_order.py",
+      "path_type": "hardlink",
+      "sha256": "d8ae5e5860e5b36768f1be749dbe9250d1e4df71d786c83976fd6b2a649189a4",
+      "size_in_bytes": 2066
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/_rank_order.pyc",
+      "path_type": "hardlink",
+      "sha256": "66895384250057728dcf410d2e5c1da8aad95a5066f12ca4f09698c68a4b6c72",
+      "size_in_bytes": 2277
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/edges.py",
+      "path_type": "hardlink",
+      "sha256": "95adf833c66fe1fadf2efd6fabf0092d408881665e1db1c89c33d138bae5724a",
+      "size_in_bytes": 14463
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/edges.pyc",
+      "path_type": "hardlink",
+      "sha256": "30a9b56566027ff8c2bad6641faf7cc714b4efd02eecfe80d48152f3f8d9b6ad",
+      "size_in_bytes": 15601
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/lpi_filter.py",
+      "path_type": "hardlink",
+      "sha256": "94dcf1ae96b1abdca82462d23fe13002731078604c7dad93fa75602def8f9732",
+      "size_in_bytes": 7349
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/lpi_filter.pyc",
+      "path_type": "hardlink",
+      "sha256": "593bb1206b53a466fa479e68a54a85bd7d5d279a33e1903f078e9e1f776ae0a4",
+      "size_in_bytes": 8382
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "bb413b32151e3191abdeba2a0f1cfb4bce750694edd2a3947df3d06bfa320c14",
+      "size_in_bytes": 1502
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "47e799434e9430a84ef3f9e45239169a53c7ab6755db2d2b8b6354e573d28da1",
+      "size_in_bytes": 1464
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/_percentile.py",
+      "path_type": "hardlink",
+      "sha256": "a470f5382711c1fb400e7df648eda753b9cd3c1f72e7f6c903d033552fdb7123",
+      "size_in_bytes": 13862
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/_percentile.pyc",
+      "path_type": "hardlink",
+      "sha256": "bfb3dce1a6f68bee6323d7c41102f68f9104b28155fbc48735ecb09e2755902e",
+      "size_in_bytes": 14450
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/bilateral.py",
+      "path_type": "hardlink",
+      "sha256": "84de2ab763c8fcc82abd89241a057bd709ed914504157d64e69a0163b3e76b6b",
+      "size_in_bytes": 7626
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/bilateral.pyc",
+      "path_type": "hardlink",
+      "sha256": "99ed1c0311d5c9f3cb34356ed78e02fc8be8654f3b7fbfdaa720d91b791809c2",
+      "size_in_bytes": 8122
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/bilateral_cy.so",
+      "path_type": "hardlink",
+      "sha256": "a4a8c0a0eddac7bd3bc08a1c7badd8e93aa89da9d178d610d4b8c756cbd84ad1",
+      "size_in_bytes": 352280
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/core_cy.so",
+      "path_type": "hardlink",
+      "sha256": "6490688fcbaa891a5149753efb48c3f3f4d69056bdec4811e3a58f1131446051",
+      "size_in_bytes": 307012
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/generic.py",
+      "path_type": "hardlink",
+      "sha256": "7a89e39bc7c2b29fe86613f12c6d09c348524a812b666717fb4de6859999fc2a",
+      "size_in_bytes": 34790
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/generic.pyc",
+      "path_type": "hardlink",
+      "sha256": "3b970f8f992b586e3330c52c94d515863e6df73b6dc7556840155ea66037df4c",
+      "size_in_bytes": 34827
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/generic_cy.so",
+      "path_type": "hardlink",
+      "sha256": "712419fdf9045aba6e85d14106d6c7c2c39ae5c7149f1963783636d00a708e46",
+      "size_in_bytes": 1270968
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/percentile_cy.so",
+      "path_type": "hardlink",
+      "sha256": "aa7412be24073362be1fee163573bf818c455bc52ba064073099f8d3cc491490",
+      "size_in_bytes": 691736
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "8442780ea628d127dcf4a9dd072c780a3340140f2d6e27e60ed244849253de8a",
+      "size_in_bytes": 128
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "131a1764a210d0720612e27173bd3c585f9a27651d8d17f2e7c5108248803620",
+      "size_in_bytes": 595
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/tests/test_rank.py",
+      "path_type": "hardlink",
+      "sha256": "5499300d0181e0eb7f9849b738f7c9a5e8df14b404f2a67ea7d277ad9eabcce6",
+      "size_in_bytes": 28991
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/rank/tests/test_rank.pyc",
+      "path_type": "hardlink",
+      "sha256": "307571e352b58454849409c880988e0f1a33156d929a924255a093de5d23aaf6",
+      "size_in_bytes": 25170
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/setup.py",
+      "path_type": "hardlink",
+      "sha256": "ad4d1351c6308da79c08d9ec0becf8faffeeeee8037a826e7eeb532615d39ff2",
+      "size_in_bytes": 1768
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "3a151ca1be799b34197f5ab5287b74a15651f23555f31ae768950b25529b2c51",
+      "size_in_bytes": 1869
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "7983c4dfe676e31d4a330de4ca6ca9d6603ae3669b745c744d0cc9b94b770047",
+      "size_in_bytes": 580
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_edges.py",
+      "path_type": "hardlink",
+      "sha256": "6e1b8d8bfd35bcf8f3ab41248a9292b15413a3c34672bcd4eaa4a2cc82c3c257",
+      "size_in_bytes": 13984
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_edges.pyc",
+      "path_type": "hardlink",
+      "sha256": "78b9b443fdbcdb81f727e43a0ee3681a490c0db9a686ef9548b12db7c41be115",
+      "size_in_bytes": 20733
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_frangi.py",
+      "path_type": "hardlink",
+      "sha256": "31992e5d5c8e58b32f02ada057c9bf0b546e8479b9864b5e2b2b8c9eb1af43a2",
+      "size_in_bytes": 1198
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_frangi.pyc",
+      "path_type": "hardlink",
+      "sha256": "f0206f6a9de9c315c79489f58c155cb32892f7027226a47c6e04b3c85bced433",
+      "size_in_bytes": 2345
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_gabor.py",
+      "path_type": "hardlink",
+      "sha256": "91cae0220de7e6071f99032738963860b5bbf3ab91d6f282d7cec92baff909ff",
+      "size_in_bytes": 2888
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_gabor.pyc",
+      "path_type": "hardlink",
+      "sha256": "30117b57c3fafe240a1d67482eb0b12e2281190f1665abe3a360cdf6a74aed9e",
+      "size_in_bytes": 3686
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_gaussian.py",
+      "path_type": "hardlink",
+      "sha256": "c7ca13a2bcb4ba9f3f52c40e4f841cdcc8e719be2188cc3a61e9d2449c4f68ee",
+      "size_in_bytes": 2143
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_gaussian.pyc",
+      "path_type": "hardlink",
+      "sha256": "6c96cce7eb3324178c15c36bcc434e13c4d7984d80e6df899fae74efc2b3e544",
+      "size_in_bytes": 3199
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_lpi_filter.py",
+      "path_type": "hardlink",
+      "sha256": "93a92c84012605cd6ca3dd08a72840edeb81dcab6a627451e0ad59140b5c42e3",
+      "size_in_bytes": 1757
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_lpi_filter.pyc",
+      "path_type": "hardlink",
+      "sha256": "1d2ec95bf425951474d61383f845e2e58eedf5ac2f997da23a38b0cc682dcf94",
+      "size_in_bytes": 3289
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_median.py",
+      "path_type": "hardlink",
+      "sha256": "8f28b803043e7865b8e0fb7882680ff5aa3326c4f62ac59cac1fdd77f5559342",
+      "size_in_bytes": 69
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_median.pyc",
+      "path_type": "hardlink",
+      "sha256": "112b270c29793613e93c149bff89a4e0f818833952ed047b0d68723474267f38",
+      "size_in_bytes": 391
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_thresholding.py",
+      "path_type": "hardlink",
+      "sha256": "bf23832297839bd28ea4adc50bd901a3e0a824de401d2fc56a5d42e623fac00e",
+      "size_in_bytes": 14554
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/tests/test_thresholding.pyc",
+      "path_type": "hardlink",
+      "sha256": "f17047db3057b4e65b47222b746cf896b0bfc8b3b25ec15483dfb7a2073019bf",
+      "size_in_bytes": 20849
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/thresholding.py",
+      "path_type": "hardlink",
+      "sha256": "e79794e7d9abdbe5e0853a1353c5f7bacc9ed321cfb113b891056d8259d14483",
+      "size_in_bytes": 30280
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/filters/thresholding.pyc",
+      "path_type": "hardlink",
+      "sha256": "25a6c95f4e41c7e38af2a2c45f200d08e6526a75a50357958e482f2916d96bdf",
+      "size_in_bytes": 27229
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f87ceaecb0f0fcadda69f18602d347d2ecaa99fded8c5b74f37fa3c022521640",
+      "size_in_bytes": 414
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "b51260cd7c0db4a11010d6e4c2d3f4050da860b5a7a57e78739c2c11daffa4af",
+      "size_in_bytes": 605
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "9e7af2e0f73ceb9133d173084aa1aea8c14b850633c2a0c20ab701a2a19fc94e",
+      "size_in_bytes": 387
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "f1cfea63b1dad4b645b377d3d300ce6bc90c24f87dde0c002c0ec23873755093",
+      "size_in_bytes": 548
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/_ncut.py",
+      "path_type": "hardlink",
+      "sha256": "27aafa33bf7aa7a2117a2969ea077350ded726f3ec0360db262354f9c572d993",
+      "size_in_bytes": 1885
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/_ncut.pyc",
+      "path_type": "hardlink",
+      "sha256": "1194640fe7d87b94a4889cf57e0642e03dfbd2a29db132c2c161292cf5d41b4f",
+      "size_in_bytes": 2285
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/_ncut_cy.so",
+      "path_type": "hardlink",
+      "sha256": "fe257e80e78a46f8b5b42e49c23634c695fcddd62857ff87fe5654bb4dc171ae",
+      "size_in_bytes": 165588
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/graph_cut.py",
+      "path_type": "hardlink",
+      "sha256": "c49c02a97a7cc062d88887913eb37e868da3fd073086bc21e69c67488b00a22b",
+      "size_in_bytes": 9320
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/graph_cut.pyc",
+      "path_type": "hardlink",
+      "sha256": "3f3f41ae2d74974f427a61cba995f747b3cdeee4adb8dbde8c723c303b79c51b",
+      "size_in_bytes": 8906
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/graph_merge.py",
+      "path_type": "hardlink",
+      "sha256": "2125627d5b3460fca35407e4bbbef7fa097a65b4bbe98c6f91d754cc8970a342",
+      "size_in_bytes": 4326
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/graph_merge.pyc",
+      "path_type": "hardlink",
+      "sha256": "a5c57516f96314c05d267622c4a78ab5aef02502755093e05225d8e526edd00e",
+      "size_in_bytes": 4128
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/rag.py",
+      "path_type": "hardlink",
+      "sha256": "96a5da241431935d2bf4aec7c042a2bdc53c716bd3580d9c063d5bf320b51a2e",
+      "size_in_bytes": 20803
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/rag.pyc",
+      "path_type": "hardlink",
+      "sha256": "f75a003214c917b8a2e2dc446931feee42cf04f2a08497d8aeef0c7eb6bc08c4",
+      "size_in_bytes": 20859
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/setup.py",
+      "path_type": "hardlink",
+      "sha256": "4f356c5119be85adb2db115b1d5e9418bd015e1f98bcfa34b66cf2aa9a672570",
+      "size_in_bytes": 1087
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "204a1cac2d5ac9ea4f1220a5f04fa3b505af1acff12b10d4164d698bed727e58",
+      "size_in_bytes": 1358
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/tests/test_rag.py",
+      "path_type": "hardlink",
+      "sha256": "4d86b7913d648c04b4cbac48146780c45159b8a66373a9ca069ff764f35527f0",
+      "size_in_bytes": 6750
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/graph/tests/test_rag.pyc",
+      "path_type": "hardlink",
+      "sha256": "7c6b02762c56cc8dd4d70d296f49fa0e304746ff36a454563f9c0927535c6fb7",
+      "size_in_bytes": 8979
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/setup.py",
+      "path_type": "hardlink",
+      "sha256": "ff263914f006f66bf18c565b292d53d77952256f7363cb7bdb021404d03fb448",
+      "size_in_bytes": 374
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/future/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "89b583e80584d27f3cce1bdd104d632f65c4c5dee94462ef931e3b66c3c6f79d",
+      "size_in_bytes": 692
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "71c0466878c85c5b4048b7560e3d19e334742807df0a3ef873ada7f7ad65e636",
+      "size_in_bytes": 459
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "daeb8da1af77144c62f8de7b5b934ba9ff289beac2346bf83e7ea86277e93000",
+      "size_in_bytes": 584
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/_mcp.so",
+      "path_type": "hardlink",
+      "sha256": "d53fcd19d708a71f94c030681553e71c339ab13b316e10729a6231ae26296d12",
+      "size_in_bytes": 351712
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/_spath.so",
+      "path_type": "hardlink",
+      "sha256": "3e338d62e7d748056a3cdc0885215453ef562bacb81410dc3ff2d25ba62e8e1d",
+      "size_in_bytes": 141836
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/heap.so",
+      "path_type": "hardlink",
+      "sha256": "3e520c1ca4d071a497f062bcf08a7e964d636d9cd8b5b95266b876cd4f69dfd5",
+      "size_in_bytes": 73220
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/mcp.py",
+      "path_type": "hardlink",
+      "sha256": "7270a4b5cf946fa71c93850e6e36b06e13cc630cbf19a3400f840adb0ffc6615",
+      "size_in_bytes": 3187
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/mcp.pyc",
+      "path_type": "hardlink",
+      "sha256": "ffc2af35d7bde19d4e78994bb4526d95aa3cafb19df7a5cb8294a30d77049b73",
+      "size_in_bytes": 3455
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/setup.py",
+      "path_type": "hardlink",
+      "sha256": "ade251d12f0d9c46a9ce0d98ecd5a43b02fbe6d39caef27bd5130e68ba67eef9",
+      "size_in_bytes": 1418
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "01acc3b138d6fb11763c27f16c1989d15733c8eee427feff810609916a0008d4",
+      "size_in_bytes": 1522
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/spath.py",
+      "path_type": "hardlink",
+      "sha256": "e0c7b356eb6c72484661e130a6ee07c229bd3be7daacc1f0657af6731085f33e",
+      "size_in_bytes": 3427
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/spath.pyc",
+      "path_type": "hardlink",
+      "sha256": "0dd87e3a6021fb4f1ac41fa32825fdd38ea823d91baee69d6fdb3df4419af7ff",
+      "size_in_bytes": 2949
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "3de35b376d01add5bcf5805f2cf03492eee88a71e241627e4319cbacedc06f75",
+      "size_in_bytes": 574
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/test_anisotropy.py",
+      "path_type": "hardlink",
+      "sha256": "5a45aaf83e5e73544854601b7427dd9ee554f8bb2553e18367dbff242a3d8025",
+      "size_in_bytes": 2288
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/test_anisotropy.pyc",
+      "path_type": "hardlink",
+      "sha256": "0cb1fbbd6c1c62862a392587b88635f87b1e042ae48c5a52e07b98ce9dcbc109",
+      "size_in_bytes": 1849
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/test_connect.py",
+      "path_type": "hardlink",
+      "sha256": "b4e359972daabab4d80af0c77f5d57517f2b0c7297733db87a087704442d6692",
+      "size_in_bytes": 2632
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/test_connect.pyc",
+      "path_type": "hardlink",
+      "sha256": "e5cf3bf748c137eeae1256d0e2c04464fd1e93ede69de7f11ed6d3d46b6a3625",
+      "size_in_bytes": 3149
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/test_flexible.py",
+      "path_type": "hardlink",
+      "sha256": "bd97c1fcc95f66915d67511a0644c47fb506094dfa7ed161cb12065e30c8b541",
+      "size_in_bytes": 1882
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/test_flexible.pyc",
+      "path_type": "hardlink",
+      "sha256": "16942fdaf52f90b0f65a21e2d3b568290ec1e0c618a665b1c6a1cfa3a1d5dfb0",
+      "size_in_bytes": 2721
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/test_heap.py",
+      "path_type": "hardlink",
+      "sha256": "f5df13e13391e9a29edea2b40cc057b6ba6a94fb1f2c90ec4bb37bedcade64a6",
+      "size_in_bytes": 1185
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/test_heap.pyc",
+      "path_type": "hardlink",
+      "sha256": "93debda3c43b38baf071c381aa1f2084ab622f6e0071535e9aefe57744dd00bd",
+      "size_in_bytes": 1565
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/test_mcp.py",
+      "path_type": "hardlink",
+      "sha256": "86438138dfc3ef808406bc9203583c36a9b06d1f067e2fb80967ee3543f80c79",
+      "size_in_bytes": 6109
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/test_mcp.pyc",
+      "path_type": "hardlink",
+      "sha256": "0978aad329033578d73589f1171796549e87eeb2f4ae67605f82acf33a6cc694",
+      "size_in_bytes": 6219
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/test_spath.py",
+      "path_type": "hardlink",
+      "sha256": "e5e54f259c16cae54053a15a845717a1926a2490603e3f7a8ddf3d68472a1ad9",
+      "size_in_bytes": 932
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/graph/tests/test_spath.pyc",
+      "path_type": "hardlink",
+      "sha256": "34114e9d67c2d4bae20b3c783da160977aad12a1194a3d5676647d3522eac330",
+      "size_in_bytes": 1618
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "9b2be3a8e134c88f2a54d8e36056cbabc01f9a8d273f5561d9845045b848c927",
+      "size_in_bytes": 1769
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "aaff5792a6ab7982517b8b2d11c50d01865d766509c198931cc9d7953ff0a5f2",
+      "size_in_bytes": 2171
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_image_stack.py",
+      "path_type": "hardlink",
+      "sha256": "03be6fd3b3caeb277ee508bad097e868a1b67ac8c92396ccb65a2ef1d3635127",
+      "size_in_bytes": 570
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_image_stack.pyc",
+      "path_type": "hardlink",
+      "sha256": "194022c96b95dd26ecbabed75ae396ebe6872b05c039c69c5ae36238a4f81fb1",
+      "size_in_bytes": 976
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_io.py",
+      "path_type": "hardlink",
+      "sha256": "542cd4d615261492b62a9bbb54388783e681cf5041bf5b9d49a2a12624effed0",
+      "size_in_bytes": 5639
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_io.pyc",
+      "path_type": "hardlink",
+      "sha256": "847a17be25680496a1d3023f212445c38264e8e9df8d06afd08dd067f2b1c849",
+      "size_in_bytes": 6245
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "da54024bdd4373d84ad58e8ae76bcda22e668b17770af995cc9c58b572f330a9",
+      "size_in_bytes": 146
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/_colormixer.so",
+      "path_type": "hardlink",
+      "sha256": "59a6e66be5a95acf6ed26b7816e2859fbee3576c8b2d3cbee258e8e9752445e7",
+      "size_in_bytes": 98688
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/_histograms.so",
+      "path_type": "hardlink",
+      "sha256": "25fa4fa7d4f142221061d9a276ab80e79a6d9728a12a0b1bebf7942b7dac73a3",
+      "size_in_bytes": 61180
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/fits_plugin.ini",
+      "path_type": "hardlink",
+      "sha256": "50504a6a0ea74a7afe51fd5bc71522b8e4bc0cae344648cfb96e461797252a18",
+      "size_in_bytes": 89
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/fits_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "1d02e19fbe8435261d266a347c7484c7ab7a24045e35741caac3e17009faf02e",
+      "size_in_bytes": 4735
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/fits_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "9c8ad519a4a251abb7e0f4322479d4d8999b0060125f6920e74136be724879a4",
+      "size_in_bytes": 4341
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/freeimage_plugin.ini",
+      "path_type": "hardlink",
+      "sha256": "e118369bff19a40aa186593c1afbde19437ce6970d2db53f4d724b5a9b4ffb79",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/freeimage_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "b5a74bf39d31cf7f67dea077d9b445463df2fb8a1af09c9d7206a940fd6112b3",
+      "size_in_bytes": 702
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/freeimage_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "6be791fa679005fb45abe0abf6f947e31c6622834d6078d9d8dfdd2f042da5e2",
+      "size_in_bytes": 1128
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/gdal_plugin.ini",
+      "path_type": "hardlink",
+      "sha256": "62a8534132e601886ea0a56e50ec805948b39aab0b476d4db010ad3b415a6010",
+      "size_in_bytes": 90
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/gdal_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "8851c029602c91506d895383965bdb7bde81ad193e9f3f1701cf813623cd84c1",
+      "size_in_bytes": 395
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/gdal_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "577310ada33133ff80348f2698a7c7e3a9604e1416d7acf9910cb4a17b7b6758",
+      "size_in_bytes": 686
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/gtk_plugin.ini",
+      "path_type": "hardlink",
+      "sha256": "6763f0cf2c524a48b557184cbbdca39ed91de954fdf3e94037727d765bfac3fa",
+      "size_in_bytes": 91
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/gtk_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "d156e9e7a8295f52cc8d3e90b1629448b0d5f15d141f0c6c9dbbaa37f981518d",
+      "size_in_bytes": 1716
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/gtk_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "202138b2146d5dcaec03b90a5aed805c525c1efc588ea7b257680b10f4f5aa5b",
+      "size_in_bytes": 2181
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/imageio_plugin.ini",
+      "path_type": "hardlink",
+      "sha256": "1a2e03eb9c83385ce0ee0442c17606c652681ecbe5152130cadd7026479da967",
+      "size_in_bytes": 88
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/imageio_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "c82cd3af9414ededfc65268ccbcb28857d69702a54b773463c0b7265374570f6",
+      "size_in_bytes": 67
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/imageio_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "eef81036ef8230c073cc9cc118c4acf0e71f7a4c84ed854afac4c40e2d7956a2",
+      "size_in_bytes": 264
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/imread_plugin.ini",
+      "path_type": "hardlink",
+      "sha256": "c8dbe69e38e27fce4c269c087d285e43420c43ceab3d9bae4c38ee699647e8f9",
+      "size_in_bytes": 86
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/imread_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "49657606867340dee3ffeba7112c56bf3f9370a6155c0d7ac05693d646ec5528",
+      "size_in_bytes": 967
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/imread_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "426e98ce17c926df6fb8517dc679fc643a194400007c9c31796ff47eef97890a",
+      "size_in_bytes": 1358
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/matplotlib_plugin.ini",
+      "path_type": "hardlink",
+      "sha256": "adefcac025d7c1e75412a27be3d77baba62a3c375ee7f4711fbd8cef2dcf618d",
+      "size_in_bytes": 123
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/matplotlib_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "21aeecad64ba5b3b17c9a54cf1957d06c7c2ff3b1553bc9e59438ca8d99b452b",
+      "size_in_bytes": 5666
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/matplotlib_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "02b44bad512af55c9e3766f22393038869ceec6180cfa2f438348e5f5c0dc4cd",
+      "size_in_bytes": 6497
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/pil_plugin.ini",
+      "path_type": "hardlink",
+      "sha256": "65214832946daf6fad50fbcafdc1b4c4b3ab3d25a0c3539b45655ef13308245d",
+      "size_in_bytes": 91
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/pil_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "29e0d47aed0647d8664716622b9f30d71dc72d1e039f0a9864b71faf62fa98fc",
+      "size_in_bytes": 7730
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/pil_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "7725160400df6d87e6a7a5f996c459fb78d1ab2c0c3c805e6df937e075b0315a",
+      "size_in_bytes": 7436
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/q_color_mixer.py",
+      "path_type": "hardlink",
+      "sha256": "32ec6474ae51a6c438ef6e1702dcecfed781d61a665f5d51a275e232ec1c4622",
+      "size_in_bytes": 11989
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/q_color_mixer.pyc",
+      "path_type": "hardlink",
+      "sha256": "dc4513a39d39b357b634ece85cf8ed8ce377b93106526b34d01aa95ddb68e225",
+      "size_in_bytes": 10574
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/q_histogram.py",
+      "path_type": "hardlink",
+      "sha256": "c021b3896c417f43b95152bf9f44ec9bddf2450a0930108173fa11865cdbc397",
+      "size_in_bytes": 4825
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/q_histogram.pyc",
+      "path_type": "hardlink",
+      "sha256": "b5983f08c5e70ff0a835062c7ebec08824349ae7551165f653ac88fc04317ced",
+      "size_in_bytes": 5146
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/qt_plugin.ini",
+      "path_type": "hardlink",
+      "sha256": "4bb6eb0b44f31d95fb34f8a3c094789807462593e20169fc557ecf35476413dd",
+      "size_in_bytes": 105
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/qt_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "4fe77c6b7bfca9a8008766289869ace7974f3f8e0b9e654042324503caf474b0",
+      "size_in_bytes": 5531
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/qt_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "1f29ce2dac731e65bce7056d2ce4cac353394dd9c527f4d7f6b76c4ef26f7da7",
+      "size_in_bytes": 5982
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/simpleitk_plugin.ini",
+      "path_type": "hardlink",
+      "sha256": "66ed6687545a3c8bbabf0d9c48f7affd3da8af40d331865e2f1c9cd6eec77228",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/simpleitk_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "c411e35c7ff4304ece4509cfaf8c6804366095ec16b7066720d3d6f5ba68b1a8",
+      "size_in_bytes": 587
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/simpleitk_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "711bbd0d12a31f79530ba1a2553ba1a90cd2cfa07e6aef68ba1578c30c34bf23",
+      "size_in_bytes": 955
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/skivi.py",
+      "path_type": "hardlink",
+      "sha256": "4650fc99ff49175a2488da76dbb27ce8c83c80ba5c239f47b9b8bb838906f31a",
+      "size_in_bytes": 7886
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/skivi.pyc",
+      "path_type": "hardlink",
+      "sha256": "88aa04d4ea22f89e911023f336c94ef72466c0c3c838c2be29bad6fc2e8b8fac",
+      "size_in_bytes": 8959
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/test_plugin.ini",
+      "path_type": "hardlink",
+      "sha256": "b472062588a2f2ab0702174ed87219e06425426d651c6c5e6dd66eb80633c584",
+      "size_in_bytes": 105
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/test_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "9589c2f39d5e41ec2a31d368000edc7f3171521999e23a33c67e4950e1b0deb5",
+      "size_in_bytes": 636
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/test_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "55cca872553ff3176a46ab829598ed4043cf43e15dd246f8c811f21a809cdad9",
+      "size_in_bytes": 1675
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/tifffile_plugin.ini",
+      "path_type": "hardlink",
+      "sha256": "bd0a5b5d73d240ddb8d9cae001229bb31aa7d5a0d47c7c1fb6c96df6fbee4a44",
+      "size_in_bytes": 110
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/tifffile_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "7811827e1200f1e6ea7604bc721b0f79bf6c60cd9774512343f5e38226ccca07",
+      "size_in_bytes": 908
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/tifffile_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "227ee8f8b170e45e28cc96a6ec1a6f0b138bbff9b4cb17971391ee1188a2897b",
+      "size_in_bytes": 1250
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/util.py",
+      "path_type": "hardlink",
+      "sha256": "afad04631c6a00a7a7944f5769199b5106db57c64b497a0739664bf5c006a677",
+      "size_in_bytes": 13043
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/_plugins/util.pyc",
+      "path_type": "hardlink",
+      "sha256": "ecbb69e315e9a6d2a4c229d3ac8cfbebd54338aa6eb18e944b7169c8dd43cb4b",
+      "size_in_bytes": 16415
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/collection.py",
+      "path_type": "hardlink",
+      "sha256": "9f3c1da16c0d80a6cf71a704f8fc6da400027c81a008aab61b08ab9b2350f791",
+      "size_in_bytes": 13282
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/collection.pyc",
+      "path_type": "hardlink",
+      "sha256": "a201cf337096fb4b77a0936f84a872334ef473d554d1db058a85c4b1b8553ba9",
+      "size_in_bytes": 13901
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/manage_plugins.py",
+      "path_type": "hardlink",
+      "sha256": "43e099cd611590115a85b0918abc9e92eb3b63cb193f89f243ced59ea0381caf",
+      "size_in_bytes": 10495
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/manage_plugins.pyc",
+      "path_type": "hardlink",
+      "sha256": "a1269441565ef3e8133fc036154a816eaf24381c552d421ed07d27be376bb40d",
+      "size_in_bytes": 10322
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/setup.py",
+      "path_type": "hardlink",
+      "sha256": "f1de71853026bdc316d9d8e92242ea9d46a2c3c8086e55a7a05b5d6dd499bb1d",
+      "size_in_bytes": 1379
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "0580f7f4f0255e0c747904d373bd7245be0e847460dbbef3db6232689546a5c5",
+      "size_in_bytes": 1531
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/sift.py",
+      "path_type": "hardlink",
+      "sha256": "ea0b95cfdff00df51a42f82770fd1d72eb93eed596b51171b032110c3524d865",
+      "size_in_bytes": 2251
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/sift.pyc",
+      "path_type": "hardlink",
+      "sha256": "0050e6c0ac154bec6c3748a5040613df564c3081003e5a5bb74e541f46a35dd2",
+      "size_in_bytes": 2600
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "941924eb39b1c9bacc7733ac7a787647aabd1b215ba100bec124e82db0b24089",
+      "size_in_bytes": 565
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_collection.py",
+      "path_type": "hardlink",
+      "sha256": "e4f5adab19d1c2c742205cbd0d15e723b283bf571fdbbe48b26b6cb2860aa51c",
+      "size_in_bytes": 3402
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_collection.pyc",
+      "path_type": "hardlink",
+      "sha256": "9bfa99a33362f81b06ac6a4331df80bc635ef44fd3a661b6760d7c3894f39797",
+      "size_in_bytes": 5416
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_colormixer.py",
+      "path_type": "hardlink",
+      "sha256": "e13262da3eab6b430fad812cdb37aaa1ce75aabd2ce31fcca0af66a5cc53c58d",
+      "size_in_bytes": 4619
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_colormixer.pyc",
+      "path_type": "hardlink",
+      "sha256": "7a811f73c0e2dd1207c3b9c36ff79f3eaef9a32c90295a32171d9ceeefafa9cc",
+      "size_in_bytes": 8322
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_fits.py",
+      "path_type": "hardlink",
+      "sha256": "c1148b32f310afb222528ac5090a7d522838799695a334aeb71aec8aadb92123",
+      "size_in_bytes": 2558
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_fits.pyc",
+      "path_type": "hardlink",
+      "sha256": "7950c0e5781e965c44e68b2e2b7ff2b0161fa9a309243efdc28df8a2b56caa29",
+      "size_in_bytes": 3564
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_histograms.py",
+      "path_type": "hardlink",
+      "sha256": "f969bbb3b8642186f2b20a28f751b59324f14a0c05e89138af34a167258fe00a",
+      "size_in_bytes": 787
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_histograms.pyc",
+      "path_type": "hardlink",
+      "sha256": "1dfd162e1bf5df1805c9a43454370350ab1193de615c37f2d3e276282f077553",
+      "size_in_bytes": 1593
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_imageio.py",
+      "path_type": "hardlink",
+      "sha256": "600ed34bb32a3ffab7239ceb824d4b751208463ee03609506c83dfaf79354916",
+      "size_in_bytes": 2176
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_imageio.pyc",
+      "path_type": "hardlink",
+      "sha256": "3904b95881131f71f1049fc430e8bee0c5b75ab8d6ec3e8cde9ee461f8798773",
+      "size_in_bytes": 3522
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_imread.py",
+      "path_type": "hardlink",
+      "sha256": "362b115624f747a2f18b1ba3ec967b0b4c9a965efce7b63775000aaa8d4f8866",
+      "size_in_bytes": 2271
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_imread.pyc",
+      "path_type": "hardlink",
+      "sha256": "9b3f1c1b7af9643378203ad55472e366dfe2bb045fb05521ea186dbdefab2e27",
+      "size_in_bytes": 3931
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_io.py",
+      "path_type": "hardlink",
+      "sha256": "387c66fe1b1f0d046335b8ebaf0666da235ba31002be3ed2ec9c5c5dfc86cb8e",
+      "size_in_bytes": 769
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_io.pyc",
+      "path_type": "hardlink",
+      "sha256": "218b35c935d9cf432bc1643a1f0455cf4a2e03b9f52fb2a7d7714d99b4c6a56b",
+      "size_in_bytes": 1539
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_mpl_imshow.py",
+      "path_type": "hardlink",
+      "sha256": "f67ff01111b16e74c1ea45717e693aeb156da235fa8da31f22bcfb762efd32b9",
+      "size_in_bytes": 4047
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_mpl_imshow.pyc",
+      "path_type": "hardlink",
+      "sha256": "ca931815653fd6219e348438f8169b6be0b3a725924acbea7019072a92d18b9e",
+      "size_in_bytes": 5212
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_multi_image.py",
+      "path_type": "hardlink",
+      "sha256": "b0c0819c61c453f53b7909a46e43349ca6823676f464948840f4414d49a759a0",
+      "size_in_bytes": 3416
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_multi_image.pyc",
+      "path_type": "hardlink",
+      "sha256": "512bd2b6a6a69c408be023cad59e6e24696758e9e21b4f1e0616ca80fa8cb4c0",
+      "size_in_bytes": 4819
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_pil.py",
+      "path_type": "hardlink",
+      "sha256": "780ac4856875501a151f01e71743f2f9e1b9754da08c18d316ece3eee26e32d6",
+      "size_in_bytes": 7959
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_pil.pyc",
+      "path_type": "hardlink",
+      "sha256": "aba6a9a65c4f1b00d1b5260f4101c2ada2229017bd1c6ffd8e1ca786ddfda433",
+      "size_in_bytes": 11936
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_plugin.py",
+      "path_type": "hardlink",
+      "sha256": "3034fba3dd075f2ba9edaf1db0b5824f916af053df24dec225aace245938802e",
+      "size_in_bytes": 3427
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_plugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "6f48fe10f02e97e5be67c0bc02c44411aeb2b5c806a16bc486102cb19946efb6",
+      "size_in_bytes": 5269
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_plugin_util.py",
+      "path_type": "hardlink",
+      "sha256": "dd28e28472c4072c40fbcbd810d4b9d3a813ee20c30830096ed8ffbbfa753965",
+      "size_in_bytes": 2230
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_plugin_util.pyc",
+      "path_type": "hardlink",
+      "sha256": "6e6e8efbc8135fc06ee4cf125dffac911dc3e885008fa12e19f79d1275f74c13",
+      "size_in_bytes": 4775
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_sift.py",
+      "path_type": "hardlink",
+      "sha256": "571f8d0327998392e23662c85a56ba57f4a221b60bfba23c7ad8fe52a6dfb5f7",
+      "size_in_bytes": 3334
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_sift.pyc",
+      "path_type": "hardlink",
+      "sha256": "bdbc427ac0b71de3d232f4ad3df5beca6dd52303cc2727227025ce806ea64f85",
+      "size_in_bytes": 3793
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_simpleitk.py",
+      "path_type": "hardlink",
+      "sha256": "9bd09449a09e99bb838d76713ce69d56cb495ad4b78263571570703940568f4f",
+      "size_in_bytes": 3023
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_simpleitk.pyc",
+      "path_type": "hardlink",
+      "sha256": "9d3f16ba8f2a972eda23178699f04ffb955b54829dd66e1bf3bf3669f334df03",
+      "size_in_bytes": 4387
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_tifffile.py",
+      "path_type": "hardlink",
+      "sha256": "c2d3d0b7ee2d14d257c2a350ae9a8e249ff11300599f5e1ba3e077209d18f0f4",
+      "size_in_bytes": 1761
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/tests/test_tifffile.pyc",
+      "path_type": "hardlink",
+      "sha256": "09b0172523d70d9360e541079ef15452495e704219c7864db2f18a5e2f32a752",
+      "size_in_bytes": 3333
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/util.py",
+      "path_type": "hardlink",
+      "sha256": "5af86e44ddf328106c26eb6994534d73978080110a28b6af0f4f8a641b92da81",
+      "size_in_bytes": 995
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/io/util.pyc",
+      "path_type": "hardlink",
+      "sha256": "ad22c0b759ca26a58a8811aa0fdfbcad7c506669d6fab51db398050380786d81",
+      "size_in_bytes": 1372
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "97ab8dfefb19851b525298835318422f7e281d2dcd27824b14749b1dd0aed54e",
+      "size_in_bytes": 1769
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "2d71963622a2b528089b89da19e11e9d3e55e0784ff12f6d4392c5f62989ca33",
+      "size_in_bytes": 1822
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_ccomp.so",
+      "path_type": "hardlink",
+      "sha256": "a081b790c432bbf650e3eeda5544b3b1a656915980b21b81d0945ab67bc6fcab",
+      "size_in_bytes": 127088
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_find_contours.py",
+      "path_type": "hardlink",
+      "sha256": "39931d11675d7c6d1e1a9aade9b269eacb7475b47101b8bafe9083183a79e370",
+      "size_in_bytes": 9217
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_find_contours.pyc",
+      "path_type": "hardlink",
+      "sha256": "a925435e44b2bd1a95405e65484d1a3e5c360ad8abd99250cc1806f33839e7c8",
+      "size_in_bytes": 7316
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_find_contours_cy.so",
+      "path_type": "hardlink",
+      "sha256": "e3962d3dab63def98958f28be285ea8e02cf423084d4a4f20166515e01771f3c",
+      "size_in_bytes": 143996
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_label.py",
+      "path_type": "hardlink",
+      "sha256": "2cd3d94e861d5e9fd4a1eec3f9b7d2a9dbdea75931d878029edd99898c27b788",
+      "size_in_bytes": 3158
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_label.pyc",
+      "path_type": "hardlink",
+      "sha256": "f243d7e1614ae56eaa3b49b42f572a13e54fcfb7e89adc6bfbdf6ff76b201ff0",
+      "size_in_bytes": 3417
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_marching_cubes_classic.py",
+      "path_type": "hardlink",
+      "sha256": "2f34b4a7529efbfa2690db1e78bf705d7e239bd2987e45bf70cf20f1bbd39d63",
+      "size_in_bytes": 14658
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_marching_cubes_classic.pyc",
+      "path_type": "hardlink",
+      "sha256": "af18c4b80d317dd59dafd72308dfe7938356fe6bdf86f1536ad7e9b137c1253a",
+      "size_in_bytes": 13280
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_marching_cubes_classic_cy.so",
+      "path_type": "hardlink",
+      "sha256": "b549f7d023faaedfec975b69da8ecd21797a774792b7947d0b4f39595a15664c",
+      "size_in_bytes": 357932
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_marching_cubes_lewiner.py",
+      "path_type": "hardlink",
+      "sha256": "8e0b863f215c3a1325b851b886b8f36384b7218755091259f7b23a21b650ecf2",
+      "size_in_bytes": 12675
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_marching_cubes_lewiner.pyc",
+      "path_type": "hardlink",
+      "sha256": "454eeb2ae51d16829d97c48f6bf042adaba6afdec90888d5039efcba1678d084",
+      "size_in_bytes": 11607
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_marching_cubes_lewiner_cy.so",
+      "path_type": "hardlink",
+      "sha256": "425c4c20368ee00b4a42e56198e9f27f688b06a0624fe308735a6b9c60e4565d",
+      "size_in_bytes": 288800
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_marching_cubes_lewiner_luts.py",
+      "path_type": "hardlink",
+      "sha256": "0a5f7a78e0a4d8506627f9da58feb24917c7aed8429eca0e2dbe73b00677e1e0",
+      "size_in_bytes": 27052
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_marching_cubes_lewiner_luts.pyc",
+      "path_type": "hardlink",
+      "sha256": "f4c54d1b6ccc6c2a020f68e031554a2610f25efbb064c8109e092e50a46f9569",
+      "size_in_bytes": 51025
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_moments.py",
+      "path_type": "hardlink",
+      "sha256": "c0a6e574ce942413df7ae221dedc287301e2d9958b41b383119123d7efae762a",
+      "size_in_bytes": 6121
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_moments.pyc",
+      "path_type": "hardlink",
+      "sha256": "be4557531e9a59dc5b55198d7ce237dedb3b0d459c6f19f8cc3b1c20aa899348",
+      "size_in_bytes": 6765
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_moments_cy.so",
+      "path_type": "hardlink",
+      "sha256": "49ae1e546500f101858a4771432a33957fc0962e8fd57d348d321562682cf628",
+      "size_in_bytes": 193848
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_pnpoly.so",
+      "path_type": "hardlink",
+      "sha256": "7a7dca82afc3f88fd503d8908a6d15dd84a26cd3277661330f483f1c2fb2c754",
+      "size_in_bytes": 191012
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_polygon.py",
+      "path_type": "hardlink",
+      "sha256": "4122bef86135d1401f31181667cf759a78bc82c8d002400a130c7d9f1b6d5dfe",
+      "size_in_bytes": 5358
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_polygon.pyc",
+      "path_type": "hardlink",
+      "sha256": "35666affc6d334140e5ee16e9353afa2181d12d0cd16e3ba4eb75af4efddbf50",
+      "size_in_bytes": 4611
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_regionprops.py",
+      "path_type": "hardlink",
+      "sha256": "b2db652eb854a91903c2a0a38e1c6724c3666d2130b014203abb0e6293373a15",
+      "size_in_bytes": 20433
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_regionprops.pyc",
+      "path_type": "hardlink",
+      "sha256": "a47516976c180837ad84c9c8c98ffb2912a34b0649702bf8cf95eda1c666a271",
+      "size_in_bytes": 25127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_structural_similarity.py",
+      "path_type": "hardlink",
+      "sha256": "57745ba1036fcfe0886255e2197dd352f33e5a3da7ff2fb6fbc8c22f6cd26999",
+      "size_in_bytes": 8310
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/_structural_similarity.pyc",
+      "path_type": "hardlink",
+      "sha256": "faddddc6e96316e1cc84dd065959a0580f03be100541397326b537422a30ebe3",
+      "size_in_bytes": 6802
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/block.py",
+      "path_type": "hardlink",
+      "sha256": "c4443933cf2bb9aa4344279f7cfb4eda2097b73aaf3ad392cdd3034e55430c4e",
+      "size_in_bytes": 2612
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/block.pyc",
+      "path_type": "hardlink",
+      "sha256": "1512ade60f3fe437c5debcdc7332aa7d39a11fd2c9adce0fedf39d4900fd7d50",
+      "size_in_bytes": 2743
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/entropy.py",
+      "path_type": "hardlink",
+      "sha256": "fca52b3cda37f446b02e35678ef2c1cf2840ff0144edc21d4ac3386ba19ed932",
+      "size_in_bytes": 949
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/entropy.pyc",
+      "path_type": "hardlink",
+      "sha256": "8e7a1c9e2bbbb012f0dfffc10700bf1402dd959ebe719c186caceab7432915da",
+      "size_in_bytes": 1245
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/fit.py",
+      "path_type": "hardlink",
+      "sha256": "74392f1b1ff6456919b76efdd869b88d77f5dd420d91d6cf82ddf742502b8a35",
+      "size_in_bytes": 30108
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/fit.pyc",
+      "path_type": "hardlink",
+      "sha256": "7c6b81d7389b21e9e7028d35ad416f5427aeb66c257ca31e18a5d7642602ba53",
+      "size_in_bytes": 29731
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/pnpoly.py",
+      "path_type": "hardlink",
+      "sha256": "afc8453624f3e57954a0d663a2ca80d22cafd453e7d25edec1ba6580582475ac",
+      "size_in_bytes": 1347
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/pnpoly.pyc",
+      "path_type": "hardlink",
+      "sha256": "e32b108206b2df11a942e3eb1b777ea900e69be1da548eeddc39f59700636f14",
+      "size_in_bytes": 1728
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/profile.py",
+      "path_type": "hardlink",
+      "sha256": "d16fe8290dc707404ad46ff168e1ae93bcdd8d16e9fe686f187bd095ccddbacc",
+      "size_in_bytes": 4751
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/profile.pyc",
+      "path_type": "hardlink",
+      "sha256": "d207151608f60ff65b967478c311c610b7be0d46ddde30af9262c32bfe5afef3",
+      "size_in_bytes": 4712
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/setup.py",
+      "path_type": "hardlink",
+      "sha256": "ea5239bdbb45f5b867cf101872b1f25b6ecd5cf373c0e38ffa2e11d873ff6925",
+      "size_in_bytes": 2052
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "8b0d05fd9189db3d57f3bf84901c0f8e96907e0f61e1a22fa46471a7edd1a816",
+      "size_in_bytes": 2015
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/simple_metrics.py",
+      "path_type": "hardlink",
+      "sha256": "3b3bb57f8aff71a3fe51fa7b59c1b4e38cd986484fe96ffda993c04363cefda8",
+      "size_in_bytes": 4314
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/simple_metrics.pyc",
+      "path_type": "hardlink",
+      "sha256": "bdcb8f596ac7b13484231d7f2afee20b2dc3b257dd9e3a74f487c22b87f265e8",
+      "size_in_bytes": 4690
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "d076040d4f27f4d05bd3a7ecc4ef9e7cdff32dc199ddc884a832520b4c95db20",
+      "size_in_bytes": 580
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_block.py",
+      "path_type": "hardlink",
+      "sha256": "3363b2c9799085faafac57613b84e1ebc37c4be05ddf9ffb192de3049a04e244",
+      "size_in_bytes": 2746
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_block.pyc",
+      "path_type": "hardlink",
+      "sha256": "9c63a73082b0fa413e3757ae3b7b0f3f6706925f3eef63cb6113142eab6b6713",
+      "size_in_bytes": 3831
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_entropy.py",
+      "path_type": "hardlink",
+      "sha256": "3fb33ba368037837e3be3f2a5bad68b9b5d9c09d554a9fa2e243717287bb599a",
+      "size_in_bytes": 350
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_entropy.pyc",
+      "path_type": "hardlink",
+      "sha256": "7fa8c0bbdee26a6bb9b3fffa7af9eba87fb177351c5a0829eb72196bd9f081cc",
+      "size_in_bytes": 746
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_find_contours.py",
+      "path_type": "hardlink",
+      "sha256": "6fa95e8ef0de87da61fc250db4721060a2590e0873b4ef850e316bdb2726ad83",
+      "size_in_bytes": 1826
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_find_contours.pyc",
+      "path_type": "hardlink",
+      "sha256": "3822a13d1c3ccc6d8c91e3def3999d46dc76985e965f0cc66b7a5eae846c2977",
+      "size_in_bytes": 2480
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_fit.py",
+      "path_type": "hardlink",
+      "sha256": "f826d737d73b26042933a2fafde25c02e3b39577e03fdd01b541f553c8deb74a",
+      "size_in_bytes": 13034
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_fit.pyc",
+      "path_type": "hardlink",
+      "sha256": "3723689a2e3c5241e45d21af4ad3133aaffd0c8c859a9cad37eea8d2e7a4601a",
+      "size_in_bytes": 15258
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_marching_cubes.py",
+      "path_type": "hardlink",
+      "sha256": "9ded8e9ea9d1dd62c760c0a704590749a516dcd8c8d63d43d0e036526607054f",
+      "size_in_bytes": 7850
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_marching_cubes.pyc",
+      "path_type": "hardlink",
+      "sha256": "c66737ddc670b6bb06e1ee86c1d81e7a2b0017858370d4627648bd9aa0e755e0",
+      "size_in_bytes": 7264
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_moments.py",
+      "path_type": "hardlink",
+      "sha256": "ec3dc570b82a8ecf33ab51ddb5ea1fdb49562e605399599f9fe264bef71097af",
+      "size_in_bytes": 2536
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_moments.pyc",
+      "path_type": "hardlink",
+      "sha256": "f505e62f54572b8a443523739a48c9a4cd6b8e29dd3e055d148cfed7787a4d81",
+      "size_in_bytes": 3328
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_pnpoly.py",
+      "path_type": "hardlink",
+      "sha256": "c87d9d0140b788dc24b6309bce5bff2b82261b048bb3e15985c065500293e46a",
+      "size_in_bytes": 1107
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_pnpoly.pyc",
+      "path_type": "hardlink",
+      "sha256": "0c7338feb6e3c3032939aaa38d3188d299ef5def3808273aa70b487623aafda6",
+      "size_in_bytes": 2080
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_polygon.py",
+      "path_type": "hardlink",
+      "sha256": "bee9e3661ca2b24730995e987f235884291a6ebece50ae11d9431f31dae4f279",
+      "size_in_bytes": 2375
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_polygon.pyc",
+      "path_type": "hardlink",
+      "sha256": "014384218f8e57ede21ccc31c0c22ba3be9e175d1a673faff7db68f4a8e6eab0",
+      "size_in_bytes": 2241
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_profile.py",
+      "path_type": "hardlink",
+      "sha256": "b009fbef4de8f8eaffb4b259d5055e9f65946e3f18bb24729e350ffb617dd984",
+      "size_in_bytes": 3600
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_profile.pyc",
+      "path_type": "hardlink",
+      "sha256": "601bde1d1ae4ccfb0e5d79f17a357b8c4a31148b3d884dd454f3c328df319fa0",
+      "size_in_bytes": 6150
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_regionprops.py",
+      "path_type": "hardlink",
+      "sha256": "e29dde0eccd6aa8d99809a955ebd9565cac914cfa58dfe22e6bc86d5e1fbe610",
+      "size_in_bytes": 14810
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_regionprops.pyc",
+      "path_type": "hardlink",
+      "sha256": "1186e7d69a8acf2616dab9211680ca8b95411ccf4bcfac48bcb9117c11bd2552",
+      "size_in_bytes": 20097
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_simple_metrics.py",
+      "path_type": "hardlink",
+      "sha256": "2f85b979e2d0a383e605f97f8d6d044cf6afe5b34d84b23c073c3e7ef159b849",
+      "size_in_bytes": 2495
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_simple_metrics.pyc",
+      "path_type": "hardlink",
+      "sha256": "bc7ac7630ac2bacac0d5f71380cdbaa01732c412bc7391c96af32c0afa8f60d7",
+      "size_in_bytes": 3533
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_structural_similarity.py",
+      "path_type": "hardlink",
+      "sha256": "be900341d385027c69d66d237ec16b81c29a9ee310bea8ec996af2fdffd7283f",
+      "size_in_bytes": 7364
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/measure/tests/test_structural_similarity.pyc",
+      "path_type": "hardlink",
+      "sha256": "457868d8184ef75875614be52aaad9e558319aad210a42196517c55b67f58b48",
+      "size_in_bytes": 8639
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "47cf6176ff6894a2c71d89a13178e12918e3433b5c318634bd9b85c105a71c3c",
+      "size_in_bytes": 1586
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "8847a8773d9ebc3429a03bfb794c753cbf605aa93fdd557f13cfdec231d9a222",
+      "size_in_bytes": 1731
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/_convex_hull.so",
+      "path_type": "hardlink",
+      "sha256": "e301e74119682d57229d7aca8bf6e57850ca4ede3738d0189041cb568cb071ca",
+      "size_in_bytes": 151060
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/_greyreconstruct.so",
+      "path_type": "hardlink",
+      "sha256": "4cf2a937ff92c97517ffeb83254f2e51e2a41f8c54f4c1ffca5acf29bb231784",
+      "size_in_bytes": 57044
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/_skeletonize.py",
+      "path_type": "hardlink",
+      "sha256": "58478f732a1229b9db9d8ed4b3e9fa05b6790d671a1cfd64d219310fb8a7559c",
+      "size_in_bytes": 17777
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/_skeletonize.pyc",
+      "path_type": "hardlink",
+      "sha256": "0465ebda5ca8455f9e29791fadca81c23a31558ff1e5917f448b8091d1e79c17",
+      "size_in_bytes": 16495
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/_skeletonize_3d.py",
+      "path_type": "hardlink",
+      "sha256": "581e9e16f460961aca9f1ea12783aab7e3983b128c09e423c2665bbda887d4cd",
+      "size_in_bytes": 2550
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/_skeletonize_3d.pyc",
+      "path_type": "hardlink",
+      "sha256": "2b33362051bcf616ae041b4a934a443026ea77425221237d95d67b9b47ce8afd",
+      "size_in_bytes": 2650
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/_skeletonize_3d_cy.so",
+      "path_type": "hardlink",
+      "sha256": "396c48b873f6c49cd8f74248c31033f2726fd78c88d754969b55cdb5f721c17b",
+      "size_in_bytes": 175236
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/_skeletonize_cy.so",
+      "path_type": "hardlink",
+      "sha256": "24d21827cd2043b62f6baa05ffc00ea17fe3d610433ff394e78d6dc57c9af0ff",
+      "size_in_bytes": 182188
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/_watershed.so",
+      "path_type": "hardlink",
+      "sha256": "9d018df1853085da049352ee067da6c685462765be372df6987736f43aed671d",
+      "size_in_bytes": 176480
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/binary.py",
+      "path_type": "hardlink",
+      "sha256": "1ffde6f5124bf2773145c861047d37fbbd4df6ddaf0390eb82d0d7460201f202",
+      "size_in_bytes": 4760
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/binary.pyc",
+      "path_type": "hardlink",
+      "sha256": "4abb8421eb246e1a2d9684b15aabc83d73b0c2e3817f59484c05e82395f2d6e9",
+      "size_in_bytes": 5226
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/convex_hull.py",
+      "path_type": "hardlink",
+      "sha256": "7d9d6973ab89ecfb89975352484c1c644573cf05b56ecdb438f0aecbe37cd926",
+      "size_in_bytes": 3878
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/convex_hull.pyc",
+      "path_type": "hardlink",
+      "sha256": "8cebd7b4f36b635fa19d52100389085467b7e47d07261b7299609728ba83dbc9",
+      "size_in_bytes": 3878
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/extrema.py",
+      "path_type": "hardlink",
+      "sha256": "87c49ae66bb032675c95d7a659193a3ff07aee3d32618f53d8398af168ef94a7",
+      "size_in_bytes": 11795
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/extrema.pyc",
+      "path_type": "hardlink",
+      "sha256": "1c82a670f237b73d9375ba96a9f6906645bdecf25240077e77975b6d41acdbce",
+      "size_in_bytes": 12251
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/grey.py",
+      "path_type": "hardlink",
+      "sha256": "7332d1500d3c72f753f48da1da7ff6edf76a413021dee618999d0586aa278cd0",
+      "size_in_bytes": 15054
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/grey.pyc",
+      "path_type": "hardlink",
+      "sha256": "e69d313b07fa72256e94f4820ace446f797b099519e4680de351b21f440f6284",
+      "size_in_bytes": 15187
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/greyreconstruct.py",
+      "path_type": "hardlink",
+      "sha256": "fc5df7371aa764ba738da588d084e8e836d3080d20b76776607e3dbae7b921e2",
+      "size_in_bytes": 8556
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/greyreconstruct.pyc",
+      "path_type": "hardlink",
+      "sha256": "c50fb9c3b15ed87d6cba922b7d15e503326576299b3a65f34c89db89543b3f27",
+      "size_in_bytes": 7781
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/misc.py",
+      "path_type": "hardlink",
+      "sha256": "ad495d5074667ebab5cf3c55c7770e13ccd085e23690ec2b3842a91bdda33d49",
+      "size_in_bytes": 7331
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/misc.pyc",
+      "path_type": "hardlink",
+      "sha256": "985aad1230d550e0cb3ee8643603c8568396a33fb3f746534469949289b60398",
+      "size_in_bytes": 7838
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/selem.py",
+      "path_type": "hardlink",
+      "sha256": "4a9abd69e340c6f867751525345aecdba7594e1e1188af4b54993c53f51f9455",
+      "size_in_bytes": 9749
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/selem.pyc",
+      "path_type": "hardlink",
+      "sha256": "e4ec60e467d146ff1798e763c5380866eb9f09e51362eeea729a24f173599585",
+      "size_in_bytes": 11123
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/setup.py",
+      "path_type": "hardlink",
+      "sha256": "7d59735ad47cf56f9c309bf0b02761c3274ed99d9f2a9174fabeb56e4f64b61c",
+      "size_in_bytes": 1796
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "d2b9a4ad797f7b9e909789205d15fe3d29fb8bcbd56d211ab76de840f4c8b57c",
+      "size_in_bytes": 1886
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "a5b697158257cc03bfd62d2e8049116b952902f33aae7603d64d8433d0fe4527",
+      "size_in_bytes": 589
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_binary.py",
+      "path_type": "hardlink",
+      "sha256": "f9aff395c6d65d847f7f4da6c3c18c624a106b78108d0c84ea76e0365710cd83",
+      "size_in_bytes": 5898
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_binary.pyc",
+      "path_type": "hardlink",
+      "sha256": "e9e40ebc6798c1d6ebb0ccc83c5cf25688b044ddb04c8991da8d7f0c38cb6260",
+      "size_in_bytes": 7572
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_ccomp.py",
+      "path_type": "hardlink",
+      "sha256": "a9afb1dadc3ec1e7b19d81f9b9a04646c0b17376e7797f70f5a07ffb92d15e74",
+      "size_in_bytes": 9286
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_ccomp.pyc",
+      "path_type": "hardlink",
+      "sha256": "d3961b0722733618a871dba6c6c9ffe97c36a3edba7f8b2cafaa48640ef6ea88",
+      "size_in_bytes": 10992
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_convex_hull.py",
+      "path_type": "hardlink",
+      "sha256": "ed560d1fd8366458f97043163200ed15d3d6a5b73379d28d8e6a67fbf8ff3392",
+      "size_in_bytes": 5263
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_convex_hull.pyc",
+      "path_type": "hardlink",
+      "sha256": "ee21e532dd9f40047088775ed4ec3095989e426fba07af63f9f0b74b7b068122",
+      "size_in_bytes": 5029
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_extrema.py",
+      "path_type": "hardlink",
+      "sha256": "25f6a828815ea3dbc086c4739ab21958375e243855b0d76b1f45a57f08bfca9f",
+      "size_in_bytes": 14060
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_extrema.pyc",
+      "path_type": "hardlink",
+      "sha256": "0b8daa7ee05ba4af675693eb35ee307164de0a781f8e04d6c8b648e6cf4ee8ab",
+      "size_in_bytes": 10339
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_grey.py",
+      "path_type": "hardlink",
+      "sha256": "fb622b62fe28638bd7d57f0a3278d0e6068cec2519ad8f4e541b64476818a9c4",
+      "size_in_bytes": 10042
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_grey.pyc",
+      "path_type": "hardlink",
+      "sha256": "cfe90389f2a99265fe8034b5a049fe9e97ad4dfc65eaec59080a8c2d715cbc56",
+      "size_in_bytes": 12027
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_misc.py",
+      "path_type": "hardlink",
+      "sha256": "91b7e64c3620b243812d69e270124863251de15ac5e7ef9f79a68c6fede83b76",
+      "size_in_bytes": 7317
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_misc.pyc",
+      "path_type": "hardlink",
+      "sha256": "35496bcf40b8a1ea034d61e9e8eb7cec7cd2eb4af72875a2cd57014b8930a766",
+      "size_in_bytes": 8208
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_reconstruction.py",
+      "path_type": "hardlink",
+      "sha256": "ff0d85478644b2929ea4c07d3c38642ee7c4310ee3e5a16807875ce495cc24cd",
+      "size_in_bytes": 3721
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_reconstruction.pyc",
+      "path_type": "hardlink",
+      "sha256": "d0b2f0f2fbce2ffdc1d1a16146ea7687a29ac8ef85654fb0f887858ee13c6828",
+      "size_in_bytes": 5361
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_selem.py",
+      "path_type": "hardlink",
+      "sha256": "0cf76d7399e0a7517255bc4a725177fc84a7b6abec44b8671938b8ba7f8ee9fc",
+      "size_in_bytes": 6645
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_selem.pyc",
+      "path_type": "hardlink",
+      "sha256": "075cdb80cd4e2c69ae794703bdf29ffb37cb760b48785ec02e534c5a25c05fd8",
+      "size_in_bytes": 6967
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_skeletonize.py",
+      "path_type": "hardlink",
+      "sha256": "67bf1a96e941651fa7a53399d0ad57db6a368b6e3336d88686229c4d318b9661",
+      "size_in_bytes": 8597
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_skeletonize.pyc",
+      "path_type": "hardlink",
+      "sha256": "49e1a6ad660922060d6b8fa5c4da57686275f3791371c34c24546944b968a3a0",
+      "size_in_bytes": 11723
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_skeletonize_3d.py",
+      "path_type": "hardlink",
+      "sha256": "caeec1d9a68fec0a829660d0b1a20859199d6479d4cdfd9d1b0ab2087ccffc6a",
+      "size_in_bytes": 6508
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_skeletonize_3d.pyc",
+      "path_type": "hardlink",
+      "sha256": "8f1851a1cc1306315e807ed8a50fa971fcde0600bf05a2156b0cd75903d4e621",
+      "size_in_bytes": 7755
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_watershed.py",
+      "path_type": "hardlink",
+      "sha256": "b5adbbe15b6f9a2452a59d04a7a12aee22f558fd257e628baccb37913b860f89",
+      "size_in_bytes": 24126
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/tests/test_watershed.pyc",
+      "path_type": "hardlink",
+      "sha256": "15e0cb50d13314e73326c54f55f80c3790191ccf4eb1fa53f21c910a5131d190",
+      "size_in_bytes": 17622
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/watershed.py",
+      "path_type": "hardlink",
+      "sha256": "6b86e8de00b969503c638fbbc2a24903eb2699e23cb4c34056b46524d818c3f1",
+      "size_in_bytes": 10843
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/morphology/watershed.pyc",
+      "path_type": "hardlink",
+      "sha256": "decead65244fc5cc1429f7b826e2d7d6d955841a92a4a37901726a45a3ecfe5d",
+      "size_in_bytes": 10733
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/novice/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "6e67052b49cf3dc6fdd7a429532104d9c05b38dbb015f36656b27562ce3de3fe",
+      "size_in_bytes": 2398
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/novice/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "a4c5c570fc7cb09bbf1e28e5094203984282c22436b4fcb05d8a243f6ee9cbd7",
+      "size_in_bytes": 2621
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/novice/_novice.py",
+      "path_type": "hardlink",
+      "sha256": "718670901600610f3ede6bb07be64a6847425d8ec8815068e504865f143b3c56",
+      "size_in_bytes": 14924
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/novice/_novice.pyc",
+      "path_type": "hardlink",
+      "sha256": "e8664745663d4608b05674d925ddb377f2872ff752707adafb6adfbdb76368be",
+      "size_in_bytes": 22597
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/novice/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/novice/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "2b3569782d86b5972632f828e530c13a9f771fdcded1706e05cb6d2039e3dee1",
+      "size_in_bytes": 577
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/novice/tests/test_novice.py",
+      "path_type": "hardlink",
+      "sha256": "a356a3fa53b0b40994b7471c57dfc439b094ffe91fd4391585bf6ac5818a9d80",
+      "size_in_bytes": 8354
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/novice/tests/test_novice.pyc",
+      "path_type": "hardlink",
+      "sha256": "2f2fd25b0a09851f7b08d71dd21b920750d24fd447df72db38a44e10e697cda3",
+      "size_in_bytes": 13676
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "7b9dc7b5f5bf3c9f93d521b24d63436ea118f97bc1873c6c8a7e236529e069ac",
+      "size_in_bytes": 1648
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "c03388b0b0110d52f0734d5597dc677e079288148b95e3740f092e7cb4d19afd",
+      "size_in_bytes": 1718
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/_denoise.py",
+      "path_type": "hardlink",
+      "sha256": "9f33bed8a085269fd12d863bbbe20445cb027cf575b4b0eb31e713631dd5262c",
+      "size_in_bytes": 25276
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/_denoise.pyc",
+      "path_type": "hardlink",
+      "sha256": "76ddede3903ed4162c8904770fcb2ebe24eea9effbe60f0b99cefb13bdeaecdb",
+      "size_in_bytes": 23640
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/_denoise_cy.so",
+      "path_type": "hardlink",
+      "sha256": "521d91ee048bc32367ac899bdeff661b20614958cbceeefc292271f991046938",
+      "size_in_bytes": 241656
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/_nl_means_denoising.so",
+      "path_type": "hardlink",
+      "sha256": "fcc57431716a2d190f07f2baf0bcee0227635117a6481b9b707179cfe47afa25",
+      "size_in_bytes": 270468
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/_unwrap_1d.so",
+      "path_type": "hardlink",
+      "sha256": "c6e6f99cca678185589ae7c7fdf3b83abcfc341144de04e84cde3c3995468fdb",
+      "size_in_bytes": 133276
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/_unwrap_2d.so",
+      "path_type": "hardlink",
+      "sha256": "ba4322fd39b34c05d9115e74a7e3bb95a1270279c9faea3f21d2cb0fbedc7c98",
+      "size_in_bytes": 148128
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/_unwrap_3d.so",
+      "path_type": "hardlink",
+      "sha256": "93fc7c48e292b59965ddbd6556f076dda7c9b2c6e9d88b5be2e3b884d35d92f9",
+      "size_in_bytes": 160552
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/deconvolution.py",
+      "path_type": "hardlink",
+      "sha256": "1b34a2b9f87e8d89f1edb4ed198fa3162aa9a829abc0ae67af76986eba6f8d8e",
+      "size_in_bytes": 15034
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/deconvolution.pyc",
+      "path_type": "hardlink",
+      "sha256": "eb78369d386e7eafd4fccde4455d7bd3151aa263eff6bd449b1b46ada154c0f5",
+      "size_in_bytes": 13248
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/inpaint.py",
+      "path_type": "hardlink",
+      "sha256": "03969a39fbfb497a3835e17e0fef61299fd3112239f1c49d3f3359a208c8bf65",
+      "size_in_bytes": 5016
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/inpaint.pyc",
+      "path_type": "hardlink",
+      "sha256": "faf2fff8dfe1e0243538acc8c236d7af3f9cb756bce96b553369dc95abadef1a",
+      "size_in_bytes": 4656
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/non_local_means.py",
+      "path_type": "hardlink",
+      "sha256": "89d6c414efa2903b637c59fc8468e0b914ef6529e397c47ccfca17496da16378",
+      "size_in_bytes": 5586
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/non_local_means.pyc",
+      "path_type": "hardlink",
+      "sha256": "703ab543f44b93ef29a2039cf166987425be233cae005b5904867e49f4872304",
+      "size_in_bytes": 5540
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/setup.py",
+      "path_type": "hardlink",
+      "sha256": "28cb666330249e1339d416771069895b90874dbaed561fb09923b6b80ff45eea",
+      "size_in_bytes": 1913
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "b33bb910666a8eb0a653e6955a6fcb3089d2bb13f7fc4e5c5df4ed26320ed28e",
+      "size_in_bytes": 1958
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "1a30fff07b5dd8f1d3656ff7eb782879136e248ec0458cc11a59686164cbbb77",
+      "size_in_bytes": 592
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/camera_rl.npy",
+      "path_type": "hardlink",
+      "sha256": "d219834415dc7094580abd975abb28bc7a6fb5ab83366e92c61ccffa66ca54fd",
+      "size_in_bytes": 2097232
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/camera_unsup.npy",
+      "path_type": "hardlink",
+      "sha256": "6d911fd0028ee78add8c416553097f15c6c4e59723ea32bd828f71269b6ea240",
+      "size_in_bytes": 2097232
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/camera_unsup2.npy",
+      "path_type": "hardlink",
+      "sha256": "30e81718f3cac0fc00d84518ca75a3c0fb9b246bb7748a9e20ec0b44da33734d",
+      "size_in_bytes": 2097232
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/camera_wiener.npy",
+      "path_type": "hardlink",
+      "sha256": "71e7cab739d6d145a288ec85dd235a62ff34442ccd1488b08139bc809850772b",
+      "size_in_bytes": 2097232
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/test_denoise.py",
+      "path_type": "hardlink",
+      "sha256": "550bea5694fa71c42b2f6deaca51adc36344a4425dccd067aa072ea5ffd1a3eb",
+      "size_in_bytes": 19857
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/test_denoise.pyc",
+      "path_type": "hardlink",
+      "sha256": "3290243d0d68cf101e479a3de49c1d1a750a2d1a8a80b0d0c76ea5b4870be738",
+      "size_in_bytes": 20680
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/test_inpaint.py",
+      "path_type": "hardlink",
+      "sha256": "d204c2e2c195ecef6891ecbd905c6b47d129868d61108fe5badf073857c93364",
+      "size_in_bytes": 2364
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/test_inpaint.pyc",
+      "path_type": "hardlink",
+      "sha256": "116dcff5701c1dd05910a1134a545bcf8fcc10cc43390dedc7bc50c00ec0c5b5",
+      "size_in_bytes": 2792
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/test_restoration.py",
+      "path_type": "hardlink",
+      "sha256": "67372630d09f941743152da57ff922057961282ada566444b7cde736ba143412",
+      "size_in_bytes": 3413
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/test_restoration.pyc",
+      "path_type": "hardlink",
+      "sha256": "e7b6d5a4670cb9e25c09b2833095b166a71c2d57a7f3b13d0b19397aa1568a2c",
+      "size_in_bytes": 4289
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/test_unwrap.py",
+      "path_type": "hardlink",
+      "sha256": "229e5df83584948b5f25a302cd7191f5ff34148c683c10a92f68fbdce0be3742",
+      "size_in_bytes": 7929
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/tests/test_unwrap.pyc",
+      "path_type": "hardlink",
+      "sha256": "923dd73a54f086c5d035d295c0fcaa8a4f7db67a30af9ccbb463d08fb0b644b4",
+      "size_in_bytes": 8219
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/uft.py",
+      "path_type": "hardlink",
+      "sha256": "ac67090a33f3ef96b26997091fee432432b02293e1d325978de3a61899f3abfe",
+      "size_in_bytes": 12563
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/uft.pyc",
+      "path_type": "hardlink",
+      "sha256": "8a2e567bda689774b92dbf9d14fb1d9bf326f90ca8cfd01c867a92bf0126bf78",
+      "size_in_bytes": 13670
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/unwrap.py",
+      "path_type": "hardlink",
+      "sha256": "af6f6605311fe8cc7b7e1cc5d834fb20ca0c65fecb2c442ff092d058489e1124",
+      "size_in_bytes": 4711
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/restoration/unwrap.pyc",
+      "path_type": "hardlink",
+      "sha256": "74d80aa3b1cde15eab7fc4cf0b8ae883679d5669e4a00d6c87ec3ad1f95c4e57",
+      "size_in_bytes": 4698
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/run-hessian.py",
+      "path_type": "hardlink",
+      "sha256": "61a7cd3caa9e9d0ad10e92d3dba1193a041cb446411e468c8ed18738fe577131",
+      "size_in_bytes": 224
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/run-hessian.pyc",
+      "path_type": "hardlink",
+      "sha256": "4b79a0676dccb263acb91b13a0a6a15ea25e662c0d737b0ba7536dae06b0e7ed",
+      "size_in_bytes": 527
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/scripts/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/scripts/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "1abcb78741b1e190217581f3374981005fd6fb4a359a0fea83703850b0138687",
+      "size_in_bytes": 142
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/scripts/skivi.py",
+      "path_type": "hardlink",
+      "sha256": "898a31c217428494829025216b5e826bbf5d3e60c062cab854fba6d248070696",
+      "size_in_bytes": 259
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/scripts/skivi.pyc",
+      "path_type": "hardlink",
+      "sha256": "6c77c154a5e677dae4ef1146aa00f8eb9d19ec3aa17a4389859349cdddfacab4",
+      "size_in_bytes": 645
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "3b0fd265010146b330c69767b3eb4d686632773a414ef0ec8ac7cba13f453f4b",
+      "size_in_bytes": 760
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "b04607f5e51a4167139f4d84dfe1727ca8fa006b0a7161739796ad47714ac81e",
+      "size_in_bytes": 963
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/_clear_border.py",
+      "path_type": "hardlink",
+      "sha256": "bd76ac5654f284aa444b5ec0033acabd87cdf5c63873090afaa669d634197fa2",
+      "size_in_bytes": 2650
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/_clear_border.pyc",
+      "path_type": "hardlink",
+      "sha256": "cdd426381f346601d29575b2923887446d0890e4694b70536544a7e61e3b9749",
+      "size_in_bytes": 2863
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/_felzenszwalb.py",
+      "path_type": "hardlink",
+      "sha256": "59d53dc01fbf28392f300429e9c61439bff10a631fd6a5f350ff512617268178",
+      "size_in_bytes": 2254
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/_felzenszwalb.pyc",
+      "path_type": "hardlink",
+      "sha256": "c67059564bf62a53f1eade9898457bf244e934c49b0af194fabe7491d36524d7",
+      "size_in_bytes": 2529
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/_felzenszwalb_cy.so",
+      "path_type": "hardlink",
+      "sha256": "52661fcdb6b7f26f22ac516400e6b4d313b19513ce3b6f3c070b3b2b061fe179",
+      "size_in_bytes": 167504
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/_join.py",
+      "path_type": "hardlink",
+      "sha256": "6fb8102c411f1f145d86974af632dbf092279c57a4863895fd5e6c0d5e4d5c2d",
+      "size_in_bytes": 4886
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/_join.pyc",
+      "path_type": "hardlink",
+      "sha256": "c1bd6a06916ce21ea998846f72c419701caee3d2c1a52a497c3a595574554982",
+      "size_in_bytes": 5185
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/_quickshift.py",
+      "path_type": "hardlink",
+      "sha256": "80638c5406d6d7eabd5a33e7db4c79505b3b6fc0ea2ccf0ab18fc1dd615b015d",
+      "size_in_bytes": 2552
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/_quickshift.pyc",
+      "path_type": "hardlink",
+      "sha256": "3589a06796e3ce76ef99518e753395a0db50fc8c138a5aed6ac1d2993208b9fa",
+      "size_in_bytes": 2891
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/_quickshift_cy.so",
+      "path_type": "hardlink",
+      "sha256": "d538056d334e04ff9701a857f061878a5553b1e52f27f7323d0fbe0fc11bd93b",
+      "size_in_bytes": 193804
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/_slic.so",
+      "path_type": "hardlink",
+      "sha256": "3777832ef8cf076c990469b4404e4e9cf52cc89ac0191168e0f8db0520b26d62",
+      "size_in_bytes": 205956
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/active_contour_model.py",
+      "path_type": "hardlink",
+      "sha256": "ea52c46e9d9b4f9afdeb2dcb74bfe6184ba3df0fc7aaad140504e29c215f1f02",
+      "size_in_bytes": 8391
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/active_contour_model.pyc",
+      "path_type": "hardlink",
+      "sha256": "c74caa9a7a6aea06da792be51c86e847832e71c9be9f88211e9800b8b347a774",
+      "size_in_bytes": 7486
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/boundaries.py",
+      "path_type": "hardlink",
+      "sha256": "3982686d7fbc3794ab9d06531147b3d066fe4ed20afbb1ac7728f75c76a699c0",
+      "size_in_bytes": 9981
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/boundaries.pyc",
+      "path_type": "hardlink",
+      "sha256": "95af2a0bf630ba3cb770417979d322093abb2e801b07e5fd137fafb5a863c4bb",
+      "size_in_bytes": 9660
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/random_walker_segmentation.py",
+      "path_type": "hardlink",
+      "sha256": "8e113f738386070c7dd2aa633eaecd47569ab7ece2eec37b9a597e575aaf2ddd",
+      "size_in_bytes": 20532
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/random_walker_segmentation.pyc",
+      "path_type": "hardlink",
+      "sha256": "e3f33a302a3ddf4346aa72f98eb5eb64bc54025d37444a4c5265de7b454558c4",
+      "size_in_bytes": 19167
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/setup.py",
+      "path_type": "hardlink",
+      "sha256": "7a936ff844721137ce4f42c4c4009c7e7fe6d1365fcd6dcc775bd7837f6a5a46",
+      "size_in_bytes": 1314
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "098943a9434e05c488d4592b0521dc74eeb784f1064d6f5cff8d79fae9fe43bc",
+      "size_in_bytes": 1549
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/slic_superpixels.py",
+      "path_type": "hardlink",
+      "sha256": "89e31bf58f2b7638405efb7b520babc6eb0e6fc974e3f169150a43c3f4ae3781",
+      "size_in_bytes": 7643
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/slic_superpixels.pyc",
+      "path_type": "hardlink",
+      "sha256": "f222157e338917502f567fb002082a937cbf74dad1dd945f83c3d30c62400912",
+      "size_in_bytes": 6972
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "57df45c553ea7b08448cd2e24cc76b538b08a8d201a9c9d85803790e3195cc46",
+      "size_in_bytes": 595
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_active_contour_model.py",
+      "path_type": "hardlink",
+      "sha256": "12d4ff273fb08d18f183f2f1b2f3eb4f742cf6e1a89d324fd43e413dc014189c",
+      "size_in_bytes": 4353
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_active_contour_model.pyc",
+      "path_type": "hardlink",
+      "sha256": "a920ec4007ae4da1f6d8f3418477cb69c255d552eea96e571382a98cabe61cf4",
+      "size_in_bytes": 6069
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_boundaries.py",
+      "path_type": "hardlink",
+      "sha256": "c4b0bff5ff4bccb693305918347c1b1d9e6f296028eecdeb755aedda5b0db8a6",
+      "size_in_bytes": 4895
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_boundaries.pyc",
+      "path_type": "hardlink",
+      "sha256": "71c8d03da8e7db1adc77d852d312c3dea43f0b76a2573d2a0d62a4c58e48a4cf",
+      "size_in_bytes": 5171
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_clear_border.py",
+      "path_type": "hardlink",
+      "sha256": "9866163359e6f5ba90362bbec08f8842ccef8a9b7649207c2c631dae52f11b61",
+      "size_in_bytes": 4335
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_clear_border.pyc",
+      "path_type": "hardlink",
+      "sha256": "d65e828119845da0679bab2bb7a58e459e27f375e58167487b8d3976328a7fa7",
+      "size_in_bytes": 4651
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_felzenszwalb.py",
+      "path_type": "hardlink",
+      "sha256": "607fd01e5d6b99336d69c98909683a22ef653318e83cd12a7b456afe81d3860d",
+      "size_in_bytes": 2791
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_felzenszwalb.pyc",
+      "path_type": "hardlink",
+      "sha256": "d8228cce5d6bd302850af765d506b3e8670b829a1ad19132f4455c322d9b8abe",
+      "size_in_bytes": 3662
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_join.py",
+      "path_type": "hardlink",
+      "sha256": "ca31c71e9653afe4ed2b9bfb6945cc33b538003d6188b073d423985267e8a224",
+      "size_in_bytes": 2983
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_join.pyc",
+      "path_type": "hardlink",
+      "sha256": "39e39879228212888e1db47334e5b71e9af9b69e91971b3978a968b8768ad52b",
+      "size_in_bytes": 3475
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_quickshift.py",
+      "path_type": "hardlink",
+      "sha256": "d2a746f0d7930a8329e31604ef03de2a2bef8cc4f8ac0a12af65b0464000543b",
+      "size_in_bytes": 1770
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_quickshift.pyc",
+      "path_type": "hardlink",
+      "sha256": "c334574eb12e27e011281dfce65c0b11b60d6e0f6f7f3c908b43465e9674a947",
+      "size_in_bytes": 2502
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_random_walker.py",
+      "path_type": "hardlink",
+      "sha256": "db4275220e551532042d03dcfff6cc78d0a9dffd08abbe469539888402f82eac",
+      "size_in_bytes": 12624
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_random_walker.pyc",
+      "path_type": "hardlink",
+      "sha256": "7e2d7f0c2660fe5304661199bff257c97d03e175c98a0c4cddc2c491d679b6a8",
+      "size_in_bytes": 13375
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_slic.py",
+      "path_type": "hardlink",
+      "sha256": "d462bccd195346441ddebe8a4e404ac407a33968fa3a511971a451f82bcfd789",
+      "size_in_bytes": 7151
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/segmentation/tests/test_slic.pyc",
+      "path_type": "hardlink",
+      "sha256": "13eb2a9daea5863ce126da0aee39cf3dd46af0722138c423dce9a4e5634bb2d5",
+      "size_in_bytes": 8809
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/setup.py",
+      "path_type": "hardlink",
+      "sha256": "1572533566696bdedbf5a8a81cc7bb13ab53ce7386ea1ed55f195ede1e828b49",
+      "size_in_bytes": 1484
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "5eafb49e2957f3b48206a29a21c03f52a3ae27af78a448ac1b2d3643c71a3e63",
+      "size_in_bytes": 1966
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e139b2850aa12974ffe0add8b343096be884ea8cad854659d4c22d24033cda17",
+      "size_in_bytes": 2083
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "f8e1d9747cb5f27c6cc1e5f7bfd8bce366d657c9b185b452692dbd8ee2fd44b3",
+      "size_in_bytes": 1873
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/_geometric.py",
+      "path_type": "hardlink",
+      "sha256": "e60d00760638ad7e4fb002149b81e5dfb77ad73e9c0240d49db8ac5a2a965c47",
+      "size_in_bytes": 42053
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/_geometric.pyc",
+      "path_type": "hardlink",
+      "sha256": "908b8729d1addbf542bcb59e86fbe4434a8cec9de83471f386eaed7a629b7f2a",
+      "size_in_bytes": 44352
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/_hough_transform.so",
+      "path_type": "hardlink",
+      "sha256": "ddd060cce3ad6c4a337dfb0ca86ac01bad58ac03b5089b01ebd2910e6e33b568",
+      "size_in_bytes": 289464
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/_radon_transform.so",
+      "path_type": "hardlink",
+      "sha256": "d491b267e309ae5b57a707d78492fde8150ac4eb534a17fd237e345e800e6cf1",
+      "size_in_bytes": 165524
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/_seam_carving.so",
+      "path_type": "hardlink",
+      "sha256": "0d0dffe4a2258825f5aedd4fffbf1ce4a0622f4c6f87fcabfbbc864b4cdb7b60",
+      "size_in_bytes": 183460
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/_warps.py",
+      "path_type": "hardlink",
+      "sha256": "9ed0ba0a9779e4525a4fc9c7bed23e416b08a80afedd1d4d6b1862139b6186d0",
+      "size_in_bytes": 30201
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/_warps.pyc",
+      "path_type": "hardlink",
+      "sha256": "65c7a65d96c306b54e56b93e7c1834738ee2e13344ec66b04955c8c1f5a50884",
+      "size_in_bytes": 27503
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/_warps_cy.so",
+      "path_type": "hardlink",
+      "sha256": "11ad855225d2f4355edaaafa26215d6c3fde020a5ca4970fab90f0292cb1d9c7",
+      "size_in_bytes": 174796
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/finite_radon_transform.py",
+      "path_type": "hardlink",
+      "sha256": "62652bc2eef9129fe9d4ed5c4106dfa4a42aedb8bfb893929bb749c1d6fbc27b",
+      "size_in_bytes": 3228
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/finite_radon_transform.pyc",
+      "path_type": "hardlink",
+      "sha256": "7bae6b3ee710d3163d0b6eb6e0fe2e4b898f646fafef5dd1936e5c5c36ebbcb9",
+      "size_in_bytes": 3756
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/hough_transform.py",
+      "path_type": "hardlink",
+      "sha256": "51e219a6adc93073ab06afa5c49c5f19a2f0039e8c0b422ebfb55b9b870bfe9a",
+      "size_in_bytes": 12129
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/hough_transform.pyc",
+      "path_type": "hardlink",
+      "sha256": "cf2a9910360c4b28360026930de2f7d2b5b9e391fdd48666775e292d220e9567",
+      "size_in_bytes": 12522
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/integral.py",
+      "path_type": "hardlink",
+      "sha256": "e66221fa758c1d77471027b935ed0ba76f7a3f8e1b80bd06ab85f23323f0ae0d",
+      "size_in_bytes": 5330
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/integral.pyc",
+      "path_type": "hardlink",
+      "sha256": "92c4f7661d61dca76fa841edb145238a6d04391cfcd565a984c656d9e702658e",
+      "size_in_bytes": 4152
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/pyramids.py",
+      "path_type": "hardlink",
+      "sha256": "32c72161d8585e50cbaa94b56e12d8d2b8a9c4f09c6e3e4d71a63f60045f08d6",
+      "size_in_bytes": 9918
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/pyramids.pyc",
+      "path_type": "hardlink",
+      "sha256": "70834b3dc7e640c6bf22e134c91c1d0010e7706bf247db6af1cb264e174940a1",
+      "size_in_bytes": 9239
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/radon_transform.py",
+      "path_type": "hardlink",
+      "sha256": "18569667db9b51f27d842536cdbaada8ca75ea81862b87630b32ec41966e67d1",
+      "size_in_bytes": 18737
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/radon_transform.pyc",
+      "path_type": "hardlink",
+      "sha256": "618cfc1750015fb0113c2f44a791bd36fa1c9ea8447175b5be308f40ae411849",
+      "size_in_bytes": 16986
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/seam_carving.py",
+      "path_type": "hardlink",
+      "sha256": "58010583a9999d805798bfc0b2e1d976589899be1adbf4be50b420fd1296484d",
+      "size_in_bytes": 2360
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/seam_carving.pyc",
+      "path_type": "hardlink",
+      "sha256": "7a2010d5f0d2a2b53fc0dc839a11c16d15a07c925025e3d2f8f4bf05fb00f7f2",
+      "size_in_bytes": 2733
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/setup.py",
+      "path_type": "hardlink",
+      "sha256": "22d13e1cedb9eddb5fa2ff29ed16161fc49b1b808c3b01c9d80b569dbcdc7d9b",
+      "size_in_bytes": 1631
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/setup.pyc",
+      "path_type": "hardlink",
+      "sha256": "09649b28239b2c8969fbb4f32a485fe1512d28629168a0bccd6884407e7ab096",
+      "size_in_bytes": 1745
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "7bbe6417538923dbf5e362eada89d646e6385ff2a22b564189892332bc5934b2",
+      "size_in_bytes": 586
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_finite_radon_transform.py",
+      "path_type": "hardlink",
+      "sha256": "d7e50ec40a97e87daef82f14d9b11ec019172b97f9ebca92de1fae6618409380",
+      "size_in_bytes": 494
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_finite_radon_transform.pyc",
+      "path_type": "hardlink",
+      "sha256": "9811cca6c5fb69839b0ece5badc0be3c5944ab2649067e6849178bb0636c37db",
+      "size_in_bytes": 994
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_geometric.py",
+      "path_type": "hardlink",
+      "sha256": "cf51c1436876d53b62071bdbf495daa1069bce0094f06135176ce687a0d17dc3",
+      "size_in_bytes": 15598
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_geometric.pyc",
+      "path_type": "hardlink",
+      "sha256": "539c7cea4d2e99b54dadb73f58cad57275191eaf8e54220f953c78dec891fb40",
+      "size_in_bytes": 16003
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_hough_transform.py",
+      "path_type": "hardlink",
+      "sha256": "e93dc5d6496121fe1fdf96e86c0537e02919fca045c77e171bca749a7a5e52b2",
+      "size_in_bytes": 14325
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_hough_transform.pyc",
+      "path_type": "hardlink",
+      "sha256": "20ba7e120b95d22d5bf742a44ecb2cd64393a9aa2d0cf8e55c178b64c61cdb5a",
+      "size_in_bytes": 16459
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_integral.py",
+      "path_type": "hardlink",
+      "sha256": "2111a633e31b48282710fb42ec891b2c152eacd09a07d18c89a7105e4e696584",
+      "size_in_bytes": 1705
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_integral.pyc",
+      "path_type": "hardlink",
+      "sha256": "9d7eb8a175ca7de0d64905b61b5d455a9cdbe53ec97ea0bbd0a58fce4b58ee20",
+      "size_in_bytes": 2813
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_pyramids.py",
+      "path_type": "hardlink",
+      "sha256": "b97b306f427bb04344fa21e7e5e6de61734876716f65b9061747dd36cfb3ef2b",
+      "size_in_bytes": 2302
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_pyramids.pyc",
+      "path_type": "hardlink",
+      "sha256": "8bc6c09ef09f4db2fe18d9006ffa670225287a39779e68171e43afa659627d21",
+      "size_in_bytes": 3683
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_radon_transform.py",
+      "path_type": "hardlink",
+      "sha256": "b11ee68761dc6a787d82b766d78d61235f096a07b28c5fc5b49a32a1cdf08010",
+      "size_in_bytes": 14581
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_radon_transform.pyc",
+      "path_type": "hardlink",
+      "sha256": "ee2abde0a6322ca29b5b8eb355bf2ea4ad7e6b4f7f8b3d9df7899732048019c6",
+      "size_in_bytes": 15270
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_seam_carving.py",
+      "path_type": "hardlink",
+      "sha256": "e714d1bc6caeb561f58d2ffeb3903348cfb88a8e34f5638ac582b2611a481ea6",
+      "size_in_bytes": 618
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_seam_carving.pyc",
+      "path_type": "hardlink",
+      "sha256": "06995f6bed4e78f0a8ce695fe760675be1eec2800309d98d91eb71b5578f3327",
+      "size_in_bytes": 951
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_warps.py",
+      "path_type": "hardlink",
+      "sha256": "988065babc2e9ed5238259ca7d4dfabdedd4dcd7afbd556ec0df8196c47d879d",
+      "size_in_bytes": 10179
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/transform/tests/test_warps.pyc",
+      "path_type": "hardlink",
+      "sha256": "651c9abce451a8fbddac6c5eb7aabe86c1132699dd41d5a8fd44891d189ce382",
+      "size_in_bytes": 15349
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "fd270c29fd762370af98e83090d9b7d71a7aee9d9b2b2bf8faf4b3a23f68ecac",
+      "size_in_bytes": 918
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "e40e5496a0d36b10a6113fa914e7fa6da5c2c6e7d047a1afdebd626a3698197e",
+      "size_in_bytes": 1109
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/_invert.py",
+      "path_type": "hardlink",
+      "sha256": "b98f240ef0181d376edddebff89dbbc2c8b627c9ac0f91cacb8f8dea4034aab3",
+      "size_in_bytes": 726
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/_invert.pyc",
+      "path_type": "hardlink",
+      "sha256": "bfff80e4f1fb7bb2d378c306de76bc6a9c58a69ab9e8282aac436a5f49945711",
+      "size_in_bytes": 1007
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/_regular_grid.py",
+      "path_type": "hardlink",
+      "sha256": "c58c3b6010514fc7e3dbda2c1bb5b77d01bb09cfac344c3fce716edf70406f49",
+      "size_in_bytes": 3386
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/_regular_grid.pyc",
+      "path_type": "hardlink",
+      "sha256": "5f2b1b401978a53f3e5a4d82f2b9a844b3bccc5b3044f34999c6ce5da1271256",
+      "size_in_bytes": 3559
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/apply_parallel.py",
+      "path_type": "hardlink",
+      "sha256": "a1dc13fcc22245d42e25328f7f5d161beb9e5d11ddecde1489f5e81d6f9068d2",
+      "size_in_bytes": 3951
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/apply_parallel.pyc",
+      "path_type": "hardlink",
+      "sha256": "39f23e47afbf10307c675ea048f86258db041d48d17cb4fa700ff92916c1a2a8",
+      "size_in_bytes": 4254
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/arraycrop.py",
+      "path_type": "hardlink",
+      "sha256": "c6c7c1b5b8dcb84e4a3ec91e9994e072db5c1214ed9806b3e5c558c6e1bc3084",
+      "size_in_bytes": 7011
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/arraycrop.pyc",
+      "path_type": "hardlink",
+      "sha256": "234959da9ebd3bc01f64ed12905031f66a6ac6c4c24588ed8f7330a4a8435ea3",
+      "size_in_bytes": 2074
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/colormap.py",
+      "path_type": "hardlink",
+      "sha256": "235ebb70bc2d38452a4463160aec35601b14ff01d62c98adb9969bee21bc30c6",
+      "size_in_bytes": 24533
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/colormap.pyc",
+      "path_type": "hardlink",
+      "sha256": "dfade31b800acc1209feeffa15c116bf8fdec740eba7fcca182749a575619a5a",
+      "size_in_bytes": 21752
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/dtype.py",
+      "path_type": "hardlink",
+      "sha256": "a89b3f0f9f05074ca5a10cbde9d5cb00d525e026cfc6947ed9f6ddb0f5d23faa",
+      "size_in_bytes": 14132
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/dtype.pyc",
+      "path_type": "hardlink",
+      "sha256": "d7ffff6b78bcfbd49db7dd40b8cbbe72b7e6662a9ab4713eb650865ec462aefb",
+      "size_in_bytes": 12828
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/montage.py",
+      "path_type": "hardlink",
+      "sha256": "901f7fb0329af30b3474c0ace248adf8cdc7d6ddf8ba4cb4b75659dff69761da",
+      "size_in_bytes": 3203
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/montage.pyc",
+      "path_type": "hardlink",
+      "sha256": "d4a20284b8a475407a264d5bbb10cb74203f260a3185b5a61e222a2575f0a196",
+      "size_in_bytes": 3304
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/noise.py",
+      "path_type": "hardlink",
+      "sha256": "96ea5d60b3a821e7be28e070973d5b6b70c05eb799476378579a1317cbe8d161",
+      "size_in_bytes": 7582
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/noise.pyc",
+      "path_type": "hardlink",
+      "sha256": "5e061ee0554fe3a8f281f49b9edc41c1b9caa4c51eec01a8f76678903261844e",
+      "size_in_bytes": 6383
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/shape.py",
+      "path_type": "hardlink",
+      "sha256": "19817dacf4320f020dd3bf7034681c21b2101267552734d998e715604a8f6093",
+      "size_in_bytes": 8431
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/shape.pyc",
+      "path_type": "hardlink",
+      "sha256": "74928aed1a42bd0d453051b269ec5bb49a9ad323809f0e97e35670e518e866e8",
+      "size_in_bytes": 8252
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "307f2b57b25c0809d166012cec1dc34add65cecc4b25576646dbb5524e9676f7",
+      "size_in_bytes": 571
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_apply_parallel.py",
+      "path_type": "hardlink",
+      "sha256": "a3b301cbd2e16f653fd3538c02fa8e7fccb636a5324232e2ace8c06ee3d115c0",
+      "size_in_bytes": 1967
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_apply_parallel.pyc",
+      "path_type": "hardlink",
+      "sha256": "cb87a0a3fd439bd3f4f992b8c484af355ffc240e36d08453ec6cf77b3b13bedd",
+      "size_in_bytes": 3278
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_arraycrop.py",
+      "path_type": "hardlink",
+      "sha256": "46d3469d828e3204eb02a6fc1be564f1e7d13581c1658c89eba6a174e6e4c546",
+      "size_in_bytes": 1369
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_arraycrop.pyc",
+      "path_type": "hardlink",
+      "sha256": "657f83fa724c8e5da5a6546a79d497ff530ae0d917b600e14ee67bf8b9274540",
+      "size_in_bytes": 2777
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_arraypad.py",
+      "path_type": "hardlink",
+      "sha256": "8d34755f20f73d8283733f12ac002d893db3a8680229db6f87afdb3e7477828c",
+      "size_in_bytes": 41897
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_arraypad.pyc",
+      "path_type": "hardlink",
+      "sha256": "ee07be48be0164a1248f07e07f6263a0f970e98e42934a3a3ccaaa1c8f27597f",
+      "size_in_bytes": 56839
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_dtype.py",
+      "path_type": "hardlink",
+      "sha256": "53b9e19074171835dcc8ad90751723aa5f760b14c746269e6f8b6020b6d4cf82",
+      "size_in_bytes": 3567
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_dtype.pyc",
+      "path_type": "hardlink",
+      "sha256": "e93da08ea0e7c760179fb83cc367a55d2655fa095e90c28948b4469843986737",
+      "size_in_bytes": 4563
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_invert.py",
+      "path_type": "hardlink",
+      "sha256": "575687976f067cb4704c274921c39ddf2dc6cc48d90a925db2a039595dbbcb55",
+      "size_in_bytes": 1588
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_invert.pyc",
+      "path_type": "hardlink",
+      "sha256": "cd0e9f53573c13d6cd8ccb449943bd1a922767c210a033c487ec42e6e688307d",
+      "size_in_bytes": 2295
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_montage.py",
+      "path_type": "hardlink",
+      "sha256": "eaf413b1e2cdec81a26b3555136ba8f9da0f8e9ee9b36d4c6cef10952a04b832",
+      "size_in_bytes": 2847
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_montage.pyc",
+      "path_type": "hardlink",
+      "sha256": "7e75833dd94b27424e0cd60590a5998facec36d25a289283aa1c2e0b0ca7bea6",
+      "size_in_bytes": 4015
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_random_noise.py",
+      "path_type": "hardlink",
+      "sha256": "73bad0fff841ebbc21b507d21fe6d92e716e89403a31e117e8d03d3aff1f72f4",
+      "size_in_bytes": 8005
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_random_noise.pyc",
+      "path_type": "hardlink",
+      "sha256": "cd85b42cce002b154618f384aa122369590c2ecad21d2a8ce023c1a79c4dfd82",
+      "size_in_bytes": 8656
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_regular_grid.py",
+      "path_type": "hardlink",
+      "sha256": "2ba1140e6866850be300a238c272495f8d8620d6501e0822b353fe8856bd8d2a",
+      "size_in_bytes": 1040
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_regular_grid.pyc",
+      "path_type": "hardlink",
+      "sha256": "27f239ce498cb298b1b3f40256e46cdcd37acdd01d29005bc8bf5dd24fe592d9",
+      "size_in_bytes": 2032
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_shape.py",
+      "path_type": "hardlink",
+      "sha256": "b0a800b8021e644820c1a8a7b316446cb67f0a07b4da0cbec5ed96064a467fd4",
+      "size_in_bytes": 5037
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_shape.pyc",
+      "path_type": "hardlink",
+      "sha256": "cdbb8fdd9731cdf7c380f46a0ba42d5e2afa7c29f291d4290fdd920a5c477c1e",
+      "size_in_bytes": 7642
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_unique_rows.py",
+      "path_type": "hardlink",
+      "sha256": "f99881154390e2829fa85cbd18f6b0324bb6464c23765a865178465b349c18b3",
+      "size_in_bytes": 1127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/tests/test_unique_rows.pyc",
+      "path_type": "hardlink",
+      "sha256": "ff175411422cfb224e5f72bec1bec43e46ddee3de0215e775cddd60cc11d76c6",
+      "size_in_bytes": 2124
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/unique.py",
+      "path_type": "hardlink",
+      "sha256": "1e929fbb94dd73447268ea54698fe4568a04e753f18c06a6ccc3e19e0c6aa856",
+      "size_in_bytes": 1506
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/util/unique.pyc",
+      "path_type": "hardlink",
+      "sha256": "85b554aaa6c98dc80f17570efa555ad1daaf8b3551b4721af8917c713d0f4797",
+      "size_in_bytes": 1528
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "93edfc5536ecf371202e838b5a90b3590f0ca44523b3344b24da3c2dbd12f92d",
+      "size_in_bytes": 154
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "bc2d18754a76947db2b0ab80422d40f5b975f7bd4caa3a54d14e2f5e46030844",
+      "size_in_bytes": 384
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/canvastools/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "0da6ce58a08eb8384b8b5b9e2bcfbd6fa8950a1f7be4ad53bc670b837fcbadd1",
+      "size_in_bytes": 115
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/canvastools/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "39e9a880ce406968c9f5d57d602c2d573a7955347a9cda335cf166b25017d04c",
+      "size_in_bytes": 354
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/canvastools/base.py",
+      "path_type": "hardlink",
+      "sha256": "9c38c17c32f480aea1f5ab9998e02e782e6b65ab4c2b4ea63b26647a032f7b77",
+      "size_in_bytes": 3877
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/canvastools/base.pyc",
+      "path_type": "hardlink",
+      "sha256": "582d9864a9845f759194012c73836c7f33125c4b06370464ae0959abd92bb68f",
+      "size_in_bytes": 6834
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/canvastools/linetool.py",
+      "path_type": "hardlink",
+      "sha256": "1237496f0afa242d5abacd7118e3629a7c4f8bf056b1421fad4bd1d4e745e43b",
+      "size_in_bytes": 6911
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/canvastools/linetool.pyc",
+      "path_type": "hardlink",
+      "sha256": "a9f2791bec6a4225e86b9969edf5def0c302896cc830ba819fe9279ea7643aa0",
+      "size_in_bytes": 8682
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/canvastools/painttool.py",
+      "path_type": "hardlink",
+      "sha256": "3d578975666098add9771931fa73ce587da5eb583f47a076ec5e1fe5318cdb9a",
+      "size_in_bytes": 7014
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/canvastools/painttool.pyc",
+      "path_type": "hardlink",
+      "sha256": "6d5986008215cac7aaa82213cbdf791f226cff71dfc7f30980958d1d2d622802",
+      "size_in_bytes": 9183
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/canvastools/recttool.py",
+      "path_type": "hardlink",
+      "sha256": "5e82df3c5617e1df709e83d9ad65c08b239441e35e524cc6fbf2591e20372821",
+      "size_in_bytes": 8886
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/canvastools/recttool.pyc",
+      "path_type": "hardlink",
+      "sha256": "81ee1fd2cbbae372c22ad160d586a7c756cabf8a305542a7b8ad58cc520f4fee",
+      "size_in_bytes": 9217
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e6a64ffac55df853e6b5d96a344dc5598cd81e7fdad4813b61a3d0558336ec98",
+      "size_in_bytes": 303
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "47baedec6e9641a648233d4cf45d098e51c92e63db5e9625fdf154c1a39a4c1a",
+      "size_in_bytes": 662
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/base.py",
+      "path_type": "hardlink",
+      "sha256": "a1d63e6431410229775eec0c803b3450938f6aab7cd2b6a554499885205be883",
+      "size_in_bytes": 9408
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/base.pyc",
+      "path_type": "hardlink",
+      "sha256": "a71ae38230f0711b9294f92bef2a87dc3f279b42733fb45821e40c73fc3055e6",
+      "size_in_bytes": 10736
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/canny.py",
+      "path_type": "hardlink",
+      "sha256": "6ce100ab9e2f4caaa293911c0c005d076f112305102515af5fb4a6f5e1bdce22",
+      "size_in_bytes": 1268
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/canny.pyc",
+      "path_type": "hardlink",
+      "sha256": "d7ce6c2071e47a0755e3fe88c32fb474f633ea4926e399011e91473329474b3b",
+      "size_in_bytes": 1728
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/color_histogram.py",
+      "path_type": "hardlink",
+      "sha256": "ecf2675e24af858104af8c143d1fb63eee11375ec29ff56f8688ac5da434cf9c",
+      "size_in_bytes": 3271
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/color_histogram.pyc",
+      "path_type": "hardlink",
+      "sha256": "38805c73fde414e1b75c292c083aecf4c9d28e760635b69be71e5b1dd246120b",
+      "size_in_bytes": 4642
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/crop.py",
+      "path_type": "hardlink",
+      "sha256": "1bd2f5c5146c589ee3e080d7420791e3e893b726d11b3b1a293d9d7a1d07253b",
+      "size_in_bytes": 1379
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/crop.pyc",
+      "path_type": "hardlink",
+      "sha256": "2707e2c0f4c58f94994b6fdf4b65d3c75dd6710339e6faecbf4ff2670fde5d2c",
+      "size_in_bytes": 2333
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/labelplugin.py",
+      "path_type": "hardlink",
+      "sha256": "a892be1a2f2036a1abb2a01a8bddc11af0969b50dd53172f03deb178e1122b62",
+      "size_in_bytes": 1876
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/labelplugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "0a9831a56c420bb4393893d59bebe0eef2ea163cbdf5cf8f0b578c1f7655c81e",
+      "size_in_bytes": 3298
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/lineprofile.py",
+      "path_type": "hardlink",
+      "sha256": "e7870e47cad24f47d431c3bf05e810deb79f65d1924862d2cb5636d47ad3347a",
+      "size_in_bytes": 5970
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/lineprofile.pyc",
+      "path_type": "hardlink",
+      "sha256": "278e27dd03c0fb99d3a5600c01bd669fb7910c2ba317f1d59a9b0491ffabb99e",
+      "size_in_bytes": 7036
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/measure.py",
+      "path_type": "hardlink",
+      "sha256": "e26174ead3812afde83efd9fa1d1fe8b44762166a628ab2e51d05962c379abb9",
+      "size_in_bytes": 1324
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/measure.pyc",
+      "path_type": "hardlink",
+      "sha256": "41cbd953901421b6800da43c4c0f9df81293ce3f6778586fc5c6f94fc5820274",
+      "size_in_bytes": 2256
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/overlayplugin.py",
+      "path_type": "hardlink",
+      "sha256": "ebaf5020258a861ab805f2ac93b79beef4f399e30b539474cdc8e0d342eab491",
+      "size_in_bytes": 3615
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/overlayplugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "40a4a727d1733430d7fdc54fb6a3f9e922e26c5d5c801d55de2b1f43494f25b4",
+      "size_in_bytes": 4929
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/plotplugin.py",
+      "path_type": "hardlink",
+      "sha256": "a9d28f83ad715092fc51eda8562dc2b5f822338718e93ee8f268422fa72c844e",
+      "size_in_bytes": 2405
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/plugins/plotplugin.pyc",
+      "path_type": "hardlink",
+      "sha256": "8e41c557d1090897d1c669136f6dd4c8820bdae24adc5b89a2939156ca0fcce7",
+      "size_in_bytes": 3499
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/qt.py",
+      "path_type": "hardlink",
+      "sha256": "08683310e7a2fdda335b65e11035832b387d350c8adcc7fae52dac1c204850a4",
+      "size_in_bytes": 1281
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/qt.pyc",
+      "path_type": "hardlink",
+      "sha256": "20cb36053da31ff750912985f89e669785c5e014d1abbd8c6c8849efb0169b31",
+      "size_in_bytes": 1861
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d5592aceb38bc88670b5b99a51010cd293d76b5b641a26cdbf5f244c8dbd76c9",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/tests/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "fab411468f01a240565f6153752b843810fe84932e4f63165d1d4ca1cb608848",
+      "size_in_bytes": 577
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/tests/test_plugins.py",
+      "path_type": "hardlink",
+      "sha256": "e72bc71f367bf1798f631d7705e4443e7a6f9828ace82f3c4e6277791f01404e",
+      "size_in_bytes": 5481
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/tests/test_plugins.pyc",
+      "path_type": "hardlink",
+      "sha256": "6faeec1e51b363e70edf656164924041305086b43cc6fbc3d2ac0c88c6bef23b",
+      "size_in_bytes": 7404
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/tests/test_tools.py",
+      "path_type": "hardlink",
+      "sha256": "4102cbb267823e93ba8ab55e7eb57dc9b166a58ba6f09e5f2d0034b0f67469d9",
+      "size_in_bytes": 5682
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/tests/test_tools.pyc",
+      "path_type": "hardlink",
+      "sha256": "8926d9052eab72263eddc7ac1a5ed9d620bf3a6120c060bd33b9f2b7ef403159",
+      "size_in_bytes": 6479
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/tests/test_utils.py",
+      "path_type": "hardlink",
+      "sha256": "b3f20c47be6e9630bbd5fab606ee98ee2bd485af9e7e152ae0ef7e88f0835641",
+      "size_in_bytes": 1025
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/tests/test_utils.pyc",
+      "path_type": "hardlink",
+      "sha256": "d0e23cb0300ab25d3f7b3935919798c73485190f1798c9947de46e61b0c7ec17",
+      "size_in_bytes": 2163
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/tests/test_viewer.py",
+      "path_type": "hardlink",
+      "sha256": "bc85ca24f686cb15085dd253a22965c2d02db7f4811bc67beb5f8ca1dc823199",
+      "size_in_bytes": 2165
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/tests/test_viewer.pyc",
+      "path_type": "hardlink",
+      "sha256": "647249b5ba6db8ac7335623b8958478519069a05f4db45ca526343e0ebf605e1",
+      "size_in_bytes": 3083
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/tests/test_widgets.py",
+      "path_type": "hardlink",
+      "sha256": "e9c1f6048037544ab837cbaab77fae7184e107eed4fda26c6de84e46d37597d6",
+      "size_in_bytes": 3355
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/tests/test_widgets.pyc",
+      "path_type": "hardlink",
+      "sha256": "b77a7f4a92f7592b1d21ae3df89caf7af6fd4842bca7838d6b6d66337cc00d88",
+      "size_in_bytes": 4741
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/utils/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "2b490dcb6e959ba03ed55e65493de2972eb256c34b51b8aa93a0190c59b69c92",
+      "size_in_bytes": 20
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/utils/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "aa39b6dddbaaf449618a5903d1a54322cc816b96a5b154c2b722413a9ab94d06",
+      "size_in_bytes": 182
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/utils/canvas.py",
+      "path_type": "hardlink",
+      "sha256": "316f234961e81955ea3e9ab1219698e24cf35bbec8208285c31e0871e00b726f",
+      "size_in_bytes": 3124
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/utils/canvas.pyc",
+      "path_type": "hardlink",
+      "sha256": "ea5378f290225adab28d3be14ac8bc0b739cb020027766699e6aa1885ccd7b83",
+      "size_in_bytes": 5041
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/utils/core.py",
+      "path_type": "hardlink",
+      "sha256": "02d2d3b116dfd4485d04b6f04b2d6b2ee98b1661b44660fff4a02957e7ba70be",
+      "size_in_bytes": 6555
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/utils/core.pyc",
+      "path_type": "hardlink",
+      "sha256": "92ab1907676a5da337ee67e7241170112b15586486a77e4065b004c4d0ead05e",
+      "size_in_bytes": 8874
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/utils/dialogs.py",
+      "path_type": "hardlink",
+      "sha256": "d5ed27ab0155080a7a0da83e7934af3c8ac6b64ade1b1ccbe3dc3d203891a10d",
+      "size_in_bytes": 924
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/utils/dialogs.pyc",
+      "path_type": "hardlink",
+      "sha256": "0f759a2f7ac80c64ca924d57bb9b16db991dce888e9f68d1997a32a089732511",
+      "size_in_bytes": 1272
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/viewers/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "c806ece9597946678c6c8b8ac278e28b24a58a203ca488c537b360c80ef616be",
+      "size_in_bytes": 48
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/viewers/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "ca9016b4ff4e9cdcec19b38ae202de418d2cde4c6590c84aef21ec7ba4524140",
+      "size_in_bytes": 237
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/viewers/core.py",
+      "path_type": "hardlink",
+      "sha256": "b56139aac615a9ad503d7a3dd7dde0e017170ad3f80114d4b2b4fe206623182c",
+      "size_in_bytes": 13265
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/viewers/core.pyc",
+      "path_type": "hardlink",
+      "sha256": "89bb03e4634c16c5363696f164ac5fcbf4bdff574f25fc6109c5e4e1c4d69be7",
+      "size_in_bytes": 14786
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/widgets/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "c5013966263b026892dc6f9f88d54e2522a116ccf746c58016a75f1c20bca934",
+      "size_in_bytes": 640
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/widgets/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "c722bfd9a814594777580cd9759ad40b7bd7f681f302199a4c1f65bf1ca0fca1",
+      "size_in_bytes": 822
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/widgets/core.py",
+      "path_type": "hardlink",
+      "sha256": "f638de2b3aefdf995d0acf3c88c14bdfb3c959225db37529e3112f2c65cde5c7",
+      "size_in_bytes": 10580
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/widgets/core.pyc",
+      "path_type": "hardlink",
+      "sha256": "21e78d3a4e9d27a2ddf2768eefa1fbe8befa353fdac54f185c29cdd571d739f4",
+      "size_in_bytes": 12452
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/widgets/history.py",
+      "path_type": "hardlink",
+      "sha256": "3ef897b2c26caf3c9465d8b1b2b7e4250c68008dde532b71150a5bfdab3704e7",
+      "size_in_bytes": 3338
+    },
+    {
+      "_path": "lib/python2.7/site-packages/skimage/viewer/widgets/history.pyc",
+      "path_type": "hardlink",
+      "sha256": "1ac33cf1b98be6f9d2aed1fde99d8f557059d917c443c3246766fe3b50138a82",
+      "size_in_bytes": 4427
+    }
+  ],
+  "paths_version": 1
+}

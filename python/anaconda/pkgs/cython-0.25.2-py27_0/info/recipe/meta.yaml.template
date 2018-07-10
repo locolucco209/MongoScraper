@@ -1,0 +1,42 @@
+package:
+  name: cython
+  version: 0.25.2
+
+source:
+  fn: Cython-0.25.2.tar.gz
+  url: https://pypi.python.org/packages/b7/67/7e2a817f9e9c773ee3995c1e15204f5d01c8da71882016cac10342ef031b/Cython-0.25.2.tar.gz
+  md5: 642c81285e1bb833b14ab3f439964086
+
+build:
+  entry_points:
+    - cython = Cython.Compiler.Main:setuptools_main
+    - cythonize = Cython.Build.Cythonize:main
+    - cygdb = Cython.Debugger.Cygdb:main
+
+requirements:
+  build:
+    - python
+    - setuptools       [win]
+  run:
+    - python
+
+test:
+  commands:
+    - cython --version
+  files:
+    - fib.pyx
+  imports:
+    - Cython
+
+about:
+  home: http://www.cython.org/
+  license: Apache version 2.0
+  license_family: Apache
+  license_file: LICENSE.txt
+  summary: The Cython compiler for writing C extensions for the Python language
+  description: |
+    Cython is an optimising static compiler for both the Python programming
+    language and the extended Cython programming language. It makes writing C
+    extensions for Python as easy as Python itself.
+  doc_url: http://cython.org/#documentation
+  dev_url: https://github.com/cython/cython

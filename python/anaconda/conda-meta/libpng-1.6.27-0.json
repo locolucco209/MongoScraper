@@ -1,0 +1,42 @@
+{
+  "arch": "x86_64", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [
+    "zlib 1.2.*"
+  ], 
+  "files": [
+    "bin/libpng-config", 
+    "bin/libpng16-config", 
+    "bin/png-fix-itxt", 
+    "bin/pngfix", 
+    "include/libpng16/png.h", 
+    "include/libpng16/pngconf.h", 
+    "include/libpng16/pnglibconf.h", 
+    "include/png.h", 
+    "include/pngconf.h", 
+    "include/pnglibconf.h", 
+    "lib/libpng.a", 
+    "lib/libpng.dylib", 
+    "lib/libpng.la", 
+    "lib/libpng16.16.dylib", 
+    "lib/libpng16.a", 
+    "lib/libpng16.dylib", 
+    "lib/libpng16.la", 
+    "lib/pkgconfig/libpng.pc", 
+    "lib/pkgconfig/libpng16.pc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "libpng license", 
+  "license_family": "Other", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/libpng-1.6.27-0", 
+    "type": "hard-link"
+  }, 
+  "md5": "f6b16c1a8b9a704fc691baf38256e9a8", 
+  "name": "libpng", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/libpng-1.6.27-0.tar.bz2", 
+  "version": "1.6.27"
+}

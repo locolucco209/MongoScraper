@@ -1,0 +1,83 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/ply-3.10-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "1e52e742f07ad2bdfc5cacfaf5a997c4c5b0059f1cffea82566b137cdc30d631",
+      "size_in_bytes": 901
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ply/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "ab8b3ce90c11b1845adb42fdb9e4b17e1fa13e28697ed0630cebd86b6fd24b66",
+      "size_in_bytes": 102
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ply/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "3e2714748ce6f7bbd2e87e548246964ead8fae0678e87c1b5edd0363d06a22ba",
+      "size_in_bytes": 203
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ply/cpp.py",
+      "path_type": "hardlink",
+      "sha256": "605c161d63c2500f7960252242d83ffee1e31e38145d24f00a399318b6efd13f",
+      "size_in_bytes": 33538
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ply/cpp.pyc",
+      "path_type": "hardlink",
+      "sha256": "2506d75ffef5b289594d3893b91035f4f0a1263843dc187688cb705c1f848ee3",
+      "size_in_bytes": 18757
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ply/ctokens.py",
+      "path_type": "hardlink",
+      "sha256": "30a92c9cde344de84f86055fc422618e3fc18cbf78ddaa6b78004a633f9b9746",
+      "size_in_bytes": 3177
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ply/ctokens.pyc",
+      "path_type": "hardlink",
+      "sha256": "46265c24b6e7a2abaf6e4b1974cb21bfca1cbd36868c5461e03a60f95b345712",
+      "size_in_bytes": 2900
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ply/lex.py",
+      "path_type": "hardlink",
+      "sha256": "b2c89e920aaaec62f3089e091c58b9a4f8956930da99276448b6957897c95630",
+      "size_in_bytes": 42924
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ply/lex.pyc",
+      "path_type": "hardlink",
+      "sha256": "d03066d4850414dc37cff68a8e85a76a7504cac760460e899b43d5e5e8dbaf9c",
+      "size_in_bytes": 26299
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ply/yacc.py",
+      "path_type": "hardlink",
+      "sha256": "d594b94497075e211266c3588bec4a7b237eb80d84ee39606cf1b4a30de62462",
+      "size_in_bytes": 137322
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ply/yacc.pyc",
+      "path_type": "hardlink",
+      "sha256": "1996e8421145ad6b44126f11f7a54f4ea8cbb51c6f583b3bed0ff8c904e267d9",
+      "size_in_bytes": 63932
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ply/ygen.py",
+      "path_type": "hardlink",
+      "sha256": "d8960d798b6b3f3d49ccb48b3b77781ac4bccc953c8d8fc8fc2475548f605ab0",
+      "size_in_bytes": 2251
+    },
+    {
+      "_path": "lib/python2.7/site-packages/ply/ygen.pyc",
+      "path_type": "hardlink",
+      "sha256": "a5cd4b275a3fa8770546002467b2a5c28afcf6d85d5baec80054d8446ce3784e",
+      "size_in_bytes": 2038
+    }
+  ],
+  "paths_version": 1
+}

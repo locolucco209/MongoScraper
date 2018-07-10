@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64", 
+  "build": "3", 
+  "build_number": 3, 
+  "depends": [
+    "jbig 2.1", 
+    "jpeg 9*", 
+    "xz 5.2.*", 
+    "zlib 1.2.*"
+  ], 
+  "license": "BSD-like", 
+  "license_family": "BSD", 
+  "name": "libtiff", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "4.0.6"
+}

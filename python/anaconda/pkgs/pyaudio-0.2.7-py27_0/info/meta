@@ -1,0 +1,7 @@
+pkg: pyaudio-0.2.7
+dist: pyaudio-0.2.7-py27_0
+home: http://people.csail.mit.edu/hubert/pyaudio/
+license: MIT
+has_bin: False
+has_lib: False
+has_py: True

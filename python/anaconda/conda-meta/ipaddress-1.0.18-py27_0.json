@@ -1,0 +1,26 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/ipaddress-1.0.18-py2.7.egg-info", 
+    "lib/python2.7/site-packages/ipaddress.py", 
+    "lib/python2.7/site-packages/ipaddress.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "Python Software Foundation License", 
+  "license_family": "PSF", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/ipaddress-1.0.18-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "536ea607c5b6aff00bb7fc609a9a1b12", 
+  "name": "ipaddress", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/ipaddress-1.0.18-py27_0.tar.bz2", 
+  "version": "1.0.18"
+}

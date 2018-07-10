@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "license": "Public-Domain, PSF, 2-clause BSD, GPLv3", 
+  "license_family": "GPL3", 
+  "name": "docutils", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "0.13.1"
+}

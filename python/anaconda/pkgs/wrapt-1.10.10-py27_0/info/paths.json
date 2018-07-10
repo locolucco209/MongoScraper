@@ -1,0 +1,77 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/wrapt-1.10.10-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "9c5707b6ba76caf9d8c71b2fb2ad72b00e3c919169bf94d68a95cd9643ddb476",
+      "size_in_bytes": 7431
+    },
+    {
+      "_path": "lib/python2.7/site-packages/wrapt/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "ca99c1966fc34f41214e635705e778ce4a0b5329eed0f5c824b2aa777b33bf2c",
+      "size_in_bytes": 699
+    },
+    {
+      "_path": "lib/python2.7/site-packages/wrapt/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "46613a3f6fb91e4d54b060d8ee5cb9587ad7021e25b65e4de3baba98a0614eda",
+      "size_in_bytes": 1166
+    },
+    {
+      "_path": "lib/python2.7/site-packages/wrapt/_wrappers.so",
+      "path_type": "hardlink",
+      "sha256": "7e6d3633b4b4e26926f5ef09642e1d586659434a77893d71f752626271ed7ede",
+      "size_in_bytes": 51712
+    },
+    {
+      "_path": "lib/python2.7/site-packages/wrapt/arguments.py",
+      "path_type": "hardlink",
+      "sha256": "330840ddd3cbff8d464efe8780849c6e1d3f8eeffe6d2a217f18fe60ab18fc4f",
+      "size_in_bytes": 4059
+    },
+    {
+      "_path": "lib/python2.7/site-packages/wrapt/arguments.pyc",
+      "path_type": "hardlink",
+      "sha256": "568cc41ce50ce221aa0a8c15536b197cb6462a5dea5722d35c032b61542e1132",
+      "size_in_bytes": 3154
+    },
+    {
+      "_path": "lib/python2.7/site-packages/wrapt/decorators.py",
+      "path_type": "hardlink",
+      "sha256": "3407beea4a4a787b2ac03712bc36e030173021281293ea150c661b2b785ce9c4",
+      "size_in_bytes": 20127
+    },
+    {
+      "_path": "lib/python2.7/site-packages/wrapt/decorators.pyc",
+      "path_type": "hardlink",
+      "sha256": "81fd50171e52433ba1d1e9a7303df3d9480774440071c9800c161a714a614ef8",
+      "size_in_bytes": 10678
+    },
+    {
+      "_path": "lib/python2.7/site-packages/wrapt/importer.py",
+      "path_type": "hardlink",
+      "sha256": "1c57f3f3bf088abe756731d9a6fa6b52feceb927bfab20e8d92cf1242625fb16",
+      "size_in_bytes": 7726
+    },
+    {
+      "_path": "lib/python2.7/site-packages/wrapt/importer.pyc",
+      "path_type": "hardlink",
+      "sha256": "5b86294ef817f6e17efbf5f63b4ed24179566878f297f81d09d7e32baea083b5",
+      "size_in_bytes": 5095
+    },
+    {
+      "_path": "lib/python2.7/site-packages/wrapt/wrappers.py",
+      "path_type": "hardlink",
+      "sha256": "0792fc970421de9ef6830daf8a51040d625953e618120053fdafe048c7bf5847",
+      "size_in_bytes": 32326
+    },
+    {
+      "_path": "lib/python2.7/site-packages/wrapt/wrappers.pyc",
+      "path_type": "hardlink",
+      "sha256": "00e94c639d4c73548a7db4fbf95f09ef01f702d770cccbf436ff730d568ba7f7",
+      "size_in_bytes": 27964
+    }
+  ],
+  "paths_version": 1
+}

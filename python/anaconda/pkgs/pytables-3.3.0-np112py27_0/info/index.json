@@ -1,0 +1,18 @@
+{
+  "arch": "x86_64", 
+  "build": "np112py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "hdf5 1.8.17", 
+    "numexpr", 
+    "numpy 1.12*", 
+    "python 2.7*", 
+    "six", 
+    "zlib 1.2.*"
+  ], 
+  "license": "BSD", 
+  "name": "pytables", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "3.3.0"
+}

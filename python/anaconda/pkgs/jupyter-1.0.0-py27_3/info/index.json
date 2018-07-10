@@ -1,0 +1,19 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_3", 
+  "build_number": 3, 
+  "depends": [
+    "ipykernel", 
+    "ipywidgets", 
+    "jupyter_console", 
+    "nbconvert", 
+    "notebook", 
+    "python 2.7*", 
+    "qtconsole"
+  ], 
+  "license": "BSD", 
+  "name": "jupyter", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "1.0.0"
+}

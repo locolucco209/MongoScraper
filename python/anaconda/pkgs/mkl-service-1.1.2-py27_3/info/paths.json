@@ -1,0 +1,35 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/mkl/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "4864cec6fe9ac8dc0e79ca89b8a0347cb877b60b97038f5429ddd7e732778c1f",
+      "size_in_bytes": 358
+    },
+    {
+      "_path": "lib/python2.7/site-packages/mkl/__init__.pyc",
+      "path_type": "hardlink",
+      "sha256": "7de263cc5fc4dd9dc8ffad720ab2abf2523bc01fd53e5d38ad6ba3e2a4bd9928",
+      "size_in_bytes": 587
+    },
+    {
+      "_path": "lib/python2.7/site-packages/mkl/service.so",
+      "path_type": "hardlink",
+      "sha256": "f7b3ced23b02a7035aad558674d180434b33ad6bcd957cf7258ea616b250da26",
+      "size_in_bytes": 11316
+    },
+    {
+      "_path": "lib/python2.7/site-packages/mkl/test.py",
+      "path_type": "hardlink",
+      "sha256": "84c2aa343e30feaf4b85e151e36489c74334c8e64165825eb154e0fba421ee71",
+      "size_in_bytes": 1342
+    },
+    {
+      "_path": "lib/python2.7/site-packages/mkl/test.pyc",
+      "path_type": "hardlink",
+      "sha256": "a5dd320fed4a15c864b77870bfed176bfb4aa3b882ca041e7b018d2ada57eb13",
+      "size_in_bytes": 2393
+    }
+  ],
+  "paths_version": 1
+}

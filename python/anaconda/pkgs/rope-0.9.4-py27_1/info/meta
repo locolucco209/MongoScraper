@@ -1,0 +1,11 @@
+pkg: rope-0.9.4
+dist: rope-0.9.4-py27_1
+home: http://rope.sourceforge.net/
+license: GPL
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

@@ -1,0 +1,7 @@
+{
+  "description": "jdcal contains functions for converting between Julian dates and calendar\ndates.\n", 
+  "dev_url": "https://github.com/phn/jdcal", 
+  "home": "http://github.com/phn/jdcal", 
+  "license": "BSD", 
+  "summary": "Julian dates from proleptic Gregorian and Julian calendars."
+}

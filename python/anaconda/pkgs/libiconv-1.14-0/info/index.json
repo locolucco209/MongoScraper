@@ -1,0 +1,12 @@
+{
+  "arch": "x86_64", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [], 
+  "license": "GPL and LGPL", 
+  "license_family": "GPL2", 
+  "name": "libiconv", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "1.14"
+}

@@ -1,0 +1,31 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "path.py", 
+    "pathlib2", 
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/pickleshare-0.7.4-py2.7.egg-info/PKG-INFO", 
+    "lib/python2.7/site-packages/pickleshare-0.7.4-py2.7.egg-info/SOURCES.txt", 
+    "lib/python2.7/site-packages/pickleshare-0.7.4-py2.7.egg-info/dependency_links.txt", 
+    "lib/python2.7/site-packages/pickleshare-0.7.4-py2.7.egg-info/requires.txt", 
+    "lib/python2.7/site-packages/pickleshare-0.7.4-py2.7.egg-info/top_level.txt", 
+    "lib/python2.7/site-packages/pickleshare.py", 
+    "lib/python2.7/site-packages/pickleshare.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "MIT", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/pickleshare-0.7.4-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "ca8660efc5c44d3ed82225cd4030d562", 
+  "name": "pickleshare", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/pickleshare-0.7.4-py27_0.tar.bz2", 
+  "version": "0.7.4"
+}

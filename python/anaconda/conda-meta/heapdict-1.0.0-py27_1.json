@@ -1,0 +1,25 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/HeapDict-1.0.0-py2.7.egg-info", 
+    "lib/python2.7/site-packages/heapdict.py", 
+    "lib/python2.7/site-packages/heapdict.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/heapdict-1.0.0-py27_1", 
+    "type": "hard-link"
+  }, 
+  "md5": "0762fd3479deede551f817d16ca4d179", 
+  "name": "heapdict", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/heapdict-1.0.0-py27_1.tar.bz2", 
+  "version": "1.0.0"
+}

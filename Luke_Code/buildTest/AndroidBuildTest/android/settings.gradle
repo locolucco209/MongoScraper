@@ -1,0 +1,3 @@
+rootProject.name = 'AndroidBuildTest'
+
+include ':app'

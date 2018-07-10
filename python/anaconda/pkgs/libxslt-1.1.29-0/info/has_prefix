@@ -1,0 +1,7 @@
+/opt/anaconda1anaconda2anaconda3 text bin/xslt-config
+/opt/anaconda1anaconda2anaconda3 text include/libxslt/xsltconfig.h
+/opt/anaconda1anaconda2anaconda3 text lib/libexslt.la
+/opt/anaconda1anaconda2anaconda3 text lib/libxslt.la
+/opt/anaconda1anaconda2anaconda3 text lib/pkgconfig/libexslt.pc
+/opt/anaconda1anaconda2anaconda3 text lib/pkgconfig/libxslt.pc
+/opt/anaconda1anaconda2anaconda3 text lib/xsltConf.sh

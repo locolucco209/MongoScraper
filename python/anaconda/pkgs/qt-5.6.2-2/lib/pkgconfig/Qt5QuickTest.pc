@@ -1,0 +1,14 @@
+prefix=/opt/anaconda1anaconda2anaconda3
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/qt
+
+
+Name: Qt5 QuickTest
+Description: Qt QuickTest module
+Version: 5.6.2
+Libs: -L${libdir} -lQt5QuickTest 
+Libs.private: -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Test -framework Security -framework Foundation -framework ApplicationServices -framework IOKit -framework DiskArbitration -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Widgets -lQt5Gui -lQt5Core -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Quick -L/opt/anaconda1anaconda2anaconda3/lib -framework DiskArbitration -framework IOKit -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Gui -lQt5Qml -lQt5Network -lQt5Core -framework OpenGL -framework AGL  
+Cflags: -I${includedir}/QtQuickTest -I${includedir}
+Requires: Qt5Core Qt5Test Qt5Widgets
+

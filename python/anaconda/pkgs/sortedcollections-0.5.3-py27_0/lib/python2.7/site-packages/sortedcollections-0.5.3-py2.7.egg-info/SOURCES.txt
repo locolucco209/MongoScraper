@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+sortedcollections/__init__.py
+sortedcollections/ordereddict.py
+sortedcollections/recipes.py
+sortedcollections.egg-info/PKG-INFO
+sortedcollections.egg-info/SOURCES.txt
+sortedcollections.egg-info/dependency_links.txt
+sortedcollections.egg-info/requires.txt
+sortedcollections.egg-info/top_level.txt

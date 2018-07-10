@@ -1,0 +1,14 @@
+prefix=/opt/anaconda1anaconda2anaconda3
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/qt
+
+
+Name: Qt5 Concurrent
+Description: Qt Concurrent module
+Version: 5.6.2
+Libs: -L${libdir} -lQt5Concurrent 
+Libs.private: -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Core -framework DiskArbitration -framework IOKit -L/opt/anaconda1anaconda2anaconda3/lib   
+Cflags: -I${includedir}/QtConcurrent -I${includedir}
+Requires: Qt5Core
+

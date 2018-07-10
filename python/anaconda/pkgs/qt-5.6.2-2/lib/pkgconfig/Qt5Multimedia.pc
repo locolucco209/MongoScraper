@@ -1,0 +1,14 @@
+prefix=/opt/anaconda1anaconda2anaconda3
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/qt
+
+
+Name: Qt5 Multimedia
+Description: Qt Multimedia module
+Version: 5.6.2
+Libs: -L${libdir} -lQt5Multimedia 
+Libs.private: -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Network -framework DiskArbitration -framework IOKit -L/opt/anaconda1anaconda2anaconda3/lib -lQt5Gui -lQt5Core -framework OpenGL -framework AGL  
+Cflags: -I${includedir}/QtMultimedia -I${includedir}
+Requires: Qt5Core Qt5Network Qt5Gui
+

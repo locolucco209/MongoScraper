@@ -1,0 +1,36 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/fastcache-1.0.2-py2.7.egg-info", 
+    "lib/python2.7/site-packages/fastcache/__init__.py", 
+    "lib/python2.7/site-packages/fastcache/__init__.pyc", 
+    "lib/python2.7/site-packages/fastcache/_lrucache.so", 
+    "lib/python2.7/site-packages/fastcache/benchmark.py", 
+    "lib/python2.7/site-packages/fastcache/benchmark.pyc", 
+    "lib/python2.7/site-packages/fastcache/tests/__init__.py", 
+    "lib/python2.7/site-packages/fastcache/tests/__init__.pyc", 
+    "lib/python2.7/site-packages/fastcache/tests/test_clrucache.py", 
+    "lib/python2.7/site-packages/fastcache/tests/test_clrucache.pyc", 
+    "lib/python2.7/site-packages/fastcache/tests/test_functools.py", 
+    "lib/python2.7/site-packages/fastcache/tests/test_functools.pyc", 
+    "lib/python2.7/site-packages/fastcache/tests/test_thread.py", 
+    "lib/python2.7/site-packages/fastcache/tests/test_thread.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "MIT", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/fastcache-1.0.2-py27_1", 
+    "type": "hard-link"
+  }, 
+  "md5": "94ec892f52e8e11bb8f8a927a22d340c", 
+  "name": "fastcache", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/fastcache-1.0.2-py27_1.tar.bz2", 
+  "version": "1.0.2"
+}

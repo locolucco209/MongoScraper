@@ -1,0 +1,13 @@
+bin/cjpeg
+bin/djpeg
+bin/jpegtran
+bin/rdjpgcom
+bin/wrjpgcom
+include/jconfig.h
+include/jerror.h
+include/jmorecfg.h
+include/jpeglib.h
+lib/libjpeg.9.dylib
+lib/libjpeg.a
+lib/libjpeg.dylib
+lib/libjpeg.la

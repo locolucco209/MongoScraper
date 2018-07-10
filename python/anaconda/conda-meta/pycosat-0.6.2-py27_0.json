@@ -1,0 +1,26 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/pycosat-0.6.2-py2.7.egg-info", 
+    "lib/python2.7/site-packages/pycosat.so", 
+    "lib/python2.7/site-packages/test_pycosat.py", 
+    "lib/python2.7/site-packages/test_pycosat.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "MIT", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/pycosat-0.6.2-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "7873249b468b84ed37a344f928c45266", 
+  "name": "pycosat", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/pycosat-0.6.2-py27_0.tar.bz2", 
+  "version": "0.6.2"
+}

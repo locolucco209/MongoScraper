@@ -1,0 +1,33 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*", 
+    "six"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg-info/PKG-INFO", 
+    "lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg-info/SOURCES.txt", 
+    "lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg-info/dependency_links.txt", 
+    "lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg-info/requires.txt", 
+    "lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg-info/top_level.txt", 
+    "lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg-info/zip-safe", 
+    "lib/python2.7/site-packages/singledispatch.py", 
+    "lib/python2.7/site-packages/singledispatch.pyc", 
+    "lib/python2.7/site-packages/singledispatch_helpers.py", 
+    "lib/python2.7/site-packages/singledispatch_helpers.pyc"
+  ], 
+  "installed_by": "Anaconda2-4.4.0-MacOSX-x86_64", 
+  "license": "MIT", 
+  "link": {
+    "source": "/Users/lukemassetti/anaconda/pkgs/singledispatch-3.4.0.3-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "38fc3c4659312843bae5d170225652a5", 
+  "name": "singledispatch", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/singledispatch-3.4.0.3-py27_0.tar.bz2", 
+  "version": "3.4.0.3"
+}

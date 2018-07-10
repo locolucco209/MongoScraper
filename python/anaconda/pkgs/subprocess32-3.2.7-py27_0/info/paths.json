@@ -1,0 +1,29 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python2.7/site-packages/_posixsubprocess.so",
+      "path_type": "hardlink",
+      "sha256": "f68854b65f90644ae8e0ccd86986e8df38a0b7154d561518ff48ba2822f22527",
+      "size_in_bytes": 21196
+    },
+    {
+      "_path": "lib/python2.7/site-packages/subprocess32-3.2.7-py2.7.egg-info",
+      "path_type": "hardlink",
+      "sha256": "5666f37a1e624f39ad1d5271492cda6a5305c767a3f05b17dd32ab6d92f52b2d",
+      "size_in_bytes": 1439
+    },
+    {
+      "_path": "lib/python2.7/site-packages/subprocess32.py",
+      "path_type": "hardlink",
+      "sha256": "a72bcfd60da9252d2a729ef8e88c8934002e2c3a455b75d756f60c7e466a732d",
+      "size_in_bytes": 74899
+    },
+    {
+      "_path": "lib/python2.7/site-packages/subprocess32.pyc",
+      "path_type": "hardlink",
+      "sha256": "d33d783cd6d80e8a9ee30ecd0b3c1ab8d77ab8f036e2dd86513645d2632681bd",
+      "size_in_bytes": 49451
+    }
+  ],
+  "paths_version": 1
+}
